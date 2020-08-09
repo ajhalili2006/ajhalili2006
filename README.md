@@ -12,8 +12,8 @@
 
 Here's my general stats:
 
-[![Andrei Jiroh's stats](https://github-readme-stats.vercel.app/api?username=AndreiJirohHaliliDev2006&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Andrei Jiroh's stats](https://gh-readme-stats-thepinsteam.vercel.app/api?username=AndreiJirohHaliliDev2006&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 And, here's my language usage stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiJirohHaliliDev2006&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://https://gh-readme-stats-thepinsteam.vercel.app//api/top-langs/?username=AndreiJirohHaliliDev2006&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
