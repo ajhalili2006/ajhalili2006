@@ -16,4 +16,4 @@ Here's my general stats:
 
 And, here's my language usage stats:
 
-[![Top Langs](https://https://gh-readme-stats-thepinsteam.vercel.app//api/top-langs/?username=AndreiJirohHaliliDev2006&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://https://gh-readme-stats-thepinsteam.vercel.app/api/top-langs/?username=AndreiJirohHaliliDev2006&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
