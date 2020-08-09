@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-![](header.png)
+![](https://raw.githubusercontent.com/AndreiJirohHaliliDev2006/AndreiJirohHaliliDev2006/master/header.png)
 
 - 🔭 I’m currently working on JavaScript/Node.js and Python
 - 🌱 I’m currently learning how to code with HTML/CSS, using Vercel, and everything I can find.
