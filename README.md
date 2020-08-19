@@ -12,6 +12,8 @@
 
 [![Top Langs](https://gh-readme-stats-thepinsteam.vercel.app/api/top-langs/?username=AndreiJirohHaliliDev2006&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Latest GitHub Activity
+
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#13](https://github.com//pokurt/GitGram/issues/13) in [pokurt/GitGram](https://github.com//pokurt/GitGram)
 2. ❌ Closed PR [#1](https://github.com//AndreiJirohHaliliDev2006/SibylSystem/pull/1) in [AndreiJirohHaliliDev2006/SibylSystem](https://github.com//AndreiJirohHaliliDev2006/SibylSystem)
