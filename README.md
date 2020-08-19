@@ -8,12 +8,15 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/Kuys_Potpot), [GitLab](https://www.gitlab.com/AndreiJirohHaliliDev2006), [Telegram](https://t.me/AJHalili2006), [Keybase](https://keybase.io/ajhalilidev06)
 - 😄 Pronouns: he/him/his
 
-## My stats
-
-Here's my general stats:
-
 [![Andrei Jiroh's stats](https://gh-readme-stats-thepinsteam.vercel.app/api?username=AndreiJirohHaliliDev2006&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-And, here's my language usage stats:
-
 [![Top Langs](https://gh-readme-stats-thepinsteam.vercel.app/api/top-langs/?username=AndreiJirohHaliliDev2006&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:activity-->
+
+## Find me elsehwere
+
+* Twitter: [@Kuys_Potpot](https://twitter.com)
+* Discord: `HaliliAJ06Jiroh#7159`
+* Telegram: [@AJHalili2006](https://telegram.dog/AJHalili2006)
+* Email: <andreijiroh@madebythepins.tk>
