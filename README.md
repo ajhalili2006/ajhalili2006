@@ -15,11 +15,11 @@
 ## Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com//MadeByThePinsHub/GitGram/issues/2) in [MadeByThePinsHub/GitGram](https://github.com//MadeByThePinsHub/GitGram)
-2. ❗️ Opened issue [#13](https://github.com//pokurt/GitGram/issues/13) in [pokurt/GitGram](https://github.com//pokurt/GitGram)
-3. ❌ Closed PR [#1](https://github.com//AndreiJirohHaliliDev2006/SibylSystem/pull/1) in [AndreiJirohHaliliDev2006/SibylSystem](https://github.com//AndreiJirohHaliliDev2006/SibylSystem)
-4. 💪 Opened PR [#2](https://github.com//StickPage-Community/Central-DB/pull/2) in [StickPage-Community/Central-DB](https://github.com//StickPage-Community/Central-DB)
-5. 💪 Opened PR [#1](https://github.com//nocturn9x/BotBase/pull/1) in [nocturn9x/BotBase](https://github.com//nocturn9x/BotBase)
+1. 🎉 Merged PR [#27](https://github.com//MadeByThePinsHub/Nana-Remix/pull/27) in [MadeByThePinsHub/Nana-Remix](https://github.com//MadeByThePinsHub/Nana-Remix)
+2. 🗣 Commented on [#27](https://github.com//MadeByThePinsHub/Nana-Remix/issues/27) in [MadeByThePinsHub/Nana-Remix](https://github.com//MadeByThePinsHub/Nana-Remix)
+3. 🗣 Commented on [#27](https://github.com//MadeByThePinsHub/Nana-Remix/issues/27) in [MadeByThePinsHub/Nana-Remix](https://github.com//MadeByThePinsHub/Nana-Remix)
+4. 🗣 Commented on [#2](https://github.com//MadeByThePinsHub/GitGram/issues/2) in [MadeByThePinsHub/GitGram](https://github.com//MadeByThePinsHub/GitGram)
+5. ❗️ Opened issue [#13](https://github.com//pokurt/GitGram/issues/13) in [pokurt/GitGram](https://github.com//pokurt/GitGram)
 <!--END_SECTION:activity-->
 
 ## Find me elsehwere
