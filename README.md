@@ -15,11 +15,11 @@
 ## Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com//MadeByThePinsHub/Nana-Remix/pull/27) in [MadeByThePinsHub/Nana-Remix](https://github.com//MadeByThePinsHub/Nana-Remix)
-2. 🗣 Commented on [#27](https://github.com//MadeByThePinsHub/Nana-Remix/issues/27) in [MadeByThePinsHub/Nana-Remix](https://github.com//MadeByThePinsHub/Nana-Remix)
-3. 🗣 Commented on [#27](https://github.com//MadeByThePinsHub/Nana-Remix/issues/27) in [MadeByThePinsHub/Nana-Remix](https://github.com//MadeByThePinsHub/Nana-Remix)
-4. 🗣 Commented on [#2](https://github.com//MadeByThePinsHub/GitGram/issues/2) in [MadeByThePinsHub/GitGram](https://github.com//MadeByThePinsHub/GitGram)
-5. ❗️ Opened issue [#13](https://github.com//pokurt/GitGram/issues/13) in [pokurt/GitGram](https://github.com//pokurt/GitGram)
+1. 🎉 Merged PR [#1](https://github.com//StickPage-Community/Starter-Pack/pull/1) in [StickPage-Community/Starter-Pack](https://github.com//StickPage-Community/Starter-Pack)
+2. 💪 Opened PR [#1](https://github.com//StickPage-Community/Starter-Pack/pull/1) in [StickPage-Community/Starter-Pack](https://github.com//StickPage-Community/Starter-Pack)
+3. 🎉 Merged PR [#27](https://github.com//MadeByThePinsHub/Nana-Remix/pull/27) in [MadeByThePinsHub/Nana-Remix](https://github.com//MadeByThePinsHub/Nana-Remix)
+4. 🗣 Commented on [#27](https://github.com//MadeByThePinsHub/Nana-Remix/issues/27) in [MadeByThePinsHub/Nana-Remix](https://github.com//MadeByThePinsHub/Nana-Remix)
+5. 🗣 Commented on [#27](https://github.com//MadeByThePinsHub/Nana-Remix/issues/27) in [MadeByThePinsHub/Nana-Remix](https://github.com//MadeByThePinsHub/Nana-Remix)
 <!--END_SECTION:activity-->
 
 ## Find me elsehwere
