@@ -15,11 +15,11 @@
 ## Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#142](https://github.com//gwillem/freeflarum.com/issues/142) in [gwillem/freeflarum.com](https://github.com//gwillem/freeflarum.com)
-2. 🗣 Commented on [#142](https://github.com//gwillem/freeflarum.com/issues/142) in [gwillem/freeflarum.com](https://github.com//gwillem/freeflarum.com)
-3. 🗣 Commented on [#119](https://github.com//gwillem/freeflarum.com/issues/119) in [gwillem/freeflarum.com](https://github.com//gwillem/freeflarum.com)
-4. ❗️ Opened issue [#142](https://github.com//gwillem/freeflarum.com/issues/142) in [gwillem/freeflarum.com](https://github.com//gwillem/freeflarum.com)
-5. 🗣 Commented on [#1](https://github.com//RecapTime/verify/issues/1) in [RecapTime/verify](https://github.com//RecapTime/verify)
+1. 🎉 Merged PR [#1](https://github.com//MadeByThePinsHub/github-activity-readme/pull/1) in [MadeByThePinsHub/github-activity-readme](https://github.com//MadeByThePinsHub/github-activity-readme)
+2. ❗️ Closed issue [#142](https://github.com//gwillem/freeflarum.com/issues/142) in [gwillem/freeflarum.com](https://github.com//gwillem/freeflarum.com)
+3. 🗣 Commented on [#142](https://github.com//gwillem/freeflarum.com/issues/142) in [gwillem/freeflarum.com](https://github.com//gwillem/freeflarum.com)
+4. 🗣 Commented on [#119](https://github.com//gwillem/freeflarum.com/issues/119) in [gwillem/freeflarum.com](https://github.com//gwillem/freeflarum.com)
+5. ❗️ Opened issue [#142](https://github.com//gwillem/freeflarum.com/issues/142) in [gwillem/freeflarum.com](https://github.com//gwillem/freeflarum.com)
 <!--END_SECTION:activity-->
 
 ## Find me elsehwere
