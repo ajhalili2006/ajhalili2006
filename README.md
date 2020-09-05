@@ -15,11 +15,11 @@
 ## Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com//TipzTeam/TipzTeam/issues/1) in [TipzTeam/TipzTeam](https://github.com//TipzTeam/TipzTeam)
-2. ❗️ Opened issue [#21](https://github.com//ReFlar/webhooks/issues/21) in [ReFlar/webhooks](https://github.com//ReFlar/webhooks)
-3. 🎉 Merged PR [#1](https://github.com//MadeByThePinsHub/github-activity-readme/pull/1) in [MadeByThePinsHub/github-activity-readme](https://github.com//MadeByThePinsHub/github-activity-readme)
-4. ❗️ Closed issue [#142](https://github.com//gwillem/freeflarum.com/issues/142) in [gwillem/freeflarum.com](https://github.com//gwillem/freeflarum.com)
-5. 🗣 Commented on [#142](https://github.com//gwillem/freeflarum.com/issues/142) in [gwillem/freeflarum.com](https://github.com//gwillem/freeflarum.com)
+1. 💪 Opened PR [#147](https://github.com//gwillem/freeflarum.com/pull/147) in [gwillem/freeflarum.com](https://github.com//gwillem/freeflarum.com)
+2. 🗣 Commented on [#1](https://github.com//TipzTeam/TipzTeam/issues/1) in [TipzTeam/TipzTeam](https://github.com//TipzTeam/TipzTeam)
+3. ❗️ Opened issue [#21](https://github.com//ReFlar/webhooks/issues/21) in [ReFlar/webhooks](https://github.com//ReFlar/webhooks)
+4. 🎉 Merged PR [#1](https://github.com//MadeByThePinsHub/github-activity-readme/pull/1) in [MadeByThePinsHub/github-activity-readme](https://github.com//MadeByThePinsHub/github-activity-readme)
+5. ❗️ Closed issue [#142](https://github.com//gwillem/freeflarum.com/issues/142) in [gwillem/freeflarum.com](https://github.com//gwillem/freeflarum.com)
 <!--END_SECTION:activity-->
 
 ## Find me elsehwere
