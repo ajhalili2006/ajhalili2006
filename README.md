@@ -15,11 +15,11 @@
 ## Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com//TipzTeam/TipzTeam/issues/1) in [TipzTeam/TipzTeam](https://github.com//TipzTeam/TipzTeam)
-2. 🗣 Commented on [#141](https://github.com//gwillem/freeflarum.com/issues/141) in [gwillem/freeflarum.com](https://github.com//gwillem/freeflarum.com)
-3. 💪 Opened PR [#147](https://github.com//gwillem/freeflarum.com/pull/147) in [gwillem/freeflarum.com](https://github.com//gwillem/freeflarum.com)
+1. 🗣 Commented on [#157](https://github.com//gwillem/freeflarum.com/issues/157) in [gwillem/freeflarum.com](https://github.com//gwillem/freeflarum.com)
+2. ❗️ Opened issue [#158](https://github.com//gwillem/freeflarum.com/issues/158) in [gwillem/freeflarum.com](https://github.com//gwillem/freeflarum.com)
+3. 💪 Opened PR [#157](https://github.com//gwillem/freeflarum.com/pull/157) in [gwillem/freeflarum.com](https://github.com//gwillem/freeflarum.com)
 4. 🗣 Commented on [#1](https://github.com//TipzTeam/TipzTeam/issues/1) in [TipzTeam/TipzTeam](https://github.com//TipzTeam/TipzTeam)
-5. ❗️ Opened issue [#21](https://github.com//ReFlar/webhooks/issues/21) in [ReFlar/webhooks](https://github.com//ReFlar/webhooks)
+5. 🗣 Commented on [#141](https://github.com//gwillem/freeflarum.com/issues/141) in [gwillem/freeflarum.com](https://github.com//gwillem/freeflarum.com)
 <!--END_SECTION:activity-->
 
 ## Find me elsehwere
