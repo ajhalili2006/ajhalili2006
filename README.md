@@ -15,11 +15,11 @@
 ## Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#158](https://github.com/gwillem/freeflarum.com/issues/158) in [gwillem/freeflarum.com](https://github.com/gwillem/freeflarum.com)
-2. 🗣 Commented on [#158](https://github.com/gwillem/freeflarum.com/issues/158) in [gwillem/freeflarum.com](https://github.com/gwillem/freeflarum.com)
-3. 🗣 Commented on [#157](https://github.com/gwillem/freeflarum.com/issues/157) in [gwillem/freeflarum.com](https://github.com/gwillem/freeflarum.com)
-4. ❗️ Opened issue [#158](https://github.com/gwillem/freeflarum.com/issues/158) in [gwillem/freeflarum.com](https://github.com/gwillem/freeflarum.com)
-5. 💪 Opened PR [#157](https://github.com/gwillem/freeflarum.com/pull/157) in [gwillem/freeflarum.com](https://github.com/gwillem/freeflarum.com)
+1. ❗️ Closed issue [#2](https://github.com/AndreiJirohHaliliDev2006/RecapTime-TelegramBot/issues/2) in [AndreiJirohHaliliDev2006/RecapTime-TelegramBot](https://github.com/AndreiJirohHaliliDev2006/RecapTime-TelegramBot)
+2. ❗️ Closed issue [#158](https://github.com/gwillem/freeflarum.com/issues/158) in [gwillem/freeflarum.com](https://github.com/gwillem/freeflarum.com)
+3. 🗣 Commented on [#158](https://github.com/gwillem/freeflarum.com/issues/158) in [gwillem/freeflarum.com](https://github.com/gwillem/freeflarum.com)
+4. 🗣 Commented on [#157](https://github.com/gwillem/freeflarum.com/issues/157) in [gwillem/freeflarum.com](https://github.com/gwillem/freeflarum.com)
+5. ❗️ Opened issue [#158](https://github.com/gwillem/freeflarum.com/issues/158) in [gwillem/freeflarum.com](https://github.com/gwillem/freeflarum.com)
 <!--END_SECTION:activity-->
 
 ## Find me elsehwere
