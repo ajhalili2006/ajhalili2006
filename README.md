@@ -17,11 +17,11 @@
 ## Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#159](https://github.com/gwillem/freeflarum.com/pull/159) in [gwillem/freeflarum.com](https://github.com/gwillem/freeflarum.com)
-2. ❗️ Closed issue [#2](https://github.com/AndreiJirohHaliliDev2006/RecapTime-TelegramBot/issues/2) in [AndreiJirohHaliliDev2006/RecapTime-TelegramBot](https://github.com/AndreiJirohHaliliDev2006/RecapTime-TelegramBot)
-3. ❗️ Closed issue [#158](https://github.com/gwillem/freeflarum.com/issues/158) in [gwillem/freeflarum.com](https://github.com/gwillem/freeflarum.com)
-4. 🗣 Commented on [#158](https://github.com/gwillem/freeflarum.com/issues/158) in [gwillem/freeflarum.com](https://github.com/gwillem/freeflarum.com)
-5. 🗣 Commented on [#157](https://github.com/gwillem/freeflarum.com/issues/157) in [gwillem/freeflarum.com](https://github.com/gwillem/freeflarum.com)
+1. 🗣 Commented on [#1](https://github.com/ThePinsTeam-FedSupport/SpamSamplesCollector/issues/1) in [ThePinsTeam-FedSupport/SpamSamplesCollector](https://github.com/ThePinsTeam-FedSupport/SpamSamplesCollector)
+2. 💪 Opened PR [#159](https://github.com/gwillem/freeflarum.com/pull/159) in [gwillem/freeflarum.com](https://github.com/gwillem/freeflarum.com)
+3. ❗️ Closed issue [#2](https://github.com/AndreiJirohHaliliDev2006/RecapTime-TelegramBot/issues/2) in [AndreiJirohHaliliDev2006/RecapTime-TelegramBot](https://github.com/AndreiJirohHaliliDev2006/RecapTime-TelegramBot)
+4. ❗️ Closed issue [#158](https://github.com/gwillem/freeflarum.com/issues/158) in [gwillem/freeflarum.com](https://github.com/gwillem/freeflarum.com)
+5. 🗣 Commented on [#158](https://github.com/gwillem/freeflarum.com/issues/158) in [gwillem/freeflarum.com](https://github.com/gwillem/freeflarum.com)
 <!--END_SECTION:activity-->
 
 ## Find me elsehwere
