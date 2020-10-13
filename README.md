@@ -17,8 +17,8 @@
 ## Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/MadeByThePinsHub/Nana-Remix/issues/29) in [MadeByThePinsHub/Nana-Remix](https://github.com/MadeByThePinsHub/Nana-Remix)
-2. 🗣 Commented on [#31](https://github.com/MadeByThePinsHub/Nana-Remix/issues/31) in [MadeByThePinsHub/Nana-Remix](https://github.com/MadeByThePinsHub/Nana-Remix)
+1. ❗️ Opened issue [#255](https://github.com/wei/pull/issues/255) in [wei/pull](https://github.com/wei/pull)
+2. 🗣 Commented on [#29](https://github.com/MadeByThePinsHub/Nana-Remix/issues/29) in [MadeByThePinsHub/Nana-Remix](https://github.com/MadeByThePinsHub/Nana-Remix)
 3. 🗣 Commented on [#31](https://github.com/MadeByThePinsHub/Nana-Remix/issues/31) in [MadeByThePinsHub/Nana-Remix](https://github.com/MadeByThePinsHub/Nana-Remix)
 4. 🗣 Commented on [#186](https://github.com/AnimeKaizoku/SaitamaRobot/issues/186) in [AnimeKaizoku/SaitamaRobot](https://github.com/AnimeKaizoku/SaitamaRobot)
 5. 💪 Opened PR [#173](https://github.com/UsergeTeam/Userge/pull/173) in [UsergeTeam/Userge](https://github.com/UsergeTeam/Userge)
