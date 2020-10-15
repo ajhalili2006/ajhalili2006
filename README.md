@@ -17,11 +17,11 @@
 ## Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#255](https://github.com/wei/pull/issues/255) in [wei/pull](https://github.com/wei/pull)
-2. 🗣 Commented on [#29](https://github.com/MadeByThePinsHub/Nana-Remix/issues/29) in [MadeByThePinsHub/Nana-Remix](https://github.com/MadeByThePinsHub/Nana-Remix)
-3. 🗣 Commented on [#31](https://github.com/MadeByThePinsHub/Nana-Remix/issues/31) in [MadeByThePinsHub/Nana-Remix](https://github.com/MadeByThePinsHub/Nana-Remix)
-4. 🗣 Commented on [#186](https://github.com/AnimeKaizoku/SaitamaRobot/issues/186) in [AnimeKaizoku/SaitamaRobot](https://github.com/AnimeKaizoku/SaitamaRobot)
-5. 💪 Opened PR [#173](https://github.com/UsergeTeam/Userge/pull/173) in [UsergeTeam/Userge](https://github.com/UsergeTeam/Userge)
+1. ❌ Closed PR [#2](https://github.com/MadeByThePinsHub/Userge/pull/2) in [MadeByThePinsHub/Userge](https://github.com/MadeByThePinsHub/Userge)
+2. ❌ Closed PR [#3](https://github.com/MadeByThePinsHub/Userge/pull/3) in [MadeByThePinsHub/Userge](https://github.com/MadeByThePinsHub/Userge)
+3. ❌ Closed PR [#4](https://github.com/MadeByThePinsHub/Userge/pull/4) in [MadeByThePinsHub/Userge](https://github.com/MadeByThePinsHub/Userge)
+4. 🎉 Merged PR [#1](https://github.com/MadeByThePinsHub/Userge/pull/1) in [MadeByThePinsHub/Userge](https://github.com/MadeByThePinsHub/Userge)
+5. ❗️ Opened issue [#255](https://github.com/wei/pull/issues/255) in [wei/pull](https://github.com/wei/pull)
 <!--END_SECTION:activity-->
 
 ## Find me elsehwere
