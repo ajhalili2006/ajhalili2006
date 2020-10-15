@@ -17,11 +17,11 @@
 ## Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/MadeByThePinsHub/Userge/pull/2) in [MadeByThePinsHub/Userge](https://github.com/MadeByThePinsHub/Userge)
-2. ❌ Closed PR [#3](https://github.com/MadeByThePinsHub/Userge/pull/3) in [MadeByThePinsHub/Userge](https://github.com/MadeByThePinsHub/Userge)
-3. ❌ Closed PR [#4](https://github.com/MadeByThePinsHub/Userge/pull/4) in [MadeByThePinsHub/Userge](https://github.com/MadeByThePinsHub/Userge)
-4. 🎉 Merged PR [#1](https://github.com/MadeByThePinsHub/Userge/pull/1) in [MadeByThePinsHub/Userge](https://github.com/MadeByThePinsHub/Userge)
-5. ❗️ Opened issue [#255](https://github.com/wei/pull/issues/255) in [wei/pull](https://github.com/wei/pull)
+1. 🎉 Merged PR [#1](https://github.com/MadeByThePinsHub/official-team-handbook/pull/1) in [MadeByThePinsHub/official-team-handbook](https://github.com/MadeByThePinsHub/official-team-handbook)
+2. ❌ Closed PR [#2](https://github.com/MadeByThePinsHub/Userge/pull/2) in [MadeByThePinsHub/Userge](https://github.com/MadeByThePinsHub/Userge)
+3. ❌ Closed PR [#3](https://github.com/MadeByThePinsHub/Userge/pull/3) in [MadeByThePinsHub/Userge](https://github.com/MadeByThePinsHub/Userge)
+4. ❌ Closed PR [#4](https://github.com/MadeByThePinsHub/Userge/pull/4) in [MadeByThePinsHub/Userge](https://github.com/MadeByThePinsHub/Userge)
+5. 🎉 Merged PR [#1](https://github.com/MadeByThePinsHub/Userge/pull/1) in [MadeByThePinsHub/Userge](https://github.com/MadeByThePinsHub/Userge)
 <!--END_SECTION:activity-->
 
 ## Find me elsehwere
