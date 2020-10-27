@@ -17,9 +17,9 @@
 ## Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8140](https://github.com/github/dmca/issues/8140) in [github/dmca](https://github.com/github/dmca)
+1. 🗣 Commented on [#255](https://github.com/wei/pull/issues/255) in [wei/pull](https://github.com/wei/pull)
 2. 🗣 Commented on [#8140](https://github.com/github/dmca/issues/8140) in [github/dmca](https://github.com/github/dmca)
-3. 🗣 Commented on [#31](https://github.com/MadeByThePinsHub/Nana-Remix/issues/31) in [MadeByThePinsHub/Nana-Remix](https://github.com/MadeByThePinsHub/Nana-Remix)
+3. 🗣 Commented on [#8140](https://github.com/github/dmca/issues/8140) in [github/dmca](https://github.com/github/dmca)
 4. 🗣 Commented on [#31](https://github.com/MadeByThePinsHub/Nana-Remix/issues/31) in [MadeByThePinsHub/Nana-Remix](https://github.com/MadeByThePinsHub/Nana-Remix)
 5. 🗣 Commented on [#19](https://github.com/codesandbox/codesandbox-importers/issues/19) in [codesandbox/codesandbox-importers](https://github.com/codesandbox/codesandbox-importers)
 <!--END_SECTION:activity-->
