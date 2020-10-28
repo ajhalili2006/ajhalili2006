@@ -17,11 +17,11 @@
 ## Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#266](https://github.com/wei/pull/issues/266) in [wei/pull](https://github.com/wei/pull)
-2. 🗣 Commented on [#255](https://github.com/wei/pull/issues/255) in [wei/pull](https://github.com/wei/pull)
-3. 🗣 Commented on [#8140](https://github.com/github/dmca/issues/8140) in [github/dmca](https://github.com/github/dmca)
-4. 🗣 Commented on [#8140](https://github.com/github/dmca/issues/8140) in [github/dmca](https://github.com/github/dmca)
-5. 🗣 Commented on [#31](https://github.com/MadeByThePinsHub/Nana-Remix/issues/31) in [MadeByThePinsHub/Nana-Remix](https://github.com/MadeByThePinsHub/Nana-Remix)
+1. 🗣 Commented on [#29](https://github.com/MadeByThePinsHub/Nana-Remix/issues/29) in [MadeByThePinsHub/Nana-Remix](https://github.com/MadeByThePinsHub/Nana-Remix)
+2. 🎉 Merged PR [#37](https://github.com/MadeByThePinsHub/Nana-Remix/pull/37) in [MadeByThePinsHub/Nana-Remix](https://github.com/MadeByThePinsHub/Nana-Remix)
+3. 🗣 Commented on [#266](https://github.com/wei/pull/issues/266) in [wei/pull](https://github.com/wei/pull)
+4. 🗣 Commented on [#255](https://github.com/wei/pull/issues/255) in [wei/pull](https://github.com/wei/pull)
+5. 🗣 Commented on [#8140](https://github.com/github/dmca/issues/8140) in [github/dmca](https://github.com/github/dmca)
 <!--END_SECTION:activity-->
 
 ## Find me elsehwere
