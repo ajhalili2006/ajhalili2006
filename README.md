@@ -17,11 +17,11 @@
 ## Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/pokurt/GitGram/issues/13) in [pokurt/GitGram](https://github.com/pokurt/GitGram)
-2. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/intergram/issues/1) in [MadeByThePinsHub/intergram](https://github.com/MadeByThePinsHub/intergram)
-3. 🎉 Merged PR [#10](https://github.com/MadeByThePinsHub/intergram/pull/10) in [MadeByThePinsHub/intergram](https://github.com/MadeByThePinsHub/intergram)
-4. 🎉 Merged PR [#19](https://github.com/MadeByThePinsHub/intergram/pull/19) in [MadeByThePinsHub/intergram](https://github.com/MadeByThePinsHub/intergram)
-5. 🎉 Merged PR [#10](https://github.com/MadeByThePinsHub/Userge/pull/10) in [MadeByThePinsHub/Userge](https://github.com/MadeByThePinsHub/Userge)
+1. 🎉 Merged PR [#1](https://github.com/MadeByThePinsHub/freeflarum.com/pull/1) in [MadeByThePinsHub/freeflarum.com](https://github.com/MadeByThePinsHub/freeflarum.com)
+2. 🗣 Commented on [#13](https://github.com/pokurt/GitGram/issues/13) in [pokurt/GitGram](https://github.com/pokurt/GitGram)
+3. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/intergram/issues/1) in [MadeByThePinsHub/intergram](https://github.com/MadeByThePinsHub/intergram)
+4. 🎉 Merged PR [#10](https://github.com/MadeByThePinsHub/intergram/pull/10) in [MadeByThePinsHub/intergram](https://github.com/MadeByThePinsHub/intergram)
+5. 🎉 Merged PR [#19](https://github.com/MadeByThePinsHub/intergram/pull/19) in [MadeByThePinsHub/intergram](https://github.com/MadeByThePinsHub/intergram)
 <!--END_SECTION:activity-->
 
 ## Find me elsehwere
