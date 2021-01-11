@@ -17,11 +17,11 @@
 ## Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ThePinsTeam-FedSupport/SpamSamplesCollector/pull/1) in [ThePinsTeam-FedSupport/SpamSamplesCollector](https://github.com/ThePinsTeam-FedSupport/SpamSamplesCollector)
-2. 💪 Opened PR [#4](https://github.com/wip/policies/pull/4) in [wip/policies](https://github.com/wip/policies)
-3. 🎉 Merged PR [#1](https://github.com/MadeByThePinsHub/freeflarum.com/pull/1) in [MadeByThePinsHub/freeflarum.com](https://github.com/MadeByThePinsHub/freeflarum.com)
-4. 🗣 Commented on [#13](https://github.com/pokurt/GitGram/issues/13) in [pokurt/GitGram](https://github.com/pokurt/GitGram)
-5. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/intergram/issues/1) in [MadeByThePinsHub/intergram](https://github.com/MadeByThePinsHub/intergram)
+1. 🗣 Commented on [#2](https://github.com/intellivoid/HarukaAya/issues/2) in [intellivoid/HarukaAya](https://github.com/intellivoid/HarukaAya)
+2. 🎉 Merged PR [#1](https://github.com/ThePinsTeam-FedSupport/SpamSamplesCollector/pull/1) in [ThePinsTeam-FedSupport/SpamSamplesCollector](https://github.com/ThePinsTeam-FedSupport/SpamSamplesCollector)
+3. 💪 Opened PR [#4](https://github.com/wip/policies/pull/4) in [wip/policies](https://github.com/wip/policies)
+4. 🎉 Merged PR [#1](https://github.com/MadeByThePinsHub/freeflarum.com/pull/1) in [MadeByThePinsHub/freeflarum.com](https://github.com/MadeByThePinsHub/freeflarum.com)
+5. 🗣 Commented on [#13](https://github.com/pokurt/GitGram/issues/13) in [pokurt/GitGram](https://github.com/pokurt/GitGram)
 <!--END_SECTION:activity-->
 
 ## Find me elsehwere
