@@ -17,11 +17,11 @@
 ## Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2859](https://github.com/gitpod-io/gitpod/issues/2859) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-2. 🗣 Commented on [#2](https://github.com/intellivoid/HarukaAya/issues/2) in [intellivoid/HarukaAya](https://github.com/intellivoid/HarukaAya)
-3. 🎉 Merged PR [#1](https://github.com/ThePinsTeam-FedSupport/SpamSamplesCollector/pull/1) in [ThePinsTeam-FedSupport/SpamSamplesCollector](https://github.com/ThePinsTeam-FedSupport/SpamSamplesCollector)
-4. 💪 Opened PR [#4](https://github.com/wip/policies/pull/4) in [wip/policies](https://github.com/wip/policies)
-5. 🎉 Merged PR [#1](https://github.com/MadeByThePinsHub/freeflarum.com/pull/1) in [MadeByThePinsHub/freeflarum.com](https://github.com/MadeByThePinsHub/freeflarum.com)
+1. 🎉 Merged PR [#1](https://github.com/BanWatch-API/docs/pull/1) in [BanWatch-API/docs](https://github.com/BanWatch-API/docs)
+2. ❗️ Opened issue [#2859](https://github.com/gitpod-io/gitpod/issues/2859) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+3. 🗣 Commented on [#2](https://github.com/intellivoid/HarukaAya/issues/2) in [intellivoid/HarukaAya](https://github.com/intellivoid/HarukaAya)
+4. 🎉 Merged PR [#1](https://github.com/ThePinsTeam-FedSupport/SpamSamplesCollector/pull/1) in [ThePinsTeam-FedSupport/SpamSamplesCollector](https://github.com/ThePinsTeam-FedSupport/SpamSamplesCollector)
+5. 💪 Opened PR [#4](https://github.com/wip/policies/pull/4) in [wip/policies](https://github.com/wip/policies)
 <!--END_SECTION:activity-->
 
 ## Find me elsehwere
