@@ -17,11 +17,11 @@
 ## Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#32](https://github.com/AnimeKaizoku/SibylSystem/issues/32) in [AnimeKaizoku/SibylSystem](https://github.com/AnimeKaizoku/SibylSystem)
-2. 🗣 Commented on [#10](https://github.com/intellivoid/HarukaAya/issues/10) in [intellivoid/HarukaAya](https://github.com/intellivoid/HarukaAya)
-3. 🎉 Merged PR [#1](https://github.com/BanWatch-API/docs/pull/1) in [BanWatch-API/docs](https://github.com/BanWatch-API/docs)
-4. ❗️ Opened issue [#2859](https://github.com/gitpod-io/gitpod/issues/2859) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-5. 🗣 Commented on [#2](https://github.com/intellivoid/HarukaAya/issues/2) in [intellivoid/HarukaAya](https://github.com/intellivoid/HarukaAya)
+1. 🗣 Commented on [#32](https://github.com/AnimeKaizoku/SibylSystem/issues/32) in [AnimeKaizoku/SibylSystem](https://github.com/AnimeKaizoku/SibylSystem)
+2. ❗️ Opened issue [#32](https://github.com/AnimeKaizoku/SibylSystem/issues/32) in [AnimeKaizoku/SibylSystem](https://github.com/AnimeKaizoku/SibylSystem)
+3. 🗣 Commented on [#10](https://github.com/intellivoid/HarukaAya/issues/10) in [intellivoid/HarukaAya](https://github.com/intellivoid/HarukaAya)
+4. 🎉 Merged PR [#1](https://github.com/BanWatch-API/docs/pull/1) in [BanWatch-API/docs](https://github.com/BanWatch-API/docs)
+5. ❗️ Opened issue [#2859](https://github.com/gitpod-io/gitpod/issues/2859) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 <!--END_SECTION:activity-->
 
 ## Find me elsehwere
