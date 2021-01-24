@@ -17,11 +17,11 @@
 ## Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/MadeByThePinsHub/docker-ubuntu-xrdp-mate-custom-VCPB/issues/2) in [MadeByThePinsHub/docker-ubuntu-xrdp-mate-custom-VCPB](https://github.com/MadeByThePinsHub/docker-ubuntu-xrdp-mate-custom-VCPB)
-2. ❗️ Opened issue [#43](https://github.com/rojserbest/vcpb/issues/43) in [rojserbest/vcpb](https://github.com/rojserbest/vcpb)
-3. 🗣 Commented on [#32](https://github.com/AnimeKaizoku/SibylSystem/issues/32) in [AnimeKaizoku/SibylSystem](https://github.com/AnimeKaizoku/SibylSystem)
-4. ❗️ Opened issue [#32](https://github.com/AnimeKaizoku/SibylSystem/issues/32) in [AnimeKaizoku/SibylSystem](https://github.com/AnimeKaizoku/SibylSystem)
-5. 🗣 Commented on [#10](https://github.com/intellivoid/HarukaAya/issues/10) in [intellivoid/HarukaAya](https://github.com/intellivoid/HarukaAya)
+1. ❗️ Opened issue [#305](https://github.com/wei/pull/issues/305) in [wei/pull](https://github.com/wei/pull)
+2. 🎉 Merged PR [#2](https://github.com/MadeByThePinsHub/docker-ubuntu-xrdp-mate-custom-VCPB/pull/2) in [MadeByThePinsHub/docker-ubuntu-xrdp-mate-custom-VCPB](https://github.com/MadeByThePinsHub/docker-ubuntu-xrdp-mate-custom-VCPB)
+3. 🗣 Commented on [#2](https://github.com/MadeByThePinsHub/docker-ubuntu-xrdp-mate-custom-VCPB/issues/2) in [MadeByThePinsHub/docker-ubuntu-xrdp-mate-custom-VCPB](https://github.com/MadeByThePinsHub/docker-ubuntu-xrdp-mate-custom-VCPB)
+4. ❗️ Opened issue [#43](https://github.com/rojserbest/vcpb/issues/43) in [rojserbest/vcpb](https://github.com/rojserbest/vcpb)
+5. 🗣 Commented on [#32](https://github.com/AnimeKaizoku/SibylSystem/issues/32) in [AnimeKaizoku/SibylSystem](https://github.com/AnimeKaizoku/SibylSystem)
 <!--END_SECTION:activity-->
 
 ## Find me elsehwere
