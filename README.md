@@ -17,11 +17,11 @@
 ## Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2254](https://github.com/squidfunk/mkdocs-material/pull/2254) in [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)
-2. 🎉 Merged PR [#88](https://github.com/AndreiJirohHaliliDev2006/mkdocs-material/pull/88) in [AndreiJirohHaliliDev2006/mkdocs-material](https://github.com/AndreiJirohHaliliDev2006/mkdocs-material)
-3. 🎉 Merged PR [#1](https://github.com/MadeByThePinsHub/vcpb/pull/1) in [MadeByThePinsHub/vcpb](https://github.com/MadeByThePinsHub/vcpb)
-4. 🎉 Merged PR [#3](https://github.com/MadeByThePinsHub/handbook/pull/3) in [MadeByThePinsHub/handbook](https://github.com/MadeByThePinsHub/handbook)
-5. 🗣 Commented on [#4](https://github.com/MadeByThePinsHub/handbook/issues/4) in [MadeByThePinsHub/handbook](https://github.com/MadeByThePinsHub/handbook)
+1. 🎉 Merged PR [#2](https://github.com/MadeByThePinsHub/vcpb/pull/2) in [MadeByThePinsHub/vcpb](https://github.com/MadeByThePinsHub/vcpb)
+2. 💪 Opened PR [#2254](https://github.com/squidfunk/mkdocs-material/pull/2254) in [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)
+3. 🎉 Merged PR [#88](https://github.com/AndreiJirohHaliliDev2006/mkdocs-material/pull/88) in [AndreiJirohHaliliDev2006/mkdocs-material](https://github.com/AndreiJirohHaliliDev2006/mkdocs-material)
+4. 🎉 Merged PR [#1](https://github.com/MadeByThePinsHub/vcpb/pull/1) in [MadeByThePinsHub/vcpb](https://github.com/MadeByThePinsHub/vcpb)
+5. 🎉 Merged PR [#3](https://github.com/MadeByThePinsHub/handbook/pull/3) in [MadeByThePinsHub/handbook](https://github.com/MadeByThePinsHub/handbook)
 <!--END_SECTION:activity-->
 
 ## Find me elsehwere
