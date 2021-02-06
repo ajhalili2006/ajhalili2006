@@ -17,11 +17,11 @@
 ## Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Community-Lores/mkdocs-material/pull/3) in [Community-Lores/mkdocs-material](https://github.com/Community-Lores/mkdocs-material)
-2. 💪 Opened PR [#3](https://github.com/Community-Lores/mkdocs-material/pull/3) in [Community-Lores/mkdocs-material](https://github.com/Community-Lores/mkdocs-material)
-3. 🎉 Merged PR [#2](https://github.com/Community-Lores/mkdocs-material/pull/2) in [Community-Lores/mkdocs-material](https://github.com/Community-Lores/mkdocs-material)
-4. 🎉 Merged PR [#1](https://github.com/Community-Lores/mkdocs-material/pull/1) in [Community-Lores/mkdocs-material](https://github.com/Community-Lores/mkdocs-material)
-5. 🎉 Merged PR [#2](https://github.com/MadeByThePinsHub/vcpb/pull/2) in [MadeByThePinsHub/vcpb](https://github.com/MadeByThePinsHub/vcpb)
+1. 🎉 Merged PR [#5](https://github.com/Community-Lores/mkdocs-material/pull/5) in [Community-Lores/mkdocs-material](https://github.com/Community-Lores/mkdocs-material)
+2. 🗣 Commented on [#5](https://github.com/Community-Lores/mkdocs-material/issues/5) in [Community-Lores/mkdocs-material](https://github.com/Community-Lores/mkdocs-material)
+3. 💪 Opened PR [#5](https://github.com/Community-Lores/mkdocs-material/pull/5) in [Community-Lores/mkdocs-material](https://github.com/Community-Lores/mkdocs-material)
+4. 🎉 Merged PR [#3](https://github.com/Community-Lores/mkdocs-material/pull/3) in [Community-Lores/mkdocs-material](https://github.com/Community-Lores/mkdocs-material)
+5. 💪 Opened PR [#3](https://github.com/Community-Lores/mkdocs-material/pull/3) in [Community-Lores/mkdocs-material](https://github.com/Community-Lores/mkdocs-material)
 <!--END_SECTION:activity-->
 
 ## Find me elsehwere
