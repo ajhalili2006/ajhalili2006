@@ -67,11 +67,11 @@ I'm an Filipino 14-year old junior high school student and I'm passoinate about 
 ### Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/MadeByThePinsHub/github-activity-readme/pull/4) in [MadeByThePinsHub/github-activity-readme](https://github.com/MadeByThePinsHub/github-activity-readme)
-2. 🎉 Merged PR [#5](https://github.com/Community-Lores/mkdocs-material/pull/5) in [Community-Lores/mkdocs-material](https://github.com/Community-Lores/mkdocs-material)
-3. 🗣 Commented on [#5](https://github.com/Community-Lores/mkdocs-material/issues/5) in [Community-Lores/mkdocs-material](https://github.com/Community-Lores/mkdocs-material)
-4. 💪 Opened PR [#5](https://github.com/Community-Lores/mkdocs-material/pull/5) in [Community-Lores/mkdocs-material](https://github.com/Community-Lores/mkdocs-material)
-5. 🎉 Merged PR [#3](https://github.com/Community-Lores/mkdocs-material/pull/3) in [Community-Lores/mkdocs-material](https://github.com/Community-Lores/mkdocs-material)
+1. 💪 Opened PR [#118](https://github.com/benawad/dogehouse/pull/118) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+2. 🗣 Commented on [#101](https://github.com/benawad/dogehouse/issues/101) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+3. 🗣 Commented on [#101](https://github.com/benawad/dogehouse/issues/101) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+4. 🗣 Commented on [#110](https://github.com/benawad/dogehouse/issues/110) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+5. 🗣 Commented on [#101](https://github.com/benawad/dogehouse/issues/101) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
 <!--END_SECTION:activity-->
 
 ---
