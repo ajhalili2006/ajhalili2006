@@ -13,15 +13,15 @@ I'm an Filipino 14-year old junior high school student and I'm passoinate about 
 * Node.js (less than 5 years of experience, since 2018)
 * Python (less than 5 years of experience, since 2018)
 
-## IDEs I'm Using
+### IDEs I'm Using
 
 * VS Code (when working locally) / Theia (on Gitpod workspaces)
 * Nano (for GUI-less editing)
 
 ### Operating Systems I Use Everyday
 
-* Windows 10 (since 2010)
-* Ubuntu LTS (since 2018 as VM in VirtualBox, since 2021 as dual-boot installation on real machine)
+* Microsoft Windows (since 2010, Windows 10 user since 2020)
+* Ubuntu (since 2018 as VM in VirtualBox, since 2021 as dual-boot installation on real machine, **only LTS as possible**)
 
 ### Skills 
 
