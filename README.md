@@ -67,11 +67,11 @@ I'm an Filipino 14-year old junior high school student and I'm passoinate about 
 ### Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/pokurt/GitGram/issues/15) in [pokurt/GitGram](https://github.com/pokurt/GitGram)
-2. 🗣 Commented on [#69](https://github.com/MadeByThePinsHub/Nana-Remix/issues/69) in [MadeByThePinsHub/Nana-Remix](https://github.com/MadeByThePinsHub/Nana-Remix)
-3. 🎉 Merged PR [#31](https://github.com/MadeByThePinsHub/Nana-Remix/pull/31) in [MadeByThePinsHub/Nana-Remix](https://github.com/MadeByThePinsHub/Nana-Remix)
-4. 🗣 Commented on [#118](https://github.com/benawad/dogehouse/issues/118) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-5. 🗣 Commented on [#183](https://github.com/benawad/dogehouse/issues/183) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+1. 🗣 Commented on [#118](https://github.com/benawad/dogehouse/issues/118) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+2. 🗣 Commented on [#15](https://github.com/pokurt/GitGram/issues/15) in [pokurt/GitGram](https://github.com/pokurt/GitGram)
+3. 🗣 Commented on [#69](https://github.com/MadeByThePinsHub/Nana-Remix/issues/69) in [MadeByThePinsHub/Nana-Remix](https://github.com/MadeByThePinsHub/Nana-Remix)
+4. 🎉 Merged PR [#31](https://github.com/MadeByThePinsHub/Nana-Remix/pull/31) in [MadeByThePinsHub/Nana-Remix](https://github.com/MadeByThePinsHub/Nana-Remix)
+5. 🗣 Commented on [#118](https://github.com/benawad/dogehouse/issues/118) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
 <!--END_SECTION:activity-->
 
 ---
