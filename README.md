@@ -1,4 +1,6 @@
 # Hello, world! 👋
+[![Profile views](https://gpvc.arturio.dev/AJHalili2006)](https://github.com/AndreiJirohHaliliDev2006)
+
 
 ![](https://raw.githubusercontent.com/AndreiJirohHaliliDev2006/AndreiJirohHaliliDev2006/master/header.png)
 
