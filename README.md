@@ -69,11 +69,11 @@ I'm an Filipino 14-year old junior high school student and I'm passoinate about 
 ### Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#111](https://github.com/okteto/charts/issues/111) in [okteto/charts](https://github.com/okteto/charts)
-2. 🗣 Commented on [#6348](https://github.com/termux/termux-packages/issues/6348) in [termux/termux-packages](https://github.com/termux/termux-packages)
-3. 🗣 Commented on [#381](https://github.com/AnimeKaizoku/SaitamaRobot/issues/381) in [AnimeKaizoku/SaitamaRobot](https://github.com/AnimeKaizoku/SaitamaRobot)
-4. 🗣 Commented on [#6348](https://github.com/termux/termux-packages/issues/6348) in [termux/termux-packages](https://github.com/termux/termux-packages)
-5. 🗣 Commented on [#118](https://github.com/benawad/dogehouse/issues/118) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+1. 🗣 Commented on [#5](https://github.com/suprojects/CallsMusic/issues/5) in [suprojects/CallsMusic](https://github.com/suprojects/CallsMusic)
+2. ❗️ Opened issue [#111](https://github.com/okteto/charts/issues/111) in [okteto/charts](https://github.com/okteto/charts)
+3. 🗣 Commented on [#6348](https://github.com/termux/termux-packages/issues/6348) in [termux/termux-packages](https://github.com/termux/termux-packages)
+4. 🗣 Commented on [#381](https://github.com/AnimeKaizoku/SaitamaRobot/issues/381) in [AnimeKaizoku/SaitamaRobot](https://github.com/AnimeKaizoku/SaitamaRobot)
+5. 🗣 Commented on [#6348](https://github.com/termux/termux-packages/issues/6348) in [termux/termux-packages](https://github.com/termux/termux-packages)
 <!--END_SECTION:activity-->
 
 ---
