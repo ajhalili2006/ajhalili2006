@@ -2,7 +2,7 @@ name: "Pull GH actiity and commit to the README"
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '*/3 * * * *'
 
 jobs:
   build:
