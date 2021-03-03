@@ -69,11 +69,11 @@ I'm an Filipino 14-year old junior high school student and I'm passoinate about 
 ### Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#240](https://github.com/divio/divio-cli/issues/240) in [divio/divio-cli](https://github.com/divio/divio-cli)
-2. ❗️ Opened issue [#240](https://github.com/divio/divio-cli/issues/240) in [divio/divio-cli](https://github.com/divio/divio-cli)
-3. 🗣 Commented on [#5](https://github.com/suprojects/CallsMusic/issues/5) in [suprojects/CallsMusic](https://github.com/suprojects/CallsMusic)
-4. ❗️ Opened issue [#111](https://github.com/okteto/charts/issues/111) in [okteto/charts](https://github.com/okteto/charts)
-5. 🗣 Commented on [#6348](https://github.com/termux/termux-packages/issues/6348) in [termux/termux-packages](https://github.com/termux/termux-packages)
+1. 💪 Opened PR [#241](https://github.com/divio/divio-cli/pull/241) in [divio/divio-cli](https://github.com/divio/divio-cli)
+2. 🗣 Commented on [#240](https://github.com/divio/divio-cli/issues/240) in [divio/divio-cli](https://github.com/divio/divio-cli)
+3. ❗️ Opened issue [#240](https://github.com/divio/divio-cli/issues/240) in [divio/divio-cli](https://github.com/divio/divio-cli)
+4. 🗣 Commented on [#5](https://github.com/suprojects/CallsMusic/issues/5) in [suprojects/CallsMusic](https://github.com/suprojects/CallsMusic)
+5. ❗️ Opened issue [#111](https://github.com/okteto/charts/issues/111) in [okteto/charts](https://github.com/okteto/charts)
 <!--END_SECTION:activity-->
 
 ---
