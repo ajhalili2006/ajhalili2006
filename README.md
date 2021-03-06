@@ -69,11 +69,11 @@ I'm an Filipino 14-year old junior high school student and I'm passoinate about 
 ### Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#575](https://github.com/benawad/dogehouse/issues/575) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-2. ❗️ Opened issue [#575](https://github.com/benawad/dogehouse/issues/575) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-3. 🗣 Commented on [#118](https://github.com/benawad/dogehouse/issues/118) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-4. ❗️ Opened issue [#560](https://github.com/benawad/dogehouse/issues/560) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-5. 💪 Opened PR [#241](https://github.com/divio/divio-cli/pull/241) in [divio/divio-cli](https://github.com/divio/divio-cli)
+1. ❌ Closed PR [#4](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/4) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
+2. ❌ Closed PR [#9](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/9) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
+3. 🎉 Merged PR [#2](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/2) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
+4. 🗣 Commented on [#575](https://github.com/benawad/dogehouse/issues/575) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+5. ❗️ Opened issue [#575](https://github.com/benawad/dogehouse/issues/575) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
 <!--END_SECTION:activity-->
 
 ---
