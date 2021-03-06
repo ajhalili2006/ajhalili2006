@@ -69,11 +69,11 @@ I'm an Filipino 14-year old junior high school student and I'm passoinate about 
 ### Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#118](https://github.com/benawad/dogehouse/issues/118) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-2. ❗️ Opened issue [#560](https://github.com/benawad/dogehouse/issues/560) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-3. 💪 Opened PR [#241](https://github.com/divio/divio-cli/pull/241) in [divio/divio-cli](https://github.com/divio/divio-cli)
-4. 🗣 Commented on [#240](https://github.com/divio/divio-cli/issues/240) in [divio/divio-cli](https://github.com/divio/divio-cli)
-5. ❗️ Opened issue [#240](https://github.com/divio/divio-cli/issues/240) in [divio/divio-cli](https://github.com/divio/divio-cli)
+1. 🗣 Commented on [#575](https://github.com/benawad/dogehouse/issues/575) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+2. ❗️ Opened issue [#575](https://github.com/benawad/dogehouse/issues/575) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+3. 🗣 Commented on [#118](https://github.com/benawad/dogehouse/issues/118) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+4. ❗️ Opened issue [#560](https://github.com/benawad/dogehouse/issues/560) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+5. 💪 Opened PR [#241](https://github.com/divio/divio-cli/pull/241) in [divio/divio-cli](https://github.com/divio/divio-cli)
 <!--END_SECTION:activity-->
 
 ---
