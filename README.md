@@ -69,11 +69,11 @@ I'm an Filipino 14-year old junior high school student and I'm passoinate about 
 ### Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#640](https://github.com/benawad/dogehouse/issues/640) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-2. 🎉 Merged PR [#10](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/10) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
-3. ❌ Closed PR [#4](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/4) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
-4. ❌ Closed PR [#9](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/9) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
-5. 🎉 Merged PR [#2](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/2) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
+1. 🎉 Merged PR [#11](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/11) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
+2. ❗️ Opened issue [#640](https://github.com/benawad/dogehouse/issues/640) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+3. 🎉 Merged PR [#10](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/10) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
+4. ❌ Closed PR [#4](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/4) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
+5. ❌ Closed PR [#9](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/9) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
 <!--END_SECTION:activity-->
 
 ---
