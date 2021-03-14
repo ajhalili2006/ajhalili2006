@@ -69,11 +69,11 @@ I'm an Filipino 14-year old junior high school student and I'm passoinate about 
 ### Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#933](https://github.com/benawad/dogehouse/issues/933) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-2. 🗣 Commented on [#3](https://github.com/ThePinsTeam-CustomImageBuilds/custom-gp-workspaces/issues/3) in [ThePinsTeam-CustomImageBuilds/custom-gp-workspaces](https://github.com/ThePinsTeam-CustomImageBuilds/custom-gp-workspaces)
-3. ❗️ Closed issue [#1](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/1) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
-4. ❗️ Opened issue [#2](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/2) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
-5. ❗️ Opened issue [#1](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/1) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
+1. 🗣 Commented on [#433](https://github.com/benawad/dogehouse/issues/433) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+2. ❗️ Opened issue [#933](https://github.com/benawad/dogehouse/issues/933) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+3. 🗣 Commented on [#3](https://github.com/ThePinsTeam-CustomImageBuilds/custom-gp-workspaces/issues/3) in [ThePinsTeam-CustomImageBuilds/custom-gp-workspaces](https://github.com/ThePinsTeam-CustomImageBuilds/custom-gp-workspaces)
+4. ❗️ Closed issue [#1](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/1) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
+5. ❗️ Opened issue [#2](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/2) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
 <!--END_SECTION:activity-->
 
 ---
