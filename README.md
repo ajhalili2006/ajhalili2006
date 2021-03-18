@@ -69,11 +69,11 @@ I'm an Filipino 14-year old junior high school student and I'm passoinate about 
 ### Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/MadeByThePinsHub/Rocket.Chat/pull/2) in [MadeByThePinsHub/Rocket.Chat](https://github.com/MadeByThePinsHub/Rocket.Chat)
-2. 🎉 Merged PR [#2](https://github.com/MadeByThePinsHub/dogehouse/pull/2) in [MadeByThePinsHub/dogehouse](https://github.com/MadeByThePinsHub/dogehouse)
-3. 🗣 Commented on [#433](https://github.com/benawad/dogehouse/issues/433) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-4. ❗️ Opened issue [#933](https://github.com/benawad/dogehouse/issues/933) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-5. 🗣 Commented on [#3](https://github.com/ThePinsTeam-CustomImageBuilds/custom-gp-workspaces/issues/3) in [ThePinsTeam-CustomImageBuilds/custom-gp-workspaces](https://github.com/ThePinsTeam-CustomImageBuilds/custom-gp-workspaces)
+1. 🗣 Commented on [#575](https://github.com/benawad/dogehouse/issues/575) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+2. 🎉 Merged PR [#2](https://github.com/MadeByThePinsHub/Rocket.Chat/pull/2) in [MadeByThePinsHub/Rocket.Chat](https://github.com/MadeByThePinsHub/Rocket.Chat)
+3. 🎉 Merged PR [#2](https://github.com/MadeByThePinsHub/dogehouse/pull/2) in [MadeByThePinsHub/dogehouse](https://github.com/MadeByThePinsHub/dogehouse)
+4. 🗣 Commented on [#433](https://github.com/benawad/dogehouse/issues/433) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+5. ❗️ Opened issue [#933](https://github.com/benawad/dogehouse/issues/933) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
 <!--END_SECTION:activity-->
 
 ---
