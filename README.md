@@ -69,11 +69,11 @@ I'm an Filipino 14-year old junior high school student and I'm passoinate about 
 ### Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/3) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
-2. 🗣 Commented on [#3](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/3) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
+1. 🗣 Commented on [#3471](https://github.com/canonical-web-and-design/snapcraft.io/issues/3471) in [canonical-web-and-design/snapcraft.io](https://github.com/canonical-web-and-design/snapcraft.io)
+2. ❗️ Opened issue [#3471](https://github.com/canonical-web-and-design/snapcraft.io/issues/3471) in [canonical-web-and-design/snapcraft.io](https://github.com/canonical-web-and-design/snapcraft.io)
 3. 🗣 Commented on [#3](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/3) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
-4. ❗️ Opened issue [#3](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/3) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
-5. ❗️ Closed issue [#1542](https://github.com/gitpod-io/gitpod/issues/1542) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+4. 🗣 Commented on [#3](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/3) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
+5. 🗣 Commented on [#3](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/3) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
 <!--END_SECTION:activity-->
 
 ---
