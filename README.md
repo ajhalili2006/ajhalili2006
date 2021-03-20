@@ -69,11 +69,11 @@ I'm an Filipino 14-year old junior high school student and I'm passoinate about 
 ### Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#366](https://github.com/gitpod-io/workspace-images/issues/366) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
-2. 🗣 Commented on [#3471](https://github.com/canonical-web-and-design/snapcraft.io/issues/3471) in [canonical-web-and-design/snapcraft.io](https://github.com/canonical-web-and-design/snapcraft.io)
-3. ❗️ Opened issue [#3471](https://github.com/canonical-web-and-design/snapcraft.io/issues/3471) in [canonical-web-and-design/snapcraft.io](https://github.com/canonical-web-and-design/snapcraft.io)
-4. 🗣 Commented on [#3](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/3) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
-5. 🗣 Commented on [#3](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/3) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
+1. ❗️ Closed issue [#3](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/3) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
+2. 🗣 Commented on [#3](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/3) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
+3. 🗣 Commented on [#366](https://github.com/gitpod-io/workspace-images/issues/366) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
+4. 🗣 Commented on [#3471](https://github.com/canonical-web-and-design/snapcraft.io/issues/3471) in [canonical-web-and-design/snapcraft.io](https://github.com/canonical-web-and-design/snapcraft.io)
+5. ❗️ Opened issue [#3471](https://github.com/canonical-web-and-design/snapcraft.io/issues/3471) in [canonical-web-and-design/snapcraft.io](https://github.com/canonical-web-and-design/snapcraft.io)
 <!--END_SECTION:activity-->
 
 ---
