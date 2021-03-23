@@ -69,11 +69,11 @@ I'm an Filipino 14-year old junior high school student and I'm passoinate about 
 ### Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/4) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
-2. 🗣 Commented on [#575](https://github.com/benawad/dogehouse/issues/575) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-3. ❗️ Closed issue [#3](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/3) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
-4. 🗣 Commented on [#3](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/3) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
-5. 🗣 Commented on [#366](https://github.com/gitpod-io/workspace-images/issues/366) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
+1. 🗣 Commented on [#27](https://github.com/snapcrafters/fork-and-rename-me/issues/27) in [snapcrafters/fork-and-rename-me](https://github.com/snapcrafters/fork-and-rename-me)
+2. ❗️ Opened issue [#4](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/4) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
+3. 🗣 Commented on [#575](https://github.com/benawad/dogehouse/issues/575) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+4. ❗️ Closed issue [#3](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/3) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
+5. 🗣 Commented on [#3](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/3) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
 <!--END_SECTION:activity-->
 
 ---
