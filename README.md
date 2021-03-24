@@ -69,11 +69,11 @@ I'm an Filipino 14-year old junior high school student and I'm passoinate about 
 ### Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AndreiJirohHaliliDev2006/charts/pull/1) in [AndreiJirohHaliliDev2006/charts](https://github.com/AndreiJirohHaliliDev2006/charts)
-2. ❗️ Opened issue [#121](https://github.com/okteto/charts/issues/121) in [okteto/charts](https://github.com/okteto/charts)
-3. 💪 Opened PR [#632](https://github.com/rms-open-letter/rms-open-letter.github.io/pull/632) in [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io)
-4. 🗣 Commented on [#4](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/4) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
-5. 🎉 Merged PR [#13](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/13) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
+1. 💪 Opened PR [#122](https://github.com/okteto/charts/pull/122) in [okteto/charts](https://github.com/okteto/charts)
+2. 🎉 Merged PR [#1](https://github.com/AndreiJirohHaliliDev2006/charts/pull/1) in [AndreiJirohHaliliDev2006/charts](https://github.com/AndreiJirohHaliliDev2006/charts)
+3. ❗️ Opened issue [#121](https://github.com/okteto/charts/issues/121) in [okteto/charts](https://github.com/okteto/charts)
+4. 💪 Opened PR [#632](https://github.com/rms-open-letter/rms-open-letter.github.io/pull/632) in [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io)
+5. 🗣 Commented on [#4](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/4) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
 <!--END_SECTION:activity-->
 
 ---
