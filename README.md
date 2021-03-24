@@ -69,11 +69,11 @@ I'm an Filipino 14-year old junior high school student and I'm passoinate about 
 ### Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#632](https://github.com/rms-open-letter/rms-open-letter.github.io/pull/632) in [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io)
-2. 🗣 Commented on [#4](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/4) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
-3. 🎉 Merged PR [#13](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/13) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
-4. 🗣 Commented on [#27](https://github.com/snapcrafters/fork-and-rename-me/issues/27) in [snapcrafters/fork-and-rename-me](https://github.com/snapcrafters/fork-and-rename-me)
-5. ❗️ Opened issue [#4](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/4) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
+1. ❗️ Opened issue [#121](https://github.com/okteto/charts/issues/121) in [okteto/charts](https://github.com/okteto/charts)
+2. 💪 Opened PR [#632](https://github.com/rms-open-letter/rms-open-letter.github.io/pull/632) in [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io)
+3. 🗣 Commented on [#4](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/4) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
+4. 🎉 Merged PR [#13](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/13) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
+5. 🗣 Commented on [#27](https://github.com/snapcrafters/fork-and-rename-me/issues/27) in [snapcrafters/fork-and-rename-me](https://github.com/snapcrafters/fork-and-rename-me)
 <!--END_SECTION:activity-->
 
 ---
