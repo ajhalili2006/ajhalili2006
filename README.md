@@ -53,6 +53,7 @@ Have questions, want to hire me, do some collaboration, or any inquiries to join
 
 ## Dev.to Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Handling requests to delete their account & move to the @ghost account for self-hosted Dev.to instances](https://dev.to/thepinsteam/handling-requests-to-delete-their-account-move-to-the-ghost-account-for-self-hosted-dev-to-instances-5hd9)
 <!-- BLOG-POST-LIST:END -->
 
 ## My stats
