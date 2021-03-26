@@ -51,6 +51,10 @@ Have questions, want to hire me, do some collaboration, or any inquiries to join
 
 ---
 
+## Dev.to Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## My stats
 
 ### TL;DR on my lifetime GitHub activity
@@ -71,7 +75,7 @@ Have questions, want to hire me, do some collaboration, or any inquiries to join
 
 </details>
 
-### Latest GitHub Activity
+## Latest GitHub Activity
 
 <details>
 <summary>Hidden for readibility</summary>
