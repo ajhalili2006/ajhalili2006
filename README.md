@@ -11,7 +11,9 @@ Node.js and Python programming and Linux system adminstration.
 
 ## Grins and Giggles About Me
 
-### Languages and Tools
+[See `MORE-INFO.md` file.](https://github.com/AndreiJirohHaliliDev2006/AndreiJirohHaliliDev2006/blob/master/MORE-INFO.md)
+
+## Languages and Tools
 
 ![Terminal](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png)
 ![VS Code](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png)
