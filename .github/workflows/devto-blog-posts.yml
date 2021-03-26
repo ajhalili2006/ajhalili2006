@@ -1,0 +1,20 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: "Update this repo's README with latest blog posts"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      # will fork later, but i prefer to stay because you can customize your committer email and username
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://dev.to/feed/ajhalili2006"
+          # https://github.com/MadeByThePinsHub/github-activity-readme/blob/master/index.js#L75
+          committer_username: Recap Time Bot
+          committer_email: service-accounts+github@devhubcentral.ml
