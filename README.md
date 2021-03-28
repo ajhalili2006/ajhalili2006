@@ -84,11 +84,11 @@ Have questions, want to hire me, do some collaboration, or any inquiries to join
 <summary>Hidden for readibility</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#122](https://github.com/okteto/charts/pull/122) in [okteto/charts](https://github.com/okteto/charts)
-2. 🎉 Merged PR [#1](https://github.com/AndreiJirohHaliliDev2006/charts/pull/1) in [AndreiJirohHaliliDev2006/charts](https://github.com/AndreiJirohHaliliDev2006/charts)
-3. ❗️ Opened issue [#121](https://github.com/okteto/charts/issues/121) in [okteto/charts](https://github.com/okteto/charts)
-4. 💪 Opened PR [#632](https://github.com/rms-open-letter/rms-open-letter.github.io/pull/632) in [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io)
-5. 🗣 Commented on [#4](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap/issues/4) in [MadeByThePinsHub/dogehouse-electron-app-snap](https://github.com/MadeByThePinsHub/dogehouse-electron-app-snap)
+1. 🗣 Commented on [#575](https://github.com/benawad/dogehouse/issues/575) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+2. 💪 Opened PR [#122](https://github.com/okteto/charts/pull/122) in [okteto/charts](https://github.com/okteto/charts)
+3. 🎉 Merged PR [#1](https://github.com/AndreiJirohHaliliDev2006/charts/pull/1) in [AndreiJirohHaliliDev2006/charts](https://github.com/AndreiJirohHaliliDev2006/charts)
+4. ❗️ Opened issue [#121](https://github.com/okteto/charts/issues/121) in [okteto/charts](https://github.com/okteto/charts)
+5. 💪 Opened PR [#632](https://github.com/rms-open-letter/rms-open-letter.github.io/pull/632) in [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io)
 <!--END_SECTION:activity-->
 
 </details>
