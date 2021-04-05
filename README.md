@@ -84,11 +84,11 @@ Have questions, want to hire me, do some collaboration, or any inquiries to join
 <summary>Hidden for readibility</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/popey/lbry-snap/issues/2) in [popey/lbry-snap](https://github.com/popey/lbry-snap)
-2. 🗣 Commented on [#575](https://github.com/benawad/dogehouse/issues/575) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+1. 🗣 Commented on [#1457](https://github.com/benawad/dogehouse/issues/1457) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+2. ❗️ Opened issue [#2](https://github.com/popey/lbry-snap/issues/2) in [popey/lbry-snap](https://github.com/popey/lbry-snap)
 3. 🗣 Commented on [#575](https://github.com/benawad/dogehouse/issues/575) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-4. 💪 Opened PR [#122](https://github.com/okteto/charts/pull/122) in [okteto/charts](https://github.com/okteto/charts)
-5. 🎉 Merged PR [#1](https://github.com/AndreiJirohHaliliDev2006/charts/pull/1) in [AndreiJirohHaliliDev2006/charts](https://github.com/AndreiJirohHaliliDev2006/charts)
+4. 🗣 Commented on [#575](https://github.com/benawad/dogehouse/issues/575) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+5. 💪 Opened PR [#122](https://github.com/okteto/charts/pull/122) in [okteto/charts](https://github.com/okteto/charts)
 <!--END_SECTION:activity-->
 
 </details>
