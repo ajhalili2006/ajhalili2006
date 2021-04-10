@@ -84,11 +84,11 @@ Have questions, want to hire me, do some collaboration, or any inquiries to join
 <summary>Hidden for readibility</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/popey/lbry-snap/issues/2) in [popey/lbry-snap](https://github.com/popey/lbry-snap)
-2. 🗣 Commented on [#2](https://github.com/popey/lbry-snap/issues/2) in [popey/lbry-snap](https://github.com/popey/lbry-snap)
-3. 🎉 Merged PR [#3](https://github.com/MadeByThePinsHub/dogehouse/pull/3) in [MadeByThePinsHub/dogehouse](https://github.com/MadeByThePinsHub/dogehouse)
-4. 🗣 Commented on [#1457](https://github.com/benawad/dogehouse/issues/1457) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-5. ❗️ Opened issue [#2](https://github.com/popey/lbry-snap/issues/2) in [popey/lbry-snap](https://github.com/popey/lbry-snap)
+1. 💪 Opened PR [#1947](https://github.com/benawad/dogehouse/pull/1947) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+2. ❗️ Closed issue [#2](https://github.com/popey/lbry-snap/issues/2) in [popey/lbry-snap](https://github.com/popey/lbry-snap)
+3. 🗣 Commented on [#2](https://github.com/popey/lbry-snap/issues/2) in [popey/lbry-snap](https://github.com/popey/lbry-snap)
+4. 🎉 Merged PR [#3](https://github.com/MadeByThePinsHub/dogehouse/pull/3) in [MadeByThePinsHub/dogehouse](https://github.com/MadeByThePinsHub/dogehouse)
+5. 🗣 Commented on [#1457](https://github.com/benawad/dogehouse/issues/1457) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
 <!--END_SECTION:activity-->
 
 </details>
