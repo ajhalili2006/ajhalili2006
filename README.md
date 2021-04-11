@@ -84,11 +84,11 @@ Have questions, want to hire me, do some collaboration, or any inquiries to join
 <summary>Hidden for readibility</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/12) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
-2. 💪 Opened PR [#1947](https://github.com/benawad/dogehouse/pull/1947) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-3. ❗️ Closed issue [#2](https://github.com/popey/lbry-snap/issues/2) in [popey/lbry-snap](https://github.com/popey/lbry-snap)
-4. 🗣 Commented on [#2](https://github.com/popey/lbry-snap/issues/2) in [popey/lbry-snap](https://github.com/popey/lbry-snap)
-5. 🎉 Merged PR [#3](https://github.com/MadeByThePinsHub/dogehouse/pull/3) in [MadeByThePinsHub/dogehouse](https://github.com/MadeByThePinsHub/dogehouse)
+1. 🗣 Commented on [#1958](https://github.com/benawad/dogehouse/issues/1958) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+2. 🎉 Merged PR [#12](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/12) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
+3. 💪 Opened PR [#1947](https://github.com/benawad/dogehouse/pull/1947) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+4. ❗️ Closed issue [#2](https://github.com/popey/lbry-snap/issues/2) in [popey/lbry-snap](https://github.com/popey/lbry-snap)
+5. 🗣 Commented on [#2](https://github.com/popey/lbry-snap/issues/2) in [popey/lbry-snap](https://github.com/popey/lbry-snap)
 <!--END_SECTION:activity-->
 
 </details>
