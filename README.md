@@ -34,11 +34,12 @@ Node.js and Python programming and Linux system adminstration.
 * [Community Lores](https://community-lores.github.io) - Maintainer
 * [Intellivoid SpamProtection API Wrapper for JavaScript](https://github.com/MadeByThePinsHub/Intellivoid-SPB-JS-Wrapper) - Author/Maintainer
 * [Team Handbook for The Pins Team](https://en.handbooksbythepins.gq) - Core Author
-* [BitwardenRS on Divio and Railway](https://github.com/AndreiJirohHaliliDev2006/bitwardenrs-on-divio) - Hard-fork of [bitwardenrs-heroku]() with scripts for automating deployment within minutes.
+* [BitwardenRS on Divio and Railway](https://github.com/AndreiJirohHaliliDev2006/bitwardenrs-on-divio) - Hard-fork of [bitwardenrs-heroku](https://github.com/std2main/bitwardenrs_heroku) with scripts for automating deployment within minutes.
 
 ## Contact me elsewhere
 
-Have questions, want to hire me, do some collaboration, or any inquiries to join The Pins Team? Hit me up using the following contact details, but please expect longer response times as I'm mostly active on Telegram.
+Have questions, want to hire me, do some collaboration, or any inquiries to join The Pins Team?
+Hit me up using the following contact details, but please expect longer response times as I'm mostly active on Telegram.
 
 * Telegram: [@AJHalili2006](https://telegram.dog/AJHalili2006)
 * Discord: `HaliliAJ06Jiroh#7159`
@@ -64,7 +65,7 @@ Have questions, want to hire me, do some collaboration, or any inquiries to join
 ### TL;DR on my lifetime GitHub activity
 
 <details>
-<summary>Hidden for readibility</summary>
+<summary>Stats containing the full activity snapshot for the lifetime of my GitHub account</summary>
 
 [![Andrei Jiroh's stats](https://gh-readme-stats-thepinsteam.vercel.app/api?username=AndreiJirohHaliliDev2006&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -73,7 +74,7 @@ Have questions, want to hire me, do some collaboration, or any inquiries to join
 ### Top Languages Used
 
 <details>
-<summary>Hidden for readibility</summary>
+<summary>These stats are for my personal repos and may not reflect on what I am really used.</summary>
 
 [![Top Langs](https://gh-readme-stats-thepinsteam.vercel.app/api/top-langs/?username=AndreiJirohHaliliDev2006&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -82,7 +83,7 @@ Have questions, want to hire me, do some collaboration, or any inquiries to join
 ## Latest GitHub Activity
 
 <details>
-<summary>Hidden for readibility</summary>
+<summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1958](https://github.com/benawad/dogehouse/issues/1958) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
