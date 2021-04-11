@@ -34,6 +34,7 @@ Node.js and Python programming and Linux system adminstration.
 * [Community Lores](https://community-lores.github.io) - Maintainer
 * [Intellivoid SpamProtection API Wrapper for JavaScript](https://github.com/MadeByThePinsHub/Intellivoid-SPB-JS-Wrapper) - Author/Maintainer
 * [Team Handbook for The Pins Team](https://en.handbooksbythepins.gq) - Core Author
+* [BitwardenRS on Divio and Railway](https://github.com/AndreiJirohHaliliDev2006/bitwardenrs-on-divio) - Hard-fork of [bitwardenrs-heroku]() with scripts for automating deployment within minutes.
 
 ## Contact me elsewhere
 
