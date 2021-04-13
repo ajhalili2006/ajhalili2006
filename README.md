@@ -94,3 +94,12 @@ Hit me up using the following contact details, but please expect longer response
 <!--END_SECTION:activity-->
 
 </details>
+
+## Screen Time as an Dev
+
+<details>
+<summary>Snapshot of my screentime as an dev in Wakatime since April 13, 2021</summary>
+
+[![Wakatime Stuff](https://gh-readme-stats-thepinsteam.vercel.app/api/wakatime?username=ajhalili2006)]()
+
+</details>
