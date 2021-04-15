@@ -86,11 +86,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/15) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
-2. 🗣 Commented on [#1958](https://github.com/benawad/dogehouse/issues/1958) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-3. 🗣 Commented on [#1958](https://github.com/benawad/dogehouse/issues/1958) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-4. 🎉 Merged PR [#12](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/12) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
-5. 💪 Opened PR [#1947](https://github.com/benawad/dogehouse/pull/1947) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+1. 🎉 Merged PR [#4](https://github.com/MadeByThePinsHub/dogehouse/pull/4) in [MadeByThePinsHub/dogehouse](https://github.com/MadeByThePinsHub/dogehouse)
+2. ❌ Closed PR [#1](https://github.com/MadeByThePinsHub/dogehouse/pull/1) in [MadeByThePinsHub/dogehouse](https://github.com/MadeByThePinsHub/dogehouse)
+3. 🗣 Commented on [#1967](https://github.com/benawad/dogehouse/issues/1967) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+4. 🗣 Commented on [#2024](https://github.com/benawad/dogehouse/issues/2024) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+5. 🎉 Merged PR [#15](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/15) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
 <!--END_SECTION:activity-->
 
 </details>
