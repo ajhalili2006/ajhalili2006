@@ -86,11 +86,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/RecapTime/recaptime.github.io/issues/2) in [RecapTime/recaptime.github.io](https://github.com/RecapTime/recaptime.github.io)
-2. ❗️ Opened issue [#2](https://github.com/RecapTime/recaptime.github.io/issues/2) in [RecapTime/recaptime.github.io](https://github.com/RecapTime/recaptime.github.io)
-3. ❗️ Opened issue [#1](https://github.com/RecapTime/recaptime.github.io/issues/1) in [RecapTime/recaptime.github.io](https://github.com/RecapTime/recaptime.github.io)
-4. 🎉 Merged PR [#14](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/14) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
-5. 🎉 Merged PR [#4](https://github.com/MadeByThePinsHub/dogehouse/pull/4) in [MadeByThePinsHub/dogehouse](https://github.com/MadeByThePinsHub/dogehouse)
+1. 💪 Opened PR [#2034](https://github.com/benawad/dogehouse/pull/2034) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+2. 🗣 Commented on [#2](https://github.com/RecapTime/recaptime.github.io/issues/2) in [RecapTime/recaptime.github.io](https://github.com/RecapTime/recaptime.github.io)
+3. ❗️ Opened issue [#2](https://github.com/RecapTime/recaptime.github.io/issues/2) in [RecapTime/recaptime.github.io](https://github.com/RecapTime/recaptime.github.io)
+4. ❗️ Opened issue [#1](https://github.com/RecapTime/recaptime.github.io/issues/1) in [RecapTime/recaptime.github.io](https://github.com/RecapTime/recaptime.github.io)
+5. 🎉 Merged PR [#14](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/14) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
 <!--END_SECTION:activity-->
 
 </details>
