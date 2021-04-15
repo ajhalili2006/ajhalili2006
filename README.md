@@ -86,11 +86,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2035](https://github.com/benawad/dogehouse/pull/2035) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-2. 💪 Opened PR [#2034](https://github.com/benawad/dogehouse/pull/2034) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-3. 🗣 Commented on [#2](https://github.com/RecapTime/recaptime.github.io/issues/2) in [RecapTime/recaptime.github.io](https://github.com/RecapTime/recaptime.github.io)
-4. ❗️ Opened issue [#2](https://github.com/RecapTime/recaptime.github.io/issues/2) in [RecapTime/recaptime.github.io](https://github.com/RecapTime/recaptime.github.io)
-5. ❗️ Opened issue [#1](https://github.com/RecapTime/recaptime.github.io/issues/1) in [RecapTime/recaptime.github.io](https://github.com/RecapTime/recaptime.github.io)
+1. 🗣 Commented on [#1](https://github.com/RecapTime/verify/issues/1) in [RecapTime/verify](https://github.com/RecapTime/verify)
+2. 💪 Opened PR [#2035](https://github.com/benawad/dogehouse/pull/2035) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+3. 💪 Opened PR [#2034](https://github.com/benawad/dogehouse/pull/2034) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+4. 🗣 Commented on [#2](https://github.com/RecapTime/recaptime.github.io/issues/2) in [RecapTime/recaptime.github.io](https://github.com/RecapTime/recaptime.github.io)
+5. ❗️ Opened issue [#2](https://github.com/RecapTime/recaptime.github.io/issues/2) in [RecapTime/recaptime.github.io](https://github.com/RecapTime/recaptime.github.io)
 <!--END_SECTION:activity-->
 
 </details>
