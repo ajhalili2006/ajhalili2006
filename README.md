@@ -41,15 +41,14 @@ Node.js and Python programming and Linux system adminstration.
 Have questions, want to hire me, do some collaboration, or any inquiries to join The Pins Team?
 Hit me up using the following contact details, but please expect longer response times as I'm mostly active on Telegram.
 
-* Telegram: [@AJHalili2006](https://telegram.dog/AJHalili2006)
+* Telegram: [@AJHalili2006](https://telegram.dog/AJHalili2006) - **Preferred way to contact me directly**
 * Discord: `HaliliAJ06Jiroh#7159`
 * Keybase: [ajhalilidev06](https://keybase.io/ajhalilidev06)
 * Email: <andreijiroh@madebythepins.tk>
 * Matrix: `@haliliaj06jiroh:matrix.org`
 * Mastodon: [@Kuys_Potpot@mastodon.online](https://mastodon.online/[@Kuys_Potpot)
 * Twitter: [@Kuys_Potpot](https://twitter.com/Kuys_Potpot)
-* Facebook: [@andreijiroh.halili23](https://fb.me/andreijiroh.halili23) -
-**Only available for family and IRL friends only. I prefer to use Telegram instead.**
+* Facebook: [@andreijiroh.halili23](https://fb.me/andreijiroh.halili23) - **Only available for family and IRL friends only. I prefer to use Telegram instead.**
 
 ---
 
@@ -62,14 +61,11 @@ Hit me up using the following contact details, but please expect longer response
 
 ## My stats
 
-### TL;DR on my lifetime GitHub activity
-
-<details>
-<summary>Stats containing the full activity snapshot for the lifetime of my GitHub account</summary>
+### TL;DR on my lifetime GitHub activity + the speedrun
 
 [![Andrei Jiroh's stats](https://gh-readme-stats-thepinsteam.vercel.app/api?username=AndreiJirohHaliliDev2006&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
+![Spreedrun Streaks](https://github-readme-streak-stats.herokuapp.com/?user=AndreiJirohHaliliDev2006&theme=dark)
 
 ### Top Languages Used
 
