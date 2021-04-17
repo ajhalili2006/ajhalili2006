@@ -6,7 +6,7 @@
 
 I'm Andrei Jiroh, if you're reading this you may want to know more about me.
 
-I'm an Filipino 14-year old junior high school student and I'm passoinate about
+I'm an Filipino 15-year old junior high school student and I'm passoinate about
 Node.js and Python programming and Linux system adminstration.
 
 ## Grins and Giggles About Me
