@@ -82,11 +82,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#133](https://github.com/oasis-sh/oasis/pull/133) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
-2. 🎉 Merged PR [#1](https://github.com/MadeByThePinsHub/kutt/pull/1) in [MadeByThePinsHub/kutt](https://github.com/MadeByThePinsHub/kutt)
-3. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/oasis/issues/1) in [MadeByThePinsHub/oasis](https://github.com/MadeByThePinsHub/oasis)
-4. ❌ Closed PR [#2](https://github.com/MadeByThePinsHub/oasis/pull/2) in [MadeByThePinsHub/oasis](https://github.com/MadeByThePinsHub/oasis)
-5. 🗣 Commented on [#2035](https://github.com/benawad/dogehouse/issues/2035) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+1. 🗣 Commented on [#133](https://github.com/oasis-sh/oasis/issues/133) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
+2. 💪 Opened PR [#133](https://github.com/oasis-sh/oasis/pull/133) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
+3. 🎉 Merged PR [#1](https://github.com/MadeByThePinsHub/kutt/pull/1) in [MadeByThePinsHub/kutt](https://github.com/MadeByThePinsHub/kutt)
+4. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/oasis/issues/1) in [MadeByThePinsHub/oasis](https://github.com/MadeByThePinsHub/oasis)
+5. ❌ Closed PR [#2](https://github.com/MadeByThePinsHub/oasis/pull/2) in [MadeByThePinsHub/oasis](https://github.com/MadeByThePinsHub/oasis)
 <!--END_SECTION:activity-->
 
 </details>
