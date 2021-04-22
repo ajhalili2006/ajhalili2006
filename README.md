@@ -82,11 +82,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#329](https://github.com/wei/pull/issues/329) in [wei/pull](https://github.com/wei/pull)
-2. 🗣 Commented on [#133](https://github.com/oasis-sh/oasis/issues/133) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
-3. 💪 Opened PR [#133](https://github.com/oasis-sh/oasis/pull/133) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
-4. 🎉 Merged PR [#1](https://github.com/MadeByThePinsHub/kutt/pull/1) in [MadeByThePinsHub/kutt](https://github.com/MadeByThePinsHub/kutt)
-5. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/oasis/issues/1) in [MadeByThePinsHub/oasis](https://github.com/MadeByThePinsHub/oasis)
+1. 🗣 Commented on [#320](https://github.com/wei/pull/issues/320) in [wei/pull](https://github.com/wei/pull)
+2. 🗣 Commented on [#329](https://github.com/wei/pull/issues/329) in [wei/pull](https://github.com/wei/pull)
+3. ❗️ Opened issue [#329](https://github.com/wei/pull/issues/329) in [wei/pull](https://github.com/wei/pull)
+4. 🗣 Commented on [#133](https://github.com/oasis-sh/oasis/issues/133) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
+5. 💪 Opened PR [#133](https://github.com/oasis-sh/oasis/pull/133) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
 <!--END_SECTION:activity-->
 
 </details>
