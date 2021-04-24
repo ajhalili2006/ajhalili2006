@@ -82,11 +82,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#330](https://github.com/wei/pull/pull/330) in [wei/pull](https://github.com/wei/pull)
-2. 🗣 Commented on [#125](https://github.com/oasis-sh/oasis/issues/125) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
-3. 🗣 Commented on [#2034](https://github.com/benawad/dogehouse/issues/2034) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-4. 🗣 Commented on [#320](https://github.com/wei/pull/issues/320) in [wei/pull](https://github.com/wei/pull)
-5. 🗣 Commented on [#329](https://github.com/wei/pull/issues/329) in [wei/pull](https://github.com/wei/pull)
+1. ❗️ Opened issue [#469](https://github.com/thedevs-network/kutt/issues/469) in [thedevs-network/kutt](https://github.com/thedevs-network/kutt)
+2. 💪 Opened PR [#330](https://github.com/wei/pull/pull/330) in [wei/pull](https://github.com/wei/pull)
+3. 🗣 Commented on [#125](https://github.com/oasis-sh/oasis/issues/125) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
+4. 🗣 Commented on [#2034](https://github.com/benawad/dogehouse/issues/2034) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+5. 🗣 Commented on [#320](https://github.com/wei/pull/issues/320) in [wei/pull](https://github.com/wei/pull)
 <!--END_SECTION:activity-->
 
 </details>
