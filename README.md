@@ -86,7 +86,7 @@ Hit me up using the following contact details, but please expect longer response
 2. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/contributor-agreement/issues/1) in [MadeByThePinsHub/contributor-agreement](https://github.com/MadeByThePinsHub/contributor-agreement)
 3. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/contributor-agreement/issues/1) in [MadeByThePinsHub/contributor-agreement](https://github.com/MadeByThePinsHub/contributor-agreement)
 4. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/contributor-agreement/issues/1) in [MadeByThePinsHub/contributor-agreement](https://github.com/MadeByThePinsHub/contributor-agreement)
-5. 💪 Opened PR [#1](https://github.com/MadeByThePinsHub/contributor-agreement/pull/1) in [MadeByThePinsHub/contributor-agreement](https://github.com/MadeByThePinsHub/contributor-agreement)
+5. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/contributor-agreement/issues/1) in [MadeByThePinsHub/contributor-agreement](https://github.com/MadeByThePinsHub/contributor-agreement)
 <!--END_SECTION:activity-->
 
 </details>
