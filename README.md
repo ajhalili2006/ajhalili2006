@@ -82,7 +82,7 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/contributor-agreement/issues/1) in [MadeByThePinsHub/contributor-agreement](https://github.com/MadeByThePinsHub/contributor-agreement)
+1. ❌ Closed PR [#1](https://github.com/MadeByThePinsHub/contributor-agreement/pull/1) in [MadeByThePinsHub/contributor-agreement](https://github.com/MadeByThePinsHub/contributor-agreement)
 2. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/contributor-agreement/issues/1) in [MadeByThePinsHub/contributor-agreement](https://github.com/MadeByThePinsHub/contributor-agreement)
 3. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/contributor-agreement/issues/1) in [MadeByThePinsHub/contributor-agreement](https://github.com/MadeByThePinsHub/contributor-agreement)
 4. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/contributor-agreement/issues/1) in [MadeByThePinsHub/contributor-agreement](https://github.com/MadeByThePinsHub/contributor-agreement)
