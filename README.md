@@ -28,6 +28,7 @@ Node.js and Python programming and Linux system adminstration.
 ## I'm working for
 
 * [The Pins Team](https://madebythepins.tk) - Founder + Software Dev
+* [Code Server Boilerplates](https://github.com/code-server-boilerplates) - Project Maintainer
 
 ## Currently working for
 
@@ -67,6 +68,8 @@ Hit me up using the following contact details, but please expect longer response
 
 ![Spreedrun Streaks](https://github-readme-streak-stats.herokuapp.com/?user=AndreiJirohHaliliDev2006&theme=dark)
 
+![Achivements](https://github-profile-trophy.vercel.app/?username=AndreiJirohHaliliDev2006)
+
 ### Top Languages Used
 
 <details>
@@ -76,7 +79,7 @@ Hit me up using the following contact details, but please expect longer response
 
 </details>
 
-## Latest GitHub Activity
+### Latest GitHub Activity
 
 <details>
 <summary>Recent GitHub activity pulled through an CI</summary>
@@ -91,7 +94,7 @@ Hit me up using the following contact details, but please expect longer response
 
 </details>
 
-## Screen Time as an Dev
+### Screen Time as an Dev
 
 <details>
 <summary>Snapshot of my screentime as an dev in Wakatime since April 13, 2021</summary>
