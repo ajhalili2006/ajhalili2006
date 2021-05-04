@@ -85,11 +85,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/MadeByThePinsHub/are-we-down/issues/3) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
-2. 🗣 Commented on [#2](https://github.com/MadeByThePinsHub/are-we-down/issues/2) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
-3. ❗️ Closed issue [#1](https://github.com/MadeByThePinsHub/are-we-down/issues/1) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
-4. 🗣 Commented on [#2](https://github.com/cdr/deploy-code-server/issues/2) in [cdr/deploy-code-server](https://github.com/cdr/deploy-code-server)
-5. 🗣 Commented on [#133](https://github.com/oasis-sh/oasis/issues/133) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
+1. 🗣 Commented on [#14](https://github.com/MadeByThePinsHub/are-we-down/issues/14) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
+2. 🗣 Commented on [#14](https://github.com/MadeByThePinsHub/are-we-down/issues/14) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
+3. 🗣 Commented on [#3](https://github.com/MadeByThePinsHub/are-we-down/issues/3) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
+4. 🗣 Commented on [#2](https://github.com/MadeByThePinsHub/are-we-down/issues/2) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
+5. ❗️ Closed issue [#1](https://github.com/MadeByThePinsHub/are-we-down/issues/1) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
 <!--END_SECTION:activity-->
 
 </details>
