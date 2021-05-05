@@ -85,11 +85,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/AndreiJirohHaliliDev2006/write-github-script/pull/4) in [AndreiJirohHaliliDev2006/write-github-script](https://github.com/AndreiJirohHaliliDev2006/write-github-script)
-2. 💪 Opened PR [#4](https://github.com/AndreiJirohHaliliDev2006/write-github-script/pull/4) in [AndreiJirohHaliliDev2006/write-github-script](https://github.com/AndreiJirohHaliliDev2006/write-github-script)
-3. 🎉 Merged PR [#2](https://github.com/AndreiJirohHaliliDev2006/write-github-script/pull/2) in [AndreiJirohHaliliDev2006/write-github-script](https://github.com/AndreiJirohHaliliDev2006/write-github-script)
-4. 💪 Opened PR [#2](https://github.com/AndreiJirohHaliliDev2006/write-github-script/pull/2) in [AndreiJirohHaliliDev2006/write-github-script](https://github.com/AndreiJirohHaliliDev2006/write-github-script)
-5. 🗣 Commented on [#14](https://github.com/MadeByThePinsHub/are-we-down/issues/14) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
+1. ❗️ Closed issue [#8](https://github.com/AndreiJirohHaliliDev2006/write-github-script/issues/8) in [AndreiJirohHaliliDev2006/write-github-script](https://github.com/AndreiJirohHaliliDev2006/write-github-script)
+2. ❗️ Opened issue [#8](https://github.com/AndreiJirohHaliliDev2006/write-github-script/issues/8) in [AndreiJirohHaliliDev2006/write-github-script](https://github.com/AndreiJirohHaliliDev2006/write-github-script)
+3. 🎉 Merged PR [#6](https://github.com/AndreiJirohHaliliDev2006/write-github-script/pull/6) in [AndreiJirohHaliliDev2006/write-github-script](https://github.com/AndreiJirohHaliliDev2006/write-github-script)
+4. 💪 Opened PR [#6](https://github.com/AndreiJirohHaliliDev2006/write-github-script/pull/6) in [AndreiJirohHaliliDev2006/write-github-script](https://github.com/AndreiJirohHaliliDev2006/write-github-script)
+5. 🎉 Merged PR [#4](https://github.com/AndreiJirohHaliliDev2006/write-github-script/pull/4) in [AndreiJirohHaliliDev2006/write-github-script](https://github.com/AndreiJirohHaliliDev2006/write-github-script)
 <!--END_SECTION:activity-->
 
 </details>
