@@ -85,11 +85,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/AndreiJirohHaliliDev2006/github-slideshow/issues/1) in [AndreiJirohHaliliDev2006/github-slideshow](https://github.com/AndreiJirohHaliliDev2006/github-slideshow)
-2. 🎉 Merged PR [#7](https://github.com/AndreiJirohHaliliDev2006/innersource/pull/7) in [AndreiJirohHaliliDev2006/innersource](https://github.com/AndreiJirohHaliliDev2006/innersource)
-3. 🗣 Commented on [#7](https://github.com/AndreiJirohHaliliDev2006/innersource/issues/7) in [AndreiJirohHaliliDev2006/innersource](https://github.com/AndreiJirohHaliliDev2006/innersource)
-4. 🎉 Merged PR [#6](https://github.com/AndreiJirohHaliliDev2006/innersource/pull/6) in [AndreiJirohHaliliDev2006/innersource](https://github.com/AndreiJirohHaliliDev2006/innersource)
-5. 🎉 Merged PR [#5](https://github.com/AndreiJirohHaliliDev2006/innersource/pull/5) in [AndreiJirohHaliliDev2006/innersource](https://github.com/AndreiJirohHaliliDev2006/innersource)
+1. 🎉 Merged PR [#3](https://github.com/AndreiJirohHaliliDev2006/github-slideshow/pull/3) in [AndreiJirohHaliliDev2006/github-slideshow](https://github.com/AndreiJirohHaliliDev2006/github-slideshow)
+2. 💪 Opened PR [#3](https://github.com/AndreiJirohHaliliDev2006/github-slideshow/pull/3) in [AndreiJirohHaliliDev2006/github-slideshow](https://github.com/AndreiJirohHaliliDev2006/github-slideshow)
+3. ❗️ Closed issue [#1](https://github.com/AndreiJirohHaliliDev2006/github-slideshow/issues/1) in [AndreiJirohHaliliDev2006/github-slideshow](https://github.com/AndreiJirohHaliliDev2006/github-slideshow)
+4. 🎉 Merged PR [#7](https://github.com/AndreiJirohHaliliDev2006/innersource/pull/7) in [AndreiJirohHaliliDev2006/innersource](https://github.com/AndreiJirohHaliliDev2006/innersource)
+5. 🗣 Commented on [#7](https://github.com/AndreiJirohHaliliDev2006/innersource/issues/7) in [AndreiJirohHaliliDev2006/innersource](https://github.com/AndreiJirohHaliliDev2006/innersource)
 <!--END_SECTION:activity-->
 
 </details>
