@@ -89,7 +89,7 @@ Hit me up using the following contact details, but please expect longer response
 2. 🗣 Commented on [#1](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk/issues/1) in [code-server-boilerplates/cdrs-deploy.repohubdev.tk](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk)
 3. 🗣 Commented on [#1](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk/issues/1) in [code-server-boilerplates/cdrs-deploy.repohubdev.tk](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk)
 4. 🗣 Commented on [#1](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk/issues/1) in [code-server-boilerplates/cdrs-deploy.repohubdev.tk](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk)
-5. 💪 Opened PR [#1](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk/pull/1) in [code-server-boilerplates/cdrs-deploy.repohubdev.tk](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk)
+5. 🗣 Commented on [#1](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk/issues/1) in [code-server-boilerplates/cdrs-deploy.repohubdev.tk](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk)
 <!--END_SECTION:activity-->
 
 </details>
