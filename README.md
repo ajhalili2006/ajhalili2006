@@ -85,11 +85,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/AndreiJirohHaliliDev2006/release-based-workflow/pull/6) in [AndreiJirohHaliliDev2006/release-based-workflow](https://github.com/AndreiJirohHaliliDev2006/release-based-workflow)
-2. 🎉 Merged PR [#8](https://github.com/AndreiJirohHaliliDev2006/release-based-workflow/pull/8) in [AndreiJirohHaliliDev2006/release-based-workflow](https://github.com/AndreiJirohHaliliDev2006/release-based-workflow)
-3. 💪 Opened PR [#8](https://github.com/AndreiJirohHaliliDev2006/release-based-workflow/pull/8) in [AndreiJirohHaliliDev2006/release-based-workflow](https://github.com/AndreiJirohHaliliDev2006/release-based-workflow)
-4. 💪 Opened PR [#6](https://github.com/AndreiJirohHaliliDev2006/release-based-workflow/pull/6) in [AndreiJirohHaliliDev2006/release-based-workflow](https://github.com/AndreiJirohHaliliDev2006/release-based-workflow)
-5. 🎉 Merged PR [#4](https://github.com/AndreiJirohHaliliDev2006/release-based-workflow/pull/4) in [AndreiJirohHaliliDev2006/release-based-workflow](https://github.com/AndreiJirohHaliliDev2006/release-based-workflow)
+1. 🗣 Commented on [#1](https://github.com/AndreiJirohHaliliDev2006/markdown-portfolio/issues/1) in [AndreiJirohHaliliDev2006/markdown-portfolio](https://github.com/AndreiJirohHaliliDev2006/markdown-portfolio)
+2. ❗️ Closed issue [#13](https://github.com/AndreiJirohHaliliDev2006/release-based-workflow/issues/13) in [AndreiJirohHaliliDev2006/release-based-workflow](https://github.com/AndreiJirohHaliliDev2006/release-based-workflow)
+3. 🗣 Commented on [#13](https://github.com/AndreiJirohHaliliDev2006/release-based-workflow/issues/13) in [AndreiJirohHaliliDev2006/release-based-workflow](https://github.com/AndreiJirohHaliliDev2006/release-based-workflow)
+4. 🎉 Merged PR [#6](https://github.com/AndreiJirohHaliliDev2006/release-based-workflow/pull/6) in [AndreiJirohHaliliDev2006/release-based-workflow](https://github.com/AndreiJirohHaliliDev2006/release-based-workflow)
+5. 🎉 Merged PR [#8](https://github.com/AndreiJirohHaliliDev2006/release-based-workflow/pull/8) in [AndreiJirohHaliliDev2006/release-based-workflow](https://github.com/AndreiJirohHaliliDev2006/release-based-workflow)
 <!--END_SECTION:activity-->
 
 </details>
