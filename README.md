@@ -85,11 +85,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk/pull/1) in [code-server-boilerplates/cdrs-deploy.repohubdev.tk](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk)
-2. 🗣 Commented on [#1](https://github.com/githubschool/sync/issues/1) in [githubschool/sync](https://github.com/githubschool/sync)
-3. 🎉 Merged PR [#2](https://github.com/AndreiJirohHaliliDev2006/markdown-portfolio/pull/2) in [AndreiJirohHaliliDev2006/markdown-portfolio](https://github.com/AndreiJirohHaliliDev2006/markdown-portfolio)
-4. 🗣 Commented on [#1](https://github.com/AndreiJirohHaliliDev2006/markdown-portfolio/issues/1) in [AndreiJirohHaliliDev2006/markdown-portfolio](https://github.com/AndreiJirohHaliliDev2006/markdown-portfolio)
-5. ❗️ Closed issue [#13](https://github.com/AndreiJirohHaliliDev2006/release-based-workflow/issues/13) in [AndreiJirohHaliliDev2006/release-based-workflow](https://github.com/AndreiJirohHaliliDev2006/release-based-workflow)
+1. 🗣 Commented on [#1](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk/issues/1) in [code-server-boilerplates/cdrs-deploy.repohubdev.tk](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk)
+2. 💪 Opened PR [#1](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk/pull/1) in [code-server-boilerplates/cdrs-deploy.repohubdev.tk](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk)
+3. 🗣 Commented on [#1](https://github.com/githubschool/sync/issues/1) in [githubschool/sync](https://github.com/githubschool/sync)
+4. 🎉 Merged PR [#2](https://github.com/AndreiJirohHaliliDev2006/markdown-portfolio/pull/2) in [AndreiJirohHaliliDev2006/markdown-portfolio](https://github.com/AndreiJirohHaliliDev2006/markdown-portfolio)
+5. 🗣 Commented on [#1](https://github.com/AndreiJirohHaliliDev2006/markdown-portfolio/issues/1) in [AndreiJirohHaliliDev2006/markdown-portfolio](https://github.com/AndreiJirohHaliliDev2006/markdown-portfolio)
 <!--END_SECTION:activity-->
 
 </details>
