@@ -86,10 +86,10 @@ Hit me up using the following contact details, but please expect longer response
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3346](https://github.com/cdr/code-server/issues/3346) in [cdr/code-server](https://github.com/cdr/code-server)
-2. ❗️ Opened issue [#1](https://github.com/code-server-boilerplates/community/issues/1) in [code-server-boilerplates/community](https://github.com/code-server-boilerplates/community)
-3. ❗️ Opened issue [#1](https://github.com/code-server-boilerplates/starter-pack/issues/1) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-4. 🗣 Commented on [#30](https://github.com/MadeByThePinsHub/are-we-down/issues/30) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
-5. 🎉 Merged PR [#1](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk/pull/1) in [code-server-boilerplates/cdrs-deploy.repohubdev.tk](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk)
+2. 🗣 Commented on [#3346](https://github.com/cdr/code-server/issues/3346) in [cdr/code-server](https://github.com/cdr/code-server)
+3. 🗣 Commented on [#3346](https://github.com/cdr/code-server/issues/3346) in [cdr/code-server](https://github.com/cdr/code-server)
+4. ❗️ Opened issue [#1](https://github.com/code-server-boilerplates/community/issues/1) in [code-server-boilerplates/community](https://github.com/code-server-boilerplates/community)
+5. ❗️ Opened issue [#1](https://github.com/code-server-boilerplates/starter-pack/issues/1) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
 <!--END_SECTION:activity-->
 
 </details>
