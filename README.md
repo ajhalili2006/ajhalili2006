@@ -85,9 +85,9 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/code-server-boilerplates/starter-pack/pull/2) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-2. 💪 Opened PR [#2](https://github.com/code-server-boilerplates/starter-pack/pull/2) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-3. 🗣 Commented on [#3346](https://github.com/cdr/code-server/issues/3346) in [cdr/code-server](https://github.com/cdr/code-server)
+1. 🎉 Merged PR [#18](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/18) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
+2. 🎉 Merged PR [#2](https://github.com/code-server-boilerplates/starter-pack/pull/2) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+3. 💪 Opened PR [#2](https://github.com/code-server-boilerplates/starter-pack/pull/2) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
 4. 🗣 Commented on [#3346](https://github.com/cdr/code-server/issues/3346) in [cdr/code-server](https://github.com/cdr/code-server)
 5. 🗣 Commented on [#3346](https://github.com/cdr/code-server/issues/3346) in [cdr/code-server](https://github.com/cdr/code-server)
 <!--END_SECTION:activity-->
