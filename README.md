@@ -85,11 +85,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk/issues/2) in [code-server-boilerplates/cdrs-deploy.repohubdev.tk](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk)
-2. 💪 Opened PR [#2](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk/pull/2) in [code-server-boilerplates/cdrs-deploy.repohubdev.tk](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk)
-3. 🎉 Merged PR [#18](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/18) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
-4. 🎉 Merged PR [#2](https://github.com/code-server-boilerplates/starter-pack/pull/2) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-5. 💪 Opened PR [#2](https://github.com/code-server-boilerplates/starter-pack/pull/2) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+1. 🗣 Commented on [#3](https://github.com/code-server-boilerplates/starter-pack/issues/3) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+2. 🗣 Commented on [#2](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk/issues/2) in [code-server-boilerplates/cdrs-deploy.repohubdev.tk](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk)
+3. 💪 Opened PR [#2](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk/pull/2) in [code-server-boilerplates/cdrs-deploy.repohubdev.tk](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk)
+4. 🎉 Merged PR [#18](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/18) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
+5. 🎉 Merged PR [#2](https://github.com/code-server-boilerplates/starter-pack/pull/2) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
 <!--END_SECTION:activity-->
 
 </details>
