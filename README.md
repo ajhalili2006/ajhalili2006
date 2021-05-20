@@ -87,9 +87,9 @@ Hit me up using the following contact details, but please expect longer response
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#78](https://github.com/MadeByThePinsHub/are-we-down/issues/78) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
 2. 🗣 Commented on [#78](https://github.com/MadeByThePinsHub/are-we-down/issues/78) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
-3. ❗️ Opened issue [#78](https://github.com/MadeByThePinsHub/are-we-down/issues/78) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
-4. ❗️ Closed issue [#1](https://github.com/code-server-boilerplates/community/issues/1) in [code-server-boilerplates/community](https://github.com/code-server-boilerplates/community)
-5. 🗣 Commented on [#1](https://github.com/code-server-boilerplates/community/issues/1) in [code-server-boilerplates/community](https://github.com/code-server-boilerplates/community)
+3. 🗣 Commented on [#78](https://github.com/MadeByThePinsHub/are-we-down/issues/78) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
+4. ❗️ Opened issue [#78](https://github.com/MadeByThePinsHub/are-we-down/issues/78) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
+5. ❗️ Closed issue [#1](https://github.com/code-server-boilerplates/community/issues/1) in [code-server-boilerplates/community](https://github.com/code-server-boilerplates/community)
 <!--END_SECTION:activity-->
 
 </details>
