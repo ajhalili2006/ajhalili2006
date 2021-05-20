@@ -85,11 +85,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/code-server-boilerplates/community/issues/1) in [code-server-boilerplates/community](https://github.com/code-server-boilerplates/community)
-2. 🗣 Commented on [#1](https://github.com/code-server-boilerplates/community/issues/1) in [code-server-boilerplates/community](https://github.com/code-server-boilerplates/community)
-3. 🗣 Commented on [#3](https://github.com/code-server-boilerplates/starter-pack/issues/3) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-4. 🗣 Commented on [#2](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk/issues/2) in [code-server-boilerplates/cdrs-deploy.repohubdev.tk](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk)
-5. 💪 Opened PR [#2](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk/pull/2) in [code-server-boilerplates/cdrs-deploy.repohubdev.tk](https://github.com/code-server-boilerplates/cdrs-deploy.repohubdev.tk)
+1. 🗣 Commented on [#78](https://github.com/MadeByThePinsHub/are-we-down/issues/78) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
+2. ❗️ Opened issue [#78](https://github.com/MadeByThePinsHub/are-we-down/issues/78) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
+3. ❗️ Closed issue [#1](https://github.com/code-server-boilerplates/community/issues/1) in [code-server-boilerplates/community](https://github.com/code-server-boilerplates/community)
+4. 🗣 Commented on [#1](https://github.com/code-server-boilerplates/community/issues/1) in [code-server-boilerplates/community](https://github.com/code-server-boilerplates/community)
+5. 🗣 Commented on [#3](https://github.com/code-server-boilerplates/starter-pack/issues/3) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
 <!--END_SECTION:activity-->
 
 </details>
