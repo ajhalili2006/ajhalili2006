@@ -85,11 +85,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/MadeByThePinsHub/are-we-down/issues/78) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
+1. ❗️ Opened issue [#122](https://github.com/railwayapp/cli/issues/122) in [railwayapp/cli](https://github.com/railwayapp/cli)
 2. 🗣 Commented on [#78](https://github.com/MadeByThePinsHub/are-we-down/issues/78) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
 3. 🗣 Commented on [#78](https://github.com/MadeByThePinsHub/are-we-down/issues/78) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
-4. ❗️ Opened issue [#78](https://github.com/MadeByThePinsHub/are-we-down/issues/78) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
-5. ❗️ Closed issue [#1](https://github.com/code-server-boilerplates/community/issues/1) in [code-server-boilerplates/community](https://github.com/code-server-boilerplates/community)
+4. 🗣 Commented on [#78](https://github.com/MadeByThePinsHub/are-we-down/issues/78) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
+5. ❗️ Opened issue [#78](https://github.com/MadeByThePinsHub/are-we-down/issues/78) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
 <!--END_SECTION:activity-->
 
 </details>
