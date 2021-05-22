@@ -85,11 +85,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/MadeByThePinsHub/are-we-down/issues/78) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
-2. 🎉 Merged PR [#2](https://github.com/MadeByThePinsHub/rtappdotio/pull/2) in [MadeByThePinsHub/rtappdotio](https://github.com/MadeByThePinsHub/rtappdotio)
-3. 🎉 Merged PR [#1](https://github.com/MadeByThePinsHub/rtappdotio/pull/1) in [MadeByThePinsHub/rtappdotio](https://github.com/MadeByThePinsHub/rtappdotio)
-4. ❗️ Opened issue [#122](https://github.com/railwayapp/cli/issues/122) in [railwayapp/cli](https://github.com/railwayapp/cli)
-5. 🗣 Commented on [#78](https://github.com/MadeByThePinsHub/are-we-down/issues/78) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
+1. ❗️ Opened issue [#476](https://github.com/thedevs-network/kutt/issues/476) in [thedevs-network/kutt](https://github.com/thedevs-network/kutt)
+2. 🗣 Commented on [#78](https://github.com/MadeByThePinsHub/are-we-down/issues/78) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
+3. 🎉 Merged PR [#2](https://github.com/MadeByThePinsHub/rtappdotio/pull/2) in [MadeByThePinsHub/rtappdotio](https://github.com/MadeByThePinsHub/rtappdotio)
+4. 🎉 Merged PR [#1](https://github.com/MadeByThePinsHub/rtappdotio/pull/1) in [MadeByThePinsHub/rtappdotio](https://github.com/MadeByThePinsHub/rtappdotio)
+5. ❗️ Opened issue [#122](https://github.com/railwayapp/cli/issues/122) in [railwayapp/cli](https://github.com/railwayapp/cli)
 <!--END_SECTION:activity-->
 
 </details>
