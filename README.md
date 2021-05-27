@@ -86,10 +86,10 @@ Hit me up using the following contact details, but please expect longer response
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#105](https://github.com/railwayapp/cli/issues/105) in [railwayapp/cli](https://github.com/railwayapp/cli)
-2. 🎉 Merged PR [#4](https://github.com/MadeByThePinsHub/rtappdotio/pull/4) in [MadeByThePinsHub/rtappdotio](https://github.com/MadeByThePinsHub/rtappdotio)
-3. ❗️ Opened issue [#3213](https://github.com/matrix-org/matrix-doc/issues/3213) in [matrix-org/matrix-doc](https://github.com/matrix-org/matrix-doc)
-4. ❗️ Opened issue [#17448](https://github.com/vector-im/element-web/issues/17448) in [vector-im/element-web](https://github.com/vector-im/element-web)
-5. 🎉 Merged PR [#2](https://github.com/MadeByThePinsHub/ghpullapp/pull/2) in [MadeByThePinsHub/ghpullapp](https://github.com/MadeByThePinsHub/ghpullapp)
+2. 🗣 Commented on [#105](https://github.com/railwayapp/cli/issues/105) in [railwayapp/cli](https://github.com/railwayapp/cli)
+3. 🎉 Merged PR [#4](https://github.com/MadeByThePinsHub/rtappdotio/pull/4) in [MadeByThePinsHub/rtappdotio](https://github.com/MadeByThePinsHub/rtappdotio)
+4. ❗️ Opened issue [#3213](https://github.com/matrix-org/matrix-doc/issues/3213) in [matrix-org/matrix-doc](https://github.com/matrix-org/matrix-doc)
+5. ❗️ Opened issue [#17448](https://github.com/vector-im/element-web/issues/17448) in [vector-im/element-web](https://github.com/vector-im/element-web)
 <!--END_SECTION:activity-->
 
 </details>
