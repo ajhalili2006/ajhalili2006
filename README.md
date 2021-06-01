@@ -85,8 +85,8 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#124](https://github.com/railwayapp/cli/issues/124) in [railwayapp/cli](https://github.com/railwayapp/cli)
-2. 🗣 Commented on [#105](https://github.com/railwayapp/cli/issues/105) in [railwayapp/cli](https://github.com/railwayapp/cli)
+1. 🎉 Merged PR [#22](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/22) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
+2. ❗️ Opened issue [#124](https://github.com/railwayapp/cli/issues/124) in [railwayapp/cli](https://github.com/railwayapp/cli)
 3. 🗣 Commented on [#105](https://github.com/railwayapp/cli/issues/105) in [railwayapp/cli](https://github.com/railwayapp/cli)
 4. 🎉 Merged PR [#4](https://github.com/MadeByThePinsHub/rtappdotio/pull/4) in [MadeByThePinsHub/rtappdotio](https://github.com/MadeByThePinsHub/rtappdotio)
 5. ❗️ Opened issue [#3213](https://github.com/matrix-org/matrix-doc/issues/3213) in [matrix-org/matrix-doc](https://github.com/matrix-org/matrix-doc)
