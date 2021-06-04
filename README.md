@@ -85,11 +85,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/code-server-boilerplates/starter-pack/issues/6) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-2. ❗️ Opened issue [#6](https://github.com/code-server-boilerplates/starter-pack/issues/6) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-3. 🎉 Merged PR [#2](https://github.com/ThePinsTeam/deploy-code-server/pull/2) in [ThePinsTeam/deploy-code-server](https://github.com/ThePinsTeam/deploy-code-server)
-4. 🎉 Merged PR [#5](https://github.com/code-server-boilerplates/starter-pack/pull/5) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-5. 🎉 Merged PR [#22](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/22) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
+1. 🎉 Merged PR [#2](https://github.com/Community-Lores/homepage/pull/2) in [Community-Lores/homepage](https://github.com/Community-Lores/homepage)
+2. ❗️ Closed issue [#6](https://github.com/code-server-boilerplates/starter-pack/issues/6) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+3. ❗️ Opened issue [#6](https://github.com/code-server-boilerplates/starter-pack/issues/6) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+4. 🎉 Merged PR [#2](https://github.com/ThePinsTeam/deploy-code-server/pull/2) in [ThePinsTeam/deploy-code-server](https://github.com/ThePinsTeam/deploy-code-server)
+5. 🎉 Merged PR [#5](https://github.com/code-server-boilerplates/starter-pack/pull/5) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
 <!--END_SECTION:activity-->
 
 </details>
