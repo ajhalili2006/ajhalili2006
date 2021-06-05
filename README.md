@@ -55,6 +55,7 @@ Hit me up using the following contact details, but please expect longer response
 
 ## Dev.to Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How do co-authors can sign commits, for vigilant-mode-enabled GitHub users?](https://dev.to/thepinsteam/how-do-co-authors-can-sign-commits-for-vigilant-mode-enabled-github-users-52h2)
 - [Introducing Recap Time](https://dev.to/recaptime/introducing-recap-time-4acb)
 - [Team Updates — New Twitch channels and more (oh my!)](https://dev.to/thepinsteam/team-updates-new-twitch-channels-and-more-oh-my-bc6)
 - [Handling requests to delete their account & move to the @ghost account for self-hosted Dev.to instances](https://dev.to/thepinsteam/handling-requests-to-delete-their-account-move-to-the-ghost-account-for-self-hosted-dev-to-instances-5hd9)
