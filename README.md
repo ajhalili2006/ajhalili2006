@@ -86,11 +86,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/ThePinsTeam/deploy-code-server/pull/4) in [ThePinsTeam/deploy-code-server](https://github.com/ThePinsTeam/deploy-code-server)
-2. 🎉 Merged PR [#2](https://github.com/Community-Lores/homepage/pull/2) in [Community-Lores/homepage](https://github.com/Community-Lores/homepage)
-3. ❗️ Closed issue [#6](https://github.com/code-server-boilerplates/starter-pack/issues/6) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-4. ❗️ Opened issue [#6](https://github.com/code-server-boilerplates/starter-pack/issues/6) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-5. 🎉 Merged PR [#2](https://github.com/ThePinsTeam/deploy-code-server/pull/2) in [ThePinsTeam/deploy-code-server](https://github.com/ThePinsTeam/deploy-code-server)
+1. 🎉 Merged PR [#3](https://github.com/ThePinsTeam/deploy-code-server/pull/3) in [ThePinsTeam/deploy-code-server](https://github.com/ThePinsTeam/deploy-code-server)
+2. 🎉 Merged PR [#4](https://github.com/ThePinsTeam/deploy-code-server/pull/4) in [ThePinsTeam/deploy-code-server](https://github.com/ThePinsTeam/deploy-code-server)
+3. 🎉 Merged PR [#2](https://github.com/Community-Lores/homepage/pull/2) in [Community-Lores/homepage](https://github.com/Community-Lores/homepage)
+4. ❗️ Closed issue [#6](https://github.com/code-server-boilerplates/starter-pack/issues/6) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+5. ❗️ Opened issue [#6](https://github.com/code-server-boilerplates/starter-pack/issues/6) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
 <!--END_SECTION:activity-->
 
 </details>
