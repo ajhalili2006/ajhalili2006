@@ -86,11 +86,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/code-server-boilerplates/starter-pack/pull/7) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-2. 🎉 Merged PR [#3](https://github.com/ThePinsTeam/deploy-code-server/pull/3) in [ThePinsTeam/deploy-code-server](https://github.com/ThePinsTeam/deploy-code-server)
-3. 🎉 Merged PR [#4](https://github.com/ThePinsTeam/deploy-code-server/pull/4) in [ThePinsTeam/deploy-code-server](https://github.com/ThePinsTeam/deploy-code-server)
-4. 🎉 Merged PR [#2](https://github.com/Community-Lores/homepage/pull/2) in [Community-Lores/homepage](https://github.com/Community-Lores/homepage)
-5. ❗️ Closed issue [#6](https://github.com/code-server-boilerplates/starter-pack/issues/6) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+1. ❗️ Opened issue [#51](https://github.com/deta/deta-cli/issues/51) in [deta/deta-cli](https://github.com/deta/deta-cli)
+2. 🎉 Merged PR [#7](https://github.com/code-server-boilerplates/starter-pack/pull/7) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+3. 🎉 Merged PR [#3](https://github.com/ThePinsTeam/deploy-code-server/pull/3) in [ThePinsTeam/deploy-code-server](https://github.com/ThePinsTeam/deploy-code-server)
+4. 🎉 Merged PR [#4](https://github.com/ThePinsTeam/deploy-code-server/pull/4) in [ThePinsTeam/deploy-code-server](https://github.com/ThePinsTeam/deploy-code-server)
+5. 🎉 Merged PR [#2](https://github.com/Community-Lores/homepage/pull/2) in [Community-Lores/homepage](https://github.com/Community-Lores/homepage)
 <!--END_SECTION:activity-->
 
 </details>
