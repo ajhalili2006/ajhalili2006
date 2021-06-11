@@ -86,11 +86,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#8](https://github.com/code-server-boilerplates/starter-pack/pull/8) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-2. ❌ Closed PR [#8](https://github.com/code-server-boilerplates/starter-pack/pull/8) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-3. 💪 Opened PR [#8](https://github.com/code-server-boilerplates/starter-pack/pull/8) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-4. 🗣 Commented on [#25](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/issues/25) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
-5. 🎉 Merged PR [#21](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/pull/21) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
+1. 🗣 Commented on [#8](https://github.com/code-server-boilerplates/starter-pack/issues/8) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+2. ❌ Reopened PR [#8](https://github.com/code-server-boilerplates/starter-pack/pull/8) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+3. ❌ Closed PR [#8](https://github.com/code-server-boilerplates/starter-pack/pull/8) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+4. 💪 Opened PR [#8](https://github.com/code-server-boilerplates/starter-pack/pull/8) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+5. 🗣 Commented on [#25](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel/issues/25) in [MadeByThePinsHub/gh-readme-stats-vercel](https://github.com/MadeByThePinsHub/gh-readme-stats-vercel)
 <!--END_SECTION:activity-->
 
 </details>
