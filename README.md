@@ -86,11 +86,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/code-server-boilerplates/template-registry/pull/1) in [code-server-boilerplates/template-registry](https://github.com/code-server-boilerplates/template-registry)
-2. 🗣 Commented on [#8](https://github.com/code-server-boilerplates/starter-pack/issues/8) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-3. ❌ Reopened PR [#8](https://github.com/code-server-boilerplates/starter-pack/pull/8) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-4. ❌ Closed PR [#8](https://github.com/code-server-boilerplates/starter-pack/pull/8) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-5. 💪 Opened PR [#8](https://github.com/code-server-boilerplates/starter-pack/pull/8) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+1. ❗️ Opened issue [#1319](https://github.com/PipedreamHQ/pipedream/issues/1319) in [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+2. 🎉 Merged PR [#1](https://github.com/code-server-boilerplates/template-registry/pull/1) in [code-server-boilerplates/template-registry](https://github.com/code-server-boilerplates/template-registry)
+3. 🗣 Commented on [#8](https://github.com/code-server-boilerplates/starter-pack/issues/8) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+4. ❌ Reopened PR [#8](https://github.com/code-server-boilerplates/starter-pack/pull/8) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+5. ❌ Closed PR [#8](https://github.com/code-server-boilerplates/starter-pack/pull/8) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
 <!--END_SECTION:activity-->
 
 </details>
