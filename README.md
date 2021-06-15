@@ -86,11 +86,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#103](https://github.com/docker/metadata-action/issues/103) in [docker/metadata-action](https://github.com/docker/metadata-action)
-2. ❗️ Opened issue [#103](https://github.com/docker/metadata-action/issues/103) in [docker/metadata-action](https://github.com/docker/metadata-action)
-3. ❗️ Opened issue [#54](https://github.com/fosscord/fosscord/issues/54) in [fosscord/fosscord](https://github.com/fosscord/fosscord)
-4. ❗️ Opened issue [#1319](https://github.com/PipedreamHQ/pipedream/issues/1319) in [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-5. 🎉 Merged PR [#1](https://github.com/code-server-boilerplates/template-registry/pull/1) in [code-server-boilerplates/template-registry](https://github.com/code-server-boilerplates/template-registry)
+1. ❗️ Opened issue [#2](https://github.com/code-server-boilerplates/community/issues/2) in [code-server-boilerplates/community](https://github.com/code-server-boilerplates/community)
+2. ❗️ Opened issue [#2](https://github.com/code-server-boilerplates/starter-pack-as-base-image/issues/2) in [code-server-boilerplates/starter-pack-as-base-image](https://github.com/code-server-boilerplates/starter-pack-as-base-image)
+3. ❗️ Opened issue [#1](https://github.com/code-server-boilerplates/starter-pack-as-base-image/issues/1) in [code-server-boilerplates/starter-pack-as-base-image](https://github.com/code-server-boilerplates/starter-pack-as-base-image)
+4. 🗣 Commented on [#103](https://github.com/docker/metadata-action/issues/103) in [docker/metadata-action](https://github.com/docker/metadata-action)
+5. ❗️ Opened issue [#103](https://github.com/docker/metadata-action/issues/103) in [docker/metadata-action](https://github.com/docker/metadata-action)
 <!--END_SECTION:activity-->
 
 </details>
