@@ -86,11 +86,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#103](https://github.com/docker/metadata-action/issues/103) in [docker/metadata-action](https://github.com/docker/metadata-action)
-2. ❗️ Opened issue [#54](https://github.com/fosscord/fosscord/issues/54) in [fosscord/fosscord](https://github.com/fosscord/fosscord)
-3. ❗️ Opened issue [#1319](https://github.com/PipedreamHQ/pipedream/issues/1319) in [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-4. 🎉 Merged PR [#1](https://github.com/code-server-boilerplates/template-registry/pull/1) in [code-server-boilerplates/template-registry](https://github.com/code-server-boilerplates/template-registry)
-5. 🗣 Commented on [#8](https://github.com/code-server-boilerplates/starter-pack/issues/8) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+1. 🗣 Commented on [#103](https://github.com/docker/metadata-action/issues/103) in [docker/metadata-action](https://github.com/docker/metadata-action)
+2. ❗️ Opened issue [#103](https://github.com/docker/metadata-action/issues/103) in [docker/metadata-action](https://github.com/docker/metadata-action)
+3. ❗️ Opened issue [#54](https://github.com/fosscord/fosscord/issues/54) in [fosscord/fosscord](https://github.com/fosscord/fosscord)
+4. ❗️ Opened issue [#1319](https://github.com/PipedreamHQ/pipedream/issues/1319) in [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+5. 🎉 Merged PR [#1](https://github.com/code-server-boilerplates/template-registry/pull/1) in [code-server-boilerplates/template-registry](https://github.com/code-server-boilerplates/template-registry)
 <!--END_SECTION:activity-->
 
 </details>
