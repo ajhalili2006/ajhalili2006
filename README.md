@@ -86,11 +86,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/shaurya-007/NSA-Linux-Hardening-docs/issues/2) in [shaurya-007/NSA-Linux-Hardening-docs](https://github.com/shaurya-007/NSA-Linux-Hardening-docs)
-2. 🗣 Commented on [#2](https://github.com/shaurya-007/NSA-Linux-Hardening-docs/issues/2) in [shaurya-007/NSA-Linux-Hardening-docs](https://github.com/shaurya-007/NSA-Linux-Hardening-docs)
-3. ❗️ Opened issue [#2](https://github.com/shaurya-007/NSA-Linux-Hardening-docs/issues/2) in [shaurya-007/NSA-Linux-Hardening-docs](https://github.com/shaurya-007/NSA-Linux-Hardening-docs)
-4. ❗️ Opened issue [#1](https://github.com/shaurya-007/NSA-Linux-Hardening-docs/issues/1) in [shaurya-007/NSA-Linux-Hardening-docs](https://github.com/shaurya-007/NSA-Linux-Hardening-docs)
-5. 🗣 Commented on [#1](https://github.com/code-server-boilerplates/starter-pack-as-base-image/issues/1) in [code-server-boilerplates/starter-pack-as-base-image](https://github.com/code-server-boilerplates/starter-pack-as-base-image)
+1. 🗣 Commented on [#8](https://github.com/bpmct/develop-code-server/issues/8) in [bpmct/develop-code-server](https://github.com/bpmct/develop-code-server)
+2. ❗️ Closed issue [#2](https://github.com/shaurya-007/NSA-Linux-Hardening-docs/issues/2) in [shaurya-007/NSA-Linux-Hardening-docs](https://github.com/shaurya-007/NSA-Linux-Hardening-docs)
+3. 🗣 Commented on [#2](https://github.com/shaurya-007/NSA-Linux-Hardening-docs/issues/2) in [shaurya-007/NSA-Linux-Hardening-docs](https://github.com/shaurya-007/NSA-Linux-Hardening-docs)
+4. ❗️ Opened issue [#2](https://github.com/shaurya-007/NSA-Linux-Hardening-docs/issues/2) in [shaurya-007/NSA-Linux-Hardening-docs](https://github.com/shaurya-007/NSA-Linux-Hardening-docs)
+5. ❗️ Opened issue [#1](https://github.com/shaurya-007/NSA-Linux-Hardening-docs/issues/1) in [shaurya-007/NSA-Linux-Hardening-docs](https://github.com/shaurya-007/NSA-Linux-Hardening-docs)
 <!--END_SECTION:activity-->
 
 </details>
