@@ -86,11 +86,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/code-server-boilerplates/docs/pull/3) in [code-server-boilerplates/docs](https://github.com/code-server-boilerplates/docs)
-2. 🎉 Merged PR [#18](https://github.com/MadeByThePinsHub/ghpullapp/pull/18) in [MadeByThePinsHub/ghpullapp](https://github.com/MadeByThePinsHub/ghpullapp)
-3. 🎉 Merged PR [#10](https://github.com/MadeByThePinsHub/ghpullapp/pull/10) in [MadeByThePinsHub/ghpullapp](https://github.com/MadeByThePinsHub/ghpullapp)
-4. 🗣 Commented on [#8](https://github.com/bpmct/develop-code-server/issues/8) in [bpmct/develop-code-server](https://github.com/bpmct/develop-code-server)
-5. ❗️ Closed issue [#2](https://github.com/shaurya-007/NSA-Linux-Hardening-docs/issues/2) in [shaurya-007/NSA-Linux-Hardening-docs](https://github.com/shaurya-007/NSA-Linux-Hardening-docs)
+1. ❌ Closed PR [#2](https://github.com/code-server-boilerplates/docs/pull/2) in [code-server-boilerplates/docs](https://github.com/code-server-boilerplates/docs)
+2. ❌ Closed PR [#1](https://github.com/code-server-boilerplates/docs/pull/1) in [code-server-boilerplates/docs](https://github.com/code-server-boilerplates/docs)
+3. ❌ Closed PR [#3](https://github.com/code-server-boilerplates/docs/pull/3) in [code-server-boilerplates/docs](https://github.com/code-server-boilerplates/docs)
+4. 🎉 Merged PR [#18](https://github.com/MadeByThePinsHub/ghpullapp/pull/18) in [MadeByThePinsHub/ghpullapp](https://github.com/MadeByThePinsHub/ghpullapp)
+5. 🎉 Merged PR [#10](https://github.com/MadeByThePinsHub/ghpullapp/pull/10) in [MadeByThePinsHub/ghpullapp](https://github.com/MadeByThePinsHub/ghpullapp)
 <!--END_SECTION:activity-->
 
 </details>
