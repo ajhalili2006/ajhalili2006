@@ -86,11 +86,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/bpmct/develop-code-server/issues/8) in [bpmct/develop-code-server](https://github.com/bpmct/develop-code-server)
-2. ❗️ Closed issue [#2](https://github.com/shaurya-007/NSA-Linux-Hardening-docs/issues/2) in [shaurya-007/NSA-Linux-Hardening-docs](https://github.com/shaurya-007/NSA-Linux-Hardening-docs)
-3. 🗣 Commented on [#2](https://github.com/shaurya-007/NSA-Linux-Hardening-docs/issues/2) in [shaurya-007/NSA-Linux-Hardening-docs](https://github.com/shaurya-007/NSA-Linux-Hardening-docs)
-4. ❗️ Opened issue [#2](https://github.com/shaurya-007/NSA-Linux-Hardening-docs/issues/2) in [shaurya-007/NSA-Linux-Hardening-docs](https://github.com/shaurya-007/NSA-Linux-Hardening-docs)
-5. ❗️ Opened issue [#1](https://github.com/shaurya-007/NSA-Linux-Hardening-docs/issues/1) in [shaurya-007/NSA-Linux-Hardening-docs](https://github.com/shaurya-007/NSA-Linux-Hardening-docs)
+1. 🎉 Merged PR [#18](https://github.com/MadeByThePinsHub/ghpullapp/pull/18) in [MadeByThePinsHub/ghpullapp](https://github.com/MadeByThePinsHub/ghpullapp)
+2. 🎉 Merged PR [#10](https://github.com/MadeByThePinsHub/ghpullapp/pull/10) in [MadeByThePinsHub/ghpullapp](https://github.com/MadeByThePinsHub/ghpullapp)
+3. 🗣 Commented on [#8](https://github.com/bpmct/develop-code-server/issues/8) in [bpmct/develop-code-server](https://github.com/bpmct/develop-code-server)
+4. ❗️ Closed issue [#2](https://github.com/shaurya-007/NSA-Linux-Hardening-docs/issues/2) in [shaurya-007/NSA-Linux-Hardening-docs](https://github.com/shaurya-007/NSA-Linux-Hardening-docs)
+5. 🗣 Commented on [#2](https://github.com/shaurya-007/NSA-Linux-Hardening-docs/issues/2) in [shaurya-007/NSA-Linux-Hardening-docs](https://github.com/shaurya-007/NSA-Linux-Hardening-docs)
 <!--END_SECTION:activity-->
 
 </details>
