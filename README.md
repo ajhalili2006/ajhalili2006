@@ -86,11 +86,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/code-server-boilerplates/docs/pull/4) in [code-server-boilerplates/docs](https://github.com/code-server-boilerplates/docs)
-2. ❌ Closed PR [#2](https://github.com/code-server-boilerplates/docs/pull/2) in [code-server-boilerplates/docs](https://github.com/code-server-boilerplates/docs)
-3. ❌ Closed PR [#1](https://github.com/code-server-boilerplates/docs/pull/1) in [code-server-boilerplates/docs](https://github.com/code-server-boilerplates/docs)
-4. ❌ Closed PR [#3](https://github.com/code-server-boilerplates/docs/pull/3) in [code-server-boilerplates/docs](https://github.com/code-server-boilerplates/docs)
-5. 🎉 Merged PR [#18](https://github.com/MadeByThePinsHub/ghpullapp/pull/18) in [MadeByThePinsHub/ghpullapp](https://github.com/MadeByThePinsHub/ghpullapp)
+1. ❗️ Opened issue [#5](https://github.com/code-server-boilerplates/docs/issues/5) in [code-server-boilerplates/docs](https://github.com/code-server-boilerplates/docs)
+2. 🎉 Merged PR [#4](https://github.com/code-server-boilerplates/docs/pull/4) in [code-server-boilerplates/docs](https://github.com/code-server-boilerplates/docs)
+3. ❌ Closed PR [#2](https://github.com/code-server-boilerplates/docs/pull/2) in [code-server-boilerplates/docs](https://github.com/code-server-boilerplates/docs)
+4. ❌ Closed PR [#1](https://github.com/code-server-boilerplates/docs/pull/1) in [code-server-boilerplates/docs](https://github.com/code-server-boilerplates/docs)
+5. ❌ Closed PR [#3](https://github.com/code-server-boilerplates/docs/pull/3) in [code-server-boilerplates/docs](https://github.com/code-server-boilerplates/docs)
 <!--END_SECTION:activity-->
 
 </details>
