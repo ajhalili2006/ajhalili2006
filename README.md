@@ -86,11 +86,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/code-server-boilerplates/starter-pack/issues/9) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-2. ❗️ Opened issue [#9](https://github.com/code-server-boilerplates/starter-pack/issues/9) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-3. ❗️ Closed issue [#1](https://github.com/code-server-boilerplates/starter-pack-as-base-image/issues/1) in [code-server-boilerplates/starter-pack-as-base-image](https://github.com/code-server-boilerplates/starter-pack-as-base-image)
-4. 🗣 Commented on [#1](https://github.com/code-server-boilerplates/starter-pack-as-base-image/issues/1) in [code-server-boilerplates/starter-pack-as-base-image](https://github.com/code-server-boilerplates/starter-pack-as-base-image)
-5. 💪 Opened PR [#6](https://github.com/code-server-boilerplates/docs/pull/6) in [code-server-boilerplates/docs](https://github.com/code-server-boilerplates/docs)
+1. ❗️ Opened issue [#359](https://github.com/wip/app/issues/359) in [wip/app](https://github.com/wip/app)
+2. 🗣 Commented on [#9](https://github.com/code-server-boilerplates/starter-pack/issues/9) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+3. ❗️ Opened issue [#9](https://github.com/code-server-boilerplates/starter-pack/issues/9) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+4. ❗️ Closed issue [#1](https://github.com/code-server-boilerplates/starter-pack-as-base-image/issues/1) in [code-server-boilerplates/starter-pack-as-base-image](https://github.com/code-server-boilerplates/starter-pack-as-base-image)
+5. 🗣 Commented on [#1](https://github.com/code-server-boilerplates/starter-pack-as-base-image/issues/1) in [code-server-boilerplates/starter-pack-as-base-image](https://github.com/code-server-boilerplates/starter-pack-as-base-image)
 <!--END_SECTION:activity-->
 
 </details>
