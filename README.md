@@ -86,11 +86,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/code-server-boilerplates/docs/pull/6) in [code-server-boilerplates/docs](https://github.com/code-server-boilerplates/docs)
-2. 🗣 Commented on [#181](https://github.com/MadeByThePinsHub/are-we-down/issues/181) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
-3. ❗️ Opened issue [#5](https://github.com/code-server-boilerplates/docs/issues/5) in [code-server-boilerplates/docs](https://github.com/code-server-boilerplates/docs)
-4. 🎉 Merged PR [#4](https://github.com/code-server-boilerplates/docs/pull/4) in [code-server-boilerplates/docs](https://github.com/code-server-boilerplates/docs)
-5. ❌ Closed PR [#2](https://github.com/code-server-boilerplates/docs/pull/2) in [code-server-boilerplates/docs](https://github.com/code-server-boilerplates/docs)
+1. 🗣 Commented on [#9](https://github.com/code-server-boilerplates/starter-pack/issues/9) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+2. ❗️ Opened issue [#9](https://github.com/code-server-boilerplates/starter-pack/issues/9) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+3. ❗️ Closed issue [#1](https://github.com/code-server-boilerplates/starter-pack-as-base-image/issues/1) in [code-server-boilerplates/starter-pack-as-base-image](https://github.com/code-server-boilerplates/starter-pack-as-base-image)
+4. 🗣 Commented on [#1](https://github.com/code-server-boilerplates/starter-pack-as-base-image/issues/1) in [code-server-boilerplates/starter-pack-as-base-image](https://github.com/code-server-boilerplates/starter-pack-as-base-image)
+5. 💪 Opened PR [#6](https://github.com/code-server-boilerplates/docs/pull/6) in [code-server-boilerplates/docs](https://github.com/code-server-boilerplates/docs)
 <!--END_SECTION:activity-->
 
 </details>
