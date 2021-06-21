@@ -86,11 +86,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#359](https://github.com/wip/app/issues/359) in [wip/app](https://github.com/wip/app)
-2. 🗣 Commented on [#9](https://github.com/code-server-boilerplates/starter-pack/issues/9) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-3. ❗️ Opened issue [#9](https://github.com/code-server-boilerplates/starter-pack/issues/9) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-4. ❗️ Closed issue [#1](https://github.com/code-server-boilerplates/starter-pack-as-base-image/issues/1) in [code-server-boilerplates/starter-pack-as-base-image](https://github.com/code-server-boilerplates/starter-pack-as-base-image)
-5. 🗣 Commented on [#1](https://github.com/code-server-boilerplates/starter-pack-as-base-image/issues/1) in [code-server-boilerplates/starter-pack-as-base-image](https://github.com/code-server-boilerplates/starter-pack-as-base-image)
+1. ❗️ Opened issue [#1](https://github.com/MadeByThePinsHub/setup-railway-cli-action/issues/1) in [MadeByThePinsHub/setup-railway-cli-action](https://github.com/MadeByThePinsHub/setup-railway-cli-action)
+2. 💪 Opened PR [#4](https://github.com/railwayapp/awesome-railway/pull/4) in [railwayapp/awesome-railway](https://github.com/railwayapp/awesome-railway)
+3. ❗️ Opened issue [#359](https://github.com/wip/app/issues/359) in [wip/app](https://github.com/wip/app)
+4. 🗣 Commented on [#9](https://github.com/code-server-boilerplates/starter-pack/issues/9) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+5. ❗️ Opened issue [#9](https://github.com/code-server-boilerplates/starter-pack/issues/9) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
 <!--END_SECTION:activity-->
 
 </details>
