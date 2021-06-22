@@ -86,11 +86,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/setup-railway-cli-action/issues/1) in [MadeByThePinsHub/setup-railway-cli-action](https://github.com/MadeByThePinsHub/setup-railway-cli-action)
-2. ❗️ Opened issue [#1](https://github.com/MadeByThePinsHub/setup-railway-cli-action/issues/1) in [MadeByThePinsHub/setup-railway-cli-action](https://github.com/MadeByThePinsHub/setup-railway-cli-action)
-3. 💪 Opened PR [#4](https://github.com/railwayapp/awesome-railway/pull/4) in [railwayapp/awesome-railway](https://github.com/railwayapp/awesome-railway)
-4. ❗️ Opened issue [#359](https://github.com/wip/app/issues/359) in [wip/app](https://github.com/wip/app)
-5. 🗣 Commented on [#9](https://github.com/code-server-boilerplates/starter-pack/issues/9) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+1. 🎉 Merged PR [#1](https://github.com/MadeByThePinsHub/vercel-badge/pull/1) in [MadeByThePinsHub/vercel-badge](https://github.com/MadeByThePinsHub/vercel-badge)
+2. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/setup-railway-cli-action/issues/1) in [MadeByThePinsHub/setup-railway-cli-action](https://github.com/MadeByThePinsHub/setup-railway-cli-action)
+3. ❗️ Opened issue [#1](https://github.com/MadeByThePinsHub/setup-railway-cli-action/issues/1) in [MadeByThePinsHub/setup-railway-cli-action](https://github.com/MadeByThePinsHub/setup-railway-cli-action)
+4. 💪 Opened PR [#4](https://github.com/railwayapp/awesome-railway/pull/4) in [railwayapp/awesome-railway](https://github.com/railwayapp/awesome-railway)
+5. ❗️ Opened issue [#359](https://github.com/wip/app/issues/359) in [wip/app](https://github.com/wip/app)
 <!--END_SECTION:activity-->
 
 </details>
