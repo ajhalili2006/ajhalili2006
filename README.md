@@ -86,11 +86,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MadeByThePinsHub/vercel-badge/pull/1) in [MadeByThePinsHub/vercel-badge](https://github.com/MadeByThePinsHub/vercel-badge)
-2. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/setup-railway-cli-action/issues/1) in [MadeByThePinsHub/setup-railway-cli-action](https://github.com/MadeByThePinsHub/setup-railway-cli-action)
-3. ❗️ Opened issue [#1](https://github.com/MadeByThePinsHub/setup-railway-cli-action/issues/1) in [MadeByThePinsHub/setup-railway-cli-action](https://github.com/MadeByThePinsHub/setup-railway-cli-action)
-4. 💪 Opened PR [#4](https://github.com/railwayapp/awesome-railway/pull/4) in [railwayapp/awesome-railway](https://github.com/railwayapp/awesome-railway)
-5. ❗️ Opened issue [#359](https://github.com/wip/app/issues/359) in [wip/app](https://github.com/wip/app)
+1. 🗣 Commented on [#11](https://github.com/code-server-boilerplates/docs/issues/11) in [code-server-boilerplates/docs](https://github.com/code-server-boilerplates/docs)
+2. 🗣 Commented on [#10](https://github.com/code-server-boilerplates/docs/issues/10) in [code-server-boilerplates/docs](https://github.com/code-server-boilerplates/docs)
+3. 🎉 Merged PR [#1](https://github.com/MadeByThePinsHub/vercel-badge/pull/1) in [MadeByThePinsHub/vercel-badge](https://github.com/MadeByThePinsHub/vercel-badge)
+4. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/setup-railway-cli-action/issues/1) in [MadeByThePinsHub/setup-railway-cli-action](https://github.com/MadeByThePinsHub/setup-railway-cli-action)
+5. ❗️ Opened issue [#1](https://github.com/MadeByThePinsHub/setup-railway-cli-action/issues/1) in [MadeByThePinsHub/setup-railway-cli-action](https://github.com/MadeByThePinsHub/setup-railway-cli-action)
 <!--END_SECTION:activity-->
 
 </details>
