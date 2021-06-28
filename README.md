@@ -65,18 +65,18 @@ Hit me up using the following contact details, but please expect longer response
 
 ### TL;DR on my lifetime GitHub activity + the speedrun
 
-[![Andrei Jiroh's stats](https://gh-readme-stats-thepinsteam.vercel.app/api?username=AndreiJirohHaliliDev2006&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Andrei Jiroh's stats](https://gh-readme-stats-thepinsteam.vercel.app/api?username=ajhalili2006&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Spreedrun Streaks](https://github-readme-streak-stats.herokuapp.com/?user=AndreiJirohHaliliDev2006&theme=dark)
+![Spreedrun Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ajhalili2006&theme=dark)
 
-![Achivements](https://github-profile-trophy.vercel.app/?username=AndreiJirohHaliliDev2006)
+![Achivements](https://github-profile-trophy.vercel.app/?username=ajhalili2006)
 
 ### Top Languages Used
 
 <details>
 <summary>These stats are for my personal repos and may not reflect on what I am really used.</summary>
 
-[![Top Langs](https://gh-readme-stats-thepinsteam.vercel.app/api/top-langs/?username=AndreiJirohHaliliDev2006&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://gh-readme-stats-thepinsteam.vercel.app/api/top-langs/?username=ajhalili2006&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
