@@ -86,11 +86,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/ajhalili2006/write-github-script/issues/7) in [ajhalili2006/write-github-script](https://github.com/ajhalili2006/write-github-script)
-2. ❗️ Reopened issue [#8](https://github.com/ajhalili2006/write-github-script/issues/8) in [ajhalili2006/write-github-script](https://github.com/ajhalili2006/write-github-script)
-3. ❗️ Closed issue [#4](https://github.com/ajhalili2006/getting-started-github-apps/issues/4) in [ajhalili2006/getting-started-github-apps](https://github.com/ajhalili2006/getting-started-github-apps)
-4. ❗️ Opened issue [#4](https://github.com/ajhalili2006/getting-started-github-apps/issues/4) in [ajhalili2006/getting-started-github-apps](https://github.com/ajhalili2006/getting-started-github-apps)
-5. 🗣 Commented on [#3](https://github.com/ajhalili2006/getting-started-github-apps/issues/3) in [ajhalili2006/getting-started-github-apps](https://github.com/ajhalili2006/getting-started-github-apps)
+1. 🎉 Merged PR [#13](https://github.com/MadeByThePinsHub/Userge/pull/13) in [MadeByThePinsHub/Userge](https://github.com/MadeByThePinsHub/Userge)
+2. 🎉 Merged PR [#9](https://github.com/MadeByThePinsHub/Userge/pull/9) in [MadeByThePinsHub/Userge](https://github.com/MadeByThePinsHub/Userge)
+3. 🎉 Merged PR [#12](https://github.com/MadeByThePinsHub/Userge/pull/12) in [MadeByThePinsHub/Userge](https://github.com/MadeByThePinsHub/Userge)
+4. ❗️ Closed issue [#7](https://github.com/ajhalili2006/write-github-script/issues/7) in [ajhalili2006/write-github-script](https://github.com/ajhalili2006/write-github-script)
+5. ❗️ Reopened issue [#8](https://github.com/ajhalili2006/write-github-script/issues/8) in [ajhalili2006/write-github-script](https://github.com/ajhalili2006/write-github-script)
 <!--END_SECTION:activity-->
 
 </details>
