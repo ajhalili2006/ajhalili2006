@@ -86,11 +86,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/code-server-boilerplates/docs/issues/19) in [code-server-boilerplates/docs](https://github.com/code-server-boilerplates/docs)
-2. 💪 Opened PR [#120](https://github.com/hydralite/hydralite/pull/120) in [hydralite/hydralite](https://github.com/hydralite/hydralite)
-3. 🗣 Commented on [#119](https://github.com/hydralite/hydralite/issues/119) in [hydralite/hydralite](https://github.com/hydralite/hydralite)
-4. 💪 Opened PR [#119](https://github.com/hydralite/hydralite/pull/119) in [hydralite/hydralite](https://github.com/hydralite/hydralite)
-5. 🗣 Commented on [#84](https://github.com/hydralite/hydralite/issues/84) in [hydralite/hydralite](https://github.com/hydralite/hydralite)
+1. ❗️ Opened issue [#4](https://github.com/ajhalili2006/getting-started-github-apps/issues/4) in [ajhalili2006/getting-started-github-apps](https://github.com/ajhalili2006/getting-started-github-apps)
+2. 🗣 Commented on [#3](https://github.com/ajhalili2006/getting-started-github-apps/issues/3) in [ajhalili2006/getting-started-github-apps](https://github.com/ajhalili2006/getting-started-github-apps)
+3. 💪 Opened PR [#3](https://github.com/ajhalili2006/getting-started-github-apps/pull/3) in [ajhalili2006/getting-started-github-apps](https://github.com/ajhalili2006/getting-started-github-apps)
+4. 🎉 Merged PR [#2](https://github.com/ajhalili2006/getting-started-github-apps/pull/2) in [ajhalili2006/getting-started-github-apps](https://github.com/ajhalili2006/getting-started-github-apps)
+5. 🗣 Commented on [#2](https://github.com/ajhalili2006/getting-started-github-apps/issues/2) in [ajhalili2006/getting-started-github-apps](https://github.com/ajhalili2006/getting-started-github-apps)
 <!--END_SECTION:activity-->
 
 </details>
