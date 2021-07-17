@@ -86,11 +86,11 @@ Hit me up using the following contact details, but please expect longer response
 <summary>Recent GitHub activity pulled through an CI</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#131](https://github.com/hydralite/hydralite/pull/131) in [hydralite/hydralite](https://github.com/hydralite/hydralite)
-2. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/gotty/issues/1) in [MadeByThePinsHub/gotty](https://github.com/MadeByThePinsHub/gotty)
-3. ❗️ Opened issue [#1](https://github.com/MadeByThePinsHub/gotty/issues/1) in [MadeByThePinsHub/gotty](https://github.com/MadeByThePinsHub/gotty)
-4. 🎉 Merged PR [#13](https://github.com/MadeByThePinsHub/Userge/pull/13) in [MadeByThePinsHub/Userge](https://github.com/MadeByThePinsHub/Userge)
-5. 🎉 Merged PR [#9](https://github.com/MadeByThePinsHub/Userge/pull/9) in [MadeByThePinsHub/Userge](https://github.com/MadeByThePinsHub/Userge)
+1. 🗣 Commented on [#131](https://github.com/hydralite/hydralite/issues/131) in [hydralite/hydralite](https://github.com/hydralite/hydralite)
+2. 🗣 Commented on [#131](https://github.com/hydralite/hydralite/issues/131) in [hydralite/hydralite](https://github.com/hydralite/hydralite)
+3. 💪 Opened PR [#131](https://github.com/hydralite/hydralite/pull/131) in [hydralite/hydralite](https://github.com/hydralite/hydralite)
+4. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/gotty/issues/1) in [MadeByThePinsHub/gotty](https://github.com/MadeByThePinsHub/gotty)
+5. ❗️ Opened issue [#1](https://github.com/MadeByThePinsHub/gotty/issues/1) in [MadeByThePinsHub/gotty](https://github.com/MadeByThePinsHub/gotty)
 <!--END_SECTION:activity-->
 
 </details>
