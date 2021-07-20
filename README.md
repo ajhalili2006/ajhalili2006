@@ -1,17 +1,28 @@
 # Hello, world! 👋
 
-[![Profile views](https://gpvc.arturio.dev/AJHalili2006)](https://github.com/AndreiJirohHaliliDev2006)
+[![Profile views](https://gpvc.arturio.dev/AJHalili2006)](https://github.com/ajhalili2006)
 
-![README Banner](https://raw.githubusercontent.com/AndreiJirohHaliliDev2006/AndreiJirohHaliliDev2006/master/header.png)
+![README Banner](https://raw.githubusercontent.com/ajhalili2006/ajhalili2006/master/header.png)
 
-I'm Andrei Jiroh, if you're reading this you may want to know more about me.
+I'm Andrei Jiroh, I'm an Filipino 15-year old junior high school student who do Node.js and Python programming stuff and mess up Linux system
+administration stuff. Sometimes, I'm also an casual opensource contributor, but most of the the time I work on my own projects alone.
 
-I'm an Filipino 15-year old junior high school student and I'm passoinate about
-Node.js and Python programming and Linux system adminstration.
+## Where to find me elsewhere
 
-## Grins and Giggles About Me
+You can find me online at...
 
-[See `MORE-INFO.md` file.](https://github.com/AndreiJirohHaliliDev2006/AndreiJirohHaliliDev2006/blob/master/MORE-INFO.md)
+* Telegram: [@AJHalili2006](https://telegram.dog/AJHalili2006) - **Preferred way to contact me directly**
+* Discord: `Andrei Jiroh#7159`
+* Keybase: [ajhalilidev06](https://keybase.io/ajhalilidev06)
+* Email: <andreijiroh@madebythepins.tk> (you can find my cursed Gmail address on my PGP key, but I may not respnd)
+* Matrix: `@haliliaj06jiroh:matrix.org`
+* Mastodon: [@Kuys_Potpot@mastodon.online](https://mastodon.online/@Kuys_Potpot)
+* Twitter: [@Kuys_Potpot](https://twitter.com/Kuys_Potpot)
+* Facebook: [@andreijiroh.halili23](https://fb.me/andreijiroh.halili23) - **Only available for family and IRL friends only, may pssibly ignored for strangers.
+I prefer to use Telegram instead.**
+
+Have any questions about me? I complied [an FAQ](https://github.com/ajhalili2006/ajhalili206/blob/master/MORE-INFO.md) for you btw, maybe in the future. For anything related to
+The Pins Team//Recap Time, visit [our contact page](https://madebythepins.tk).
 
 ## Languages and Tools
 
@@ -25,31 +36,31 @@ Node.js and Python programming and Linux system adminstration.
 
 ## My Projects
 
-## I'm working for
+## I'm working for/at
 
-* [The Pins Team](https://madebythepins.tk) - Founder + Software Dev
-* [Code Server Boilerplates](https://github.com/code-server-boilerplates) - Project Maintainer
+* [The Pins Team](https://madebythepins.tk) **NOT AN COMPANY** - Founder + Software Dev, where my work usually goes
+* [Recap Time](https://github.com/RecapTime), [especially the quarterly newsletter](https://gitlab.com/MadeByThePinsHub/RecapTime/newsletter) **Part of The Pins Team,
+just probably seperate division**
+* [Code Server Boilerplates](https://github.com/code-server-boilerplates) - Project Maintainer, collection of ready to made templates for shipping
+* cloud dev environments with code-server
 
-## Currently working for
+### Currently working for
 
-* [Community Lores](https://community-lores.github.io) - Maintainer
-* [Intellivoid SpamProtection API Wrapper for JavaScript](https://github.com/MadeByThePinsHub/Intellivoid-SPB-JS-Wrapper) - Author/Maintainer
-* [Team Handbook for The Pins Team](https://en.handbooksbythepins.gq) - Core Author
-* [BitwardenRS on Divio and Railway](https://github.com/AndreiJirohHaliliDev2006/bitwardenrs-on-divio) - Hard-fork of [bitwardenrs-heroku](https://github.com/std2main/bitwardenrs_heroku) with scripts for automating deployment within minutes.
+* [Community Lores](https://community-lores.gq) - Maintainer, usually for placing docs stuff in one domain (we do redirection stuff behind the the scenes)
+* [Vaultwarden on PaaS services](https://github.com/AndreiJirohHaliliDev2006/vaultwarden-on-divio) - Hard-fork of [bitwardenrs-heroku](https://github.com/std2main/bitwardenrs_heroku) with scripts for automating deployment within minutes.
 
-## Contact me elsewhere
+### Stuff I Just Abandoned
 
-Have questions, want to hire me, do some collaboration, or any inquiries to join The Pins Team?
-Hit me up using the following contact details, but please expect longer response times as I'm mostly active on Telegram.
+Yeah, press F as many time as you want, and please send thoughts and prayers to these projects to Bull$#!t HQ at <shitfuckery@bullshit.hq>.
 
-* Telegram: [@AJHalili2006](https://telegram.dog/AJHalili2006) - **Preferred way to contact me directly**
-* Discord: `HaliliAJ06Jiroh#7159`
-* Keybase: [ajhalilidev06](https://keybase.io/ajhalilidev06)
-* Email: <andreijiroh@madebythepins.tk>
-* Matrix: `@haliliaj06jiroh:matrix.org`
-* Mastodon: [@Kuys_Potpot@mastodon.online](https://mastodon.online/[@Kuys_Potpot)
-* Twitter: [@Kuys_Potpot](https://twitter.com/Kuys_Potpot)
-* Facebook: [@andreijiroh.halili23](https://fb.me/andreijiroh.halili23) - **Only available for family and IRL friends only. I prefer to use Telegram instead.**
+* [Intellivoid SpamProtection API Wrapper for JavaScript](https://github.com/MadeByThePinsHub/Intellivoid-SPB-JS-Wrapper) - due to doing other stuff
+
+---
+
+## More stuff
+
+[See `MORE-INFO.md` file](https://github.com/ajhalili2006/ajhalili206/blob/master/MORE-INFO.md) to learn more
+about me outside my open-source life, especially fandoms I'm on.
 
 ---
 
@@ -61,7 +72,7 @@ Hit me up using the following contact details, but please expect longer response
 - [Handling requests to delete their account & move to the @ghost account for self-hosted Dev.to instances](https://dev.to/thepinsteam/handling-requests-to-delete-their-account-move-to-the-ghost-account-for-self-hosted-dev-to-instances-5hd9)
 <!-- BLOG-POST-LIST:END -->
 
-## My stats
+## My stats and activity stuff
 
 ### TL;DR on my lifetime GitHub activity + the speedrun
 
@@ -69,11 +80,14 @@ Hit me up using the following contact details, but please expect longer response
 
 ![Spreedrun Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ajhalili2006&theme=dark)
 
+### Activity Achivements
+
 ![Achivements](https://github-profile-trophy.vercel.app/?username=ajhalili2006)
 
 ### Top Languages Used
 
 <details>
+
 <summary>These stats are for my personal repos and may not reflect on what I am really used.</summary>
 
 [![Top Langs](https://gh-readme-stats-thepinsteam.vercel.app/api/top-langs/?username=ajhalili2006&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -83,7 +97,8 @@ Hit me up using the following contact details, but please expect longer response
 ### Latest GitHub Activity
 
 <details>
-<summary>Recent GitHub activity pulled through an CI</summary>
+
+<summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/gotty/issues/1) in [MadeByThePinsHub/gotty](https://github.com/MadeByThePinsHub/gotty)
@@ -97,9 +112,12 @@ Hit me up using the following contact details, but please expect longer response
 
 ### Screen Time as an Dev
 
+I'm usually do coding whenever my other self (aka my mind) wants to, or if during the school year, probably on my free time.
+
 <details>
+
 <summary>Snapshot of my screentime as an dev in Wakatime since April 13, 2021</summary>
 
-[![Wakatime Stuff](https://gh-readme-stats-thepinsteam.vercel.app/api/wakatime?username=ajhalili2006)]()
+[![Wakatime Stuff](https://gh-readme-stats-thepinsteam.vercel.app/api/wakatime?username=ajhalili2006)](https://wakatime.com/ajhalili2006)
 
 </details>
