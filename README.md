@@ -101,11 +101,11 @@ about me outside my open-source life, especially fandoms I'm on.
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#270](https://github.com/MadeByThePinsHub/are-we-down/issues/270) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
-2. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/gotty/issues/1) in [MadeByThePinsHub/gotty](https://github.com/MadeByThePinsHub/gotty)
-3. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/gotty/issues/1) in [MadeByThePinsHub/gotty](https://github.com/MadeByThePinsHub/gotty)
-4. ❗️ Closed issue [#1](https://github.com/MadeByThePinsHub/gotty/issues/1) in [MadeByThePinsHub/gotty](https://github.com/MadeByThePinsHub/gotty)
-5. 🗣 Commented on [#131](https://github.com/hydralite/hydralite/issues/131) in [hydralite/hydralite](https://github.com/hydralite/hydralite)
+1. 🗣 Commented on [#144](https://github.com/hydralite/hydralite/issues/144) in [hydralite/hydralite](https://github.com/hydralite/hydralite)
+2. 💪 Opened PR [#144](https://github.com/hydralite/hydralite/pull/144) in [hydralite/hydralite](https://github.com/hydralite/hydralite)
+3. 🗣 Commented on [#270](https://github.com/MadeByThePinsHub/are-we-down/issues/270) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
+4. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/gotty/issues/1) in [MadeByThePinsHub/gotty](https://github.com/MadeByThePinsHub/gotty)
+5. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/gotty/issues/1) in [MadeByThePinsHub/gotty](https://github.com/MadeByThePinsHub/gotty)
 <!--END_SECTION:activity-->
 
 </details>
