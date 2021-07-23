@@ -101,11 +101,11 @@ about me outside my open-source life, especially fandoms I'm on.
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#144](https://github.com/hydralite/hydralite/issues/144) in [hydralite/hydralite](https://github.com/hydralite/hydralite)
-2. 🗣 Commented on [#144](https://github.com/hydralite/hydralite/issues/144) in [hydralite/hydralite](https://github.com/hydralite/hydralite)
-3. 🗣 Commented on [#144](https://github.com/hydralite/hydralite/issues/144) in [hydralite/hydralite](https://github.com/hydralite/hydralite)
-4. 💪 Opened PR [#144](https://github.com/hydralite/hydralite/pull/144) in [hydralite/hydralite](https://github.com/hydralite/hydralite)
-5. 🗣 Commented on [#270](https://github.com/MadeByThePinsHub/are-we-down/issues/270) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
+1. 🎉 Merged PR [#1](https://github.com/MadeByThePinsHub/hydralite/pull/1) in [MadeByThePinsHub/hydralite](https://github.com/MadeByThePinsHub/hydralite)
+2. 🗣 Commented on [#1](https://github.com/MadeByThePinsHub/hydralite/issues/1) in [MadeByThePinsHub/hydralite](https://github.com/MadeByThePinsHub/hydralite)
+3. 💪 Opened PR [#1](https://github.com/MadeByThePinsHub/hydralite/pull/1) in [MadeByThePinsHub/hydralite](https://github.com/MadeByThePinsHub/hydralite)
+4. 🗣 Commented on [#144](https://github.com/hydralite/hydralite/issues/144) in [hydralite/hydralite](https://github.com/hydralite/hydralite)
+5. 🗣 Commented on [#144](https://github.com/hydralite/hydralite/issues/144) in [hydralite/hydralite](https://github.com/hydralite/hydralite)
 <!--END_SECTION:activity-->
 
 </details>
