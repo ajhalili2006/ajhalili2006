@@ -101,11 +101,11 @@ about me outside my open-source life, especially fandoms I'm on.
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#252](https://github.com/MadeByThePinsHub/are-we-down/issues/252) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
-2. 🎉 Merged PR [#2](https://github.com/hydralitebot/hydralitebot/pull/2) in [hydralitebot/hydralitebot](https://github.com/hydralitebot/hydralitebot)
-3. ❗️ Opened issue [#2](https://github.com/amitojsingh366/easy-rpc/issues/2) in [amitojsingh366/easy-rpc](https://github.com/amitojsingh366/easy-rpc)
-4. 💪 Opened PR [#1](https://github.com/hydralitebot/hydralitebot/pull/1) in [hydralitebot/hydralitebot](https://github.com/hydralitebot/hydralitebot)
-5. 🎉 Merged PR [#1](https://github.com/MadeByThePinsHub/hydralite/pull/1) in [MadeByThePinsHub/hydralite](https://github.com/MadeByThePinsHub/hydralite)
+1. 💪 Opened PR [#157](https://github.com/hydralite/hydralite/pull/157) in [hydralite/hydralite](https://github.com/hydralite/hydralite)
+2. 🗣 Commented on [#252](https://github.com/MadeByThePinsHub/are-we-down/issues/252) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
+3. 🎉 Merged PR [#2](https://github.com/hydralitebot/hydralitebot/pull/2) in [hydralitebot/hydralitebot](https://github.com/hydralitebot/hydralitebot)
+4. ❗️ Opened issue [#2](https://github.com/amitojsingh366/easy-rpc/issues/2) in [amitojsingh366/easy-rpc](https://github.com/amitojsingh366/easy-rpc)
+5. 💪 Opened PR [#1](https://github.com/hydralitebot/hydralitebot/pull/1) in [hydralitebot/hydralitebot](https://github.com/hydralitebot/hydralitebot)
 <!--END_SECTION:activity-->
 
 </details>
