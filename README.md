@@ -101,11 +101,11 @@ about me outside my open-source life, especially fandoms I'm on.
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#157](https://github.com/hydralite/hydralite/pull/157) in [hydralite/hydralite](https://github.com/hydralite/hydralite)
-2. 🗣 Commented on [#252](https://github.com/MadeByThePinsHub/are-we-down/issues/252) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
-3. 🎉 Merged PR [#2](https://github.com/hydralitebot/hydralitebot/pull/2) in [hydralitebot/hydralitebot](https://github.com/hydralitebot/hydralitebot)
-4. ❗️ Opened issue [#2](https://github.com/amitojsingh366/easy-rpc/issues/2) in [amitojsingh366/easy-rpc](https://github.com/amitojsingh366/easy-rpc)
-5. 💪 Opened PR [#1](https://github.com/hydralitebot/hydralitebot/pull/1) in [hydralitebot/hydralitebot](https://github.com/hydralitebot/hydralitebot)
+1. ❌ Closed PR [#2](https://github.com/code-server-boilerplates/nodejs-starter/pull/2) in [code-server-boilerplates/nodejs-starter](https://github.com/code-server-boilerplates/nodejs-starter)
+2. ❌ Closed PR [#1](https://github.com/code-server-boilerplates/nodejs-starter/pull/1) in [code-server-boilerplates/nodejs-starter](https://github.com/code-server-boilerplates/nodejs-starter)
+3. 🎉 Merged PR [#3](https://github.com/code-server-boilerplates/nodejs-starter/pull/3) in [code-server-boilerplates/nodejs-starter](https://github.com/code-server-boilerplates/nodejs-starter)
+4. 💪 Opened PR [#157](https://github.com/hydralite/hydralite/pull/157) in [hydralite/hydralite](https://github.com/hydralite/hydralite)
+5. 🗣 Commented on [#252](https://github.com/MadeByThePinsHub/are-we-down/issues/252) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
 <!--END_SECTION:activity-->
 
 </details>
