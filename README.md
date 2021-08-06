@@ -101,11 +101,11 @@ about me outside my open-source life, especially fandoms I'm on.
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5066](https://github.com/gitpod-io/gitpod/issues/5066) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-2. ❌ Closed PR [#2](https://github.com/code-server-boilerplates/nodejs-starter/pull/2) in [code-server-boilerplates/nodejs-starter](https://github.com/code-server-boilerplates/nodejs-starter)
-3. ❌ Closed PR [#1](https://github.com/code-server-boilerplates/nodejs-starter/pull/1) in [code-server-boilerplates/nodejs-starter](https://github.com/code-server-boilerplates/nodejs-starter)
-4. 🎉 Merged PR [#3](https://github.com/code-server-boilerplates/nodejs-starter/pull/3) in [code-server-boilerplates/nodejs-starter](https://github.com/code-server-boilerplates/nodejs-starter)
-5. 💪 Opened PR [#157](https://github.com/hydralite/hydralite/pull/157) in [hydralite/hydralite](https://github.com/hydralite/hydralite)
+1. 🗣 Commented on [#5084](https://github.com/gitpod-io/gitpod/issues/5084) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+2. 🗣 Commented on [#5066](https://github.com/gitpod-io/gitpod/issues/5066) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+3. ❌ Closed PR [#2](https://github.com/code-server-boilerplates/nodejs-starter/pull/2) in [code-server-boilerplates/nodejs-starter](https://github.com/code-server-boilerplates/nodejs-starter)
+4. ❌ Closed PR [#1](https://github.com/code-server-boilerplates/nodejs-starter/pull/1) in [code-server-boilerplates/nodejs-starter](https://github.com/code-server-boilerplates/nodejs-starter)
+5. 🎉 Merged PR [#3](https://github.com/code-server-boilerplates/nodejs-starter/pull/3) in [code-server-boilerplates/nodejs-starter](https://github.com/code-server-boilerplates/nodejs-starter)
 <!--END_SECTION:activity-->
 
 </details>
