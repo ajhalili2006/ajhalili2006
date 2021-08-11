@@ -101,11 +101,11 @@ about me outside my open-source life, especially fandoms I'm on.
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/code-server-boilerplates/nodejs-starter/pull/6) in [code-server-boilerplates/nodejs-starter](https://github.com/code-server-boilerplates/nodejs-starter)
-2. ❌ Closed PR [#5](https://github.com/code-server-boilerplates/nodejs-starter/pull/5) in [code-server-boilerplates/nodejs-starter](https://github.com/code-server-boilerplates/nodejs-starter)
-3. ❌ Closed PR [#4](https://github.com/code-server-boilerplates/nodejs-starter/pull/4) in [code-server-boilerplates/nodejs-starter](https://github.com/code-server-boilerplates/nodejs-starter)
-4. 🗣 Commented on [#5084](https://github.com/gitpod-io/gitpod/issues/5084) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-5. 🗣 Commented on [#5066](https://github.com/gitpod-io/gitpod/issues/5066) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+1. ❗️ Reopened issue [#13](https://github.com/code-server-boilerplates/starter-pack/issues/13) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+2. ❗️ Reopened issue [#14](https://github.com/code-server-boilerplates/starter-pack/issues/14) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+3. ❗️ Closed issue [#14](https://github.com/code-server-boilerplates/starter-pack/issues/14) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+4. ❗️ Closed issue [#13](https://github.com/code-server-boilerplates/starter-pack/issues/13) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+5. ❗️ Opened issue [#14](https://github.com/code-server-boilerplates/starter-pack/issues/14) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
 <!--END_SECTION:activity-->
 
 </details>
