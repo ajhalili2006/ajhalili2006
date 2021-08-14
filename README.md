@@ -101,11 +101,11 @@ about me outside my open-source life, especially fandoms I'm on.
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/code-server-boilerplates/starter-pack/issues/14) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-2. ❗️ Reopened issue [#13](https://github.com/code-server-boilerplates/starter-pack/issues/13) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-3. ❗️ Reopened issue [#14](https://github.com/code-server-boilerplates/starter-pack/issues/14) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-4. ❗️ Closed issue [#14](https://github.com/code-server-boilerplates/starter-pack/issues/14) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-5. ❗️ Closed issue [#13](https://github.com/code-server-boilerplates/starter-pack/issues/13) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+1. ❌ Closed PR [#8](https://github.com/code-server-boilerplates/starter-pack-as-base-image/pull/8) in [code-server-boilerplates/starter-pack-as-base-image](https://github.com/code-server-boilerplates/starter-pack-as-base-image)
+2. ❌ Closed PR [#7](https://github.com/code-server-boilerplates/starter-pack-as-base-image/pull/7) in [code-server-boilerplates/starter-pack-as-base-image](https://github.com/code-server-boilerplates/starter-pack-as-base-image)
+3. ❌ Closed PR [#6](https://github.com/code-server-boilerplates/starter-pack-as-base-image/pull/6) in [code-server-boilerplates/starter-pack-as-base-image](https://github.com/code-server-boilerplates/starter-pack-as-base-image)
+4. ❌ Closed PR [#5](https://github.com/code-server-boilerplates/starter-pack-as-base-image/pull/5) in [code-server-boilerplates/starter-pack-as-base-image](https://github.com/code-server-boilerplates/starter-pack-as-base-image)
+5. ❌ Closed PR [#4](https://github.com/code-server-boilerplates/starter-pack-as-base-image/pull/4) in [code-server-boilerplates/starter-pack-as-base-image](https://github.com/code-server-boilerplates/starter-pack-as-base-image)
 <!--END_SECTION:activity-->
 
 </details>
