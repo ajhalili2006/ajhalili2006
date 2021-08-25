@@ -101,11 +101,11 @@ about me outside my open-source life, especially fandoms I'm on.
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#31](https://github.com/ThePinsTeam/deploy-code-server/pull/31) in [ThePinsTeam/deploy-code-server](https://github.com/ThePinsTeam/deploy-code-server)
-2. ❌ Closed PR [#30](https://github.com/ThePinsTeam/deploy-code-server/pull/30) in [ThePinsTeam/deploy-code-server](https://github.com/ThePinsTeam/deploy-code-server)
-3. ❌ Closed PR [#27](https://github.com/ThePinsTeam/deploy-code-server/pull/27) in [ThePinsTeam/deploy-code-server](https://github.com/ThePinsTeam/deploy-code-server)
-4. 🎉 Merged PR [#10](https://github.com/RecapTime/verify/pull/10) in [RecapTime/verify](https://github.com/RecapTime/verify)
-5. ❗️ Opened issue [#9](https://github.com/RecapTime/verify/issues/9) in [RecapTime/verify](https://github.com/RecapTime/verify)
+1. 🗣 Commented on [#11](https://github.com/RecapTime/verify/issues/11) in [RecapTime/verify](https://github.com/RecapTime/verify)
+2. ❗️ Opened issue [#11](https://github.com/RecapTime/verify/issues/11) in [RecapTime/verify](https://github.com/RecapTime/verify)
+3. ❌ Closed PR [#31](https://github.com/ThePinsTeam/deploy-code-server/pull/31) in [ThePinsTeam/deploy-code-server](https://github.com/ThePinsTeam/deploy-code-server)
+4. ❌ Closed PR [#30](https://github.com/ThePinsTeam/deploy-code-server/pull/30) in [ThePinsTeam/deploy-code-server](https://github.com/ThePinsTeam/deploy-code-server)
+5. ❌ Closed PR [#27](https://github.com/ThePinsTeam/deploy-code-server/pull/27) in [ThePinsTeam/deploy-code-server](https://github.com/ThePinsTeam/deploy-code-server)
 <!--END_SECTION:activity-->
 
 </details>
