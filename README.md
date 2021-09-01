@@ -102,10 +102,10 @@ about me outside my open-source life, especially fandoms I'm on.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#14](https://github.com/RecapTime/verify/issues/14) in [RecapTime/verify](https://github.com/RecapTime/verify)
-2. 🗣 Commented on [#18](https://github.com/orta/danger-plugin-yarn/issues/18) in [orta/danger-plugin-yarn](https://github.com/orta/danger-plugin-yarn)
-3. 🗣 Commented on [#14](https://github.com/RecapTime/verify/issues/14) in [RecapTime/verify](https://github.com/RecapTime/verify)
+2. 🗣 Commented on [#14](https://github.com/RecapTime/verify/issues/14) in [RecapTime/verify](https://github.com/RecapTime/verify)
+3. 🗣 Commented on [#18](https://github.com/orta/danger-plugin-yarn/issues/18) in [orta/danger-plugin-yarn](https://github.com/orta/danger-plugin-yarn)
 4. 🗣 Commented on [#14](https://github.com/RecapTime/verify/issues/14) in [RecapTime/verify](https://github.com/RecapTime/verify)
-5. 🎉 Merged PR [#15](https://github.com/RecapTime/verify/pull/15) in [RecapTime/verify](https://github.com/RecapTime/verify)
+5. 🗣 Commented on [#14](https://github.com/RecapTime/verify/issues/14) in [RecapTime/verify](https://github.com/RecapTime/verify)
 <!--END_SECTION:activity-->
 
 </details>
