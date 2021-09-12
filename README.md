@@ -101,10 +101,10 @@ about me outside my open-source life, especially fandoms I'm on.
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/RecapTime/verify/issues/14) in [RecapTime/verify](https://github.com/RecapTime/verify)
-2. 🗣 Commented on [#14](https://github.com/RecapTime/verify/issues/14) in [RecapTime/verify](https://github.com/RecapTime/verify)
-3. 🗣 Commented on [#18](https://github.com/orta/danger-plugin-yarn/issues/18) in [orta/danger-plugin-yarn](https://github.com/orta/danger-plugin-yarn)
-4. 🗣 Commented on [#14](https://github.com/RecapTime/verify/issues/14) in [RecapTime/verify](https://github.com/RecapTime/verify)
+1. ❌ Closed PR [#11](https://github.com/code-server-boilerplates/nodejs-starter/pull/11) in [code-server-boilerplates/nodejs-starter](https://github.com/code-server-boilerplates/nodejs-starter)
+2. ❌ Closed PR [#9](https://github.com/code-server-boilerplates/nodejs-starter/pull/9) in [code-server-boilerplates/nodejs-starter](https://github.com/code-server-boilerplates/nodejs-starter)
+3. ❌ Closed PR [#10](https://github.com/code-server-boilerplates/nodejs-starter/pull/10) in [code-server-boilerplates/nodejs-starter](https://github.com/code-server-boilerplates/nodejs-starter)
+4. ❌ Closed PR [#8](https://github.com/code-server-boilerplates/nodejs-starter/pull/8) in [code-server-boilerplates/nodejs-starter](https://github.com/code-server-boilerplates/nodejs-starter)
 5. 🗣 Commented on [#14](https://github.com/RecapTime/verify/issues/14) in [RecapTime/verify](https://github.com/RecapTime/verify)
 <!--END_SECTION:activity-->
 
