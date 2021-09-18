@@ -101,11 +101,11 @@ about me outside my open-source life, especially fandoms I'm on.
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/ThePinsTeam/deploy-code-server/pull/41) in [ThePinsTeam/deploy-code-server](https://github.com/ThePinsTeam/deploy-code-server)
-2. 🎉 Merged PR [#2](https://github.com/ajhalili2006/vaultwarden-on-paas-helpers/pull/2) in [ajhalili2006/vaultwarden-on-paas-helpers](https://github.com/ajhalili2006/vaultwarden-on-paas-helpers)
-3. 🎉 Merged PR [#1](https://github.com/ajhalili2006/vaultwarden-on-paas-helpers/pull/1) in [ajhalili2006/vaultwarden-on-paas-helpers](https://github.com/ajhalili2006/vaultwarden-on-paas-helpers)
-4. 🎉 Merged PR [#14](https://github.com/RecapTime/verify/pull/14) in [RecapTime/verify](https://github.com/RecapTime/verify)
-5. 🗣 Commented on [#16](https://github.com/RecapTime/verify/issues/16) in [RecapTime/verify](https://github.com/RecapTime/verify)
+1. ❗️ Opened issue [#504](https://github.com/gitpod-io/workspace-images/issues/504) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
+2. 🎉 Merged PR [#41](https://github.com/ThePinsTeam/deploy-code-server/pull/41) in [ThePinsTeam/deploy-code-server](https://github.com/ThePinsTeam/deploy-code-server)
+3. 🎉 Merged PR [#2](https://github.com/ajhalili2006/vaultwarden-on-paas-helpers/pull/2) in [ajhalili2006/vaultwarden-on-paas-helpers](https://github.com/ajhalili2006/vaultwarden-on-paas-helpers)
+4. 🎉 Merged PR [#1](https://github.com/ajhalili2006/vaultwarden-on-paas-helpers/pull/1) in [ajhalili2006/vaultwarden-on-paas-helpers](https://github.com/ajhalili2006/vaultwarden-on-paas-helpers)
+5. 🎉 Merged PR [#14](https://github.com/RecapTime/verify/pull/14) in [RecapTime/verify](https://github.com/RecapTime/verify)
 <!--END_SECTION:activity-->
 
 </details>
