@@ -1,5 +1,7 @@
 # Hello, world! 👋
 
+> **INACTIVITY NOTICE**: Since September 23 PHT, I usually inactive due to schoolwork, so PR reviews, replies to mentions and even general support might be delayed. Sorry for that! If you have very-important stuff to say, please reach to me privately through Telegram or Discord, since I'll keep my Facebook Messenger stuff for school and family stuff only.
+
 [![Profile views](https://gpvc.arturio.dev/AJHalili2006)](https://github.com/ajhalili2006)
 
 ![README Banner](https://raw.githubusercontent.com/ajhalili2006/ajhalili2006/master/header.png)
