@@ -103,11 +103,11 @@ about me outside my open-source life, especially fandoms I'm on.
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4406](https://github.com/cli/cli/pull/4406) in [cli/cli](https://github.com/cli/cli)
-2. ❗️ Opened issue [#4](https://github.com/fnando/vscode-linter/issues/4) in [fnando/vscode-linter](https://github.com/fnando/vscode-linter)
-3. ❌ Closed PR [#16](https://github.com/RecapTime/verify/pull/16) in [RecapTime/verify](https://github.com/RecapTime/verify)
-4. 🗣 Commented on [#18](https://github.com/RecapTime/verify/issues/18) in [RecapTime/verify](https://github.com/RecapTime/verify)
-5. ❗️ Opened issue [#504](https://github.com/gitpod-io/workspace-images/issues/504) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
+1. ❗️ Opened issue [#6032](https://github.com/gitpod-io/gitpod/issues/6032) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+2. 💪 Opened PR [#4406](https://github.com/cli/cli/pull/4406) in [cli/cli](https://github.com/cli/cli)
+3. ❗️ Opened issue [#4](https://github.com/fnando/vscode-linter/issues/4) in [fnando/vscode-linter](https://github.com/fnando/vscode-linter)
+4. ❌ Closed PR [#16](https://github.com/RecapTime/verify/pull/16) in [RecapTime/verify](https://github.com/RecapTime/verify)
+5. 🗣 Commented on [#18](https://github.com/RecapTime/verify/issues/18) in [RecapTime/verify](https://github.com/RecapTime/verify)
 <!--END_SECTION:activity-->
 
 </details>
