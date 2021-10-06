@@ -103,11 +103,11 @@ about me outside my open-source life, especially fandoms I'm on.
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#415](https://github.com/docker/docker-ce-packaging/issues/415) in [docker/docker-ce-packaging](https://github.com/docker/docker-ce-packaging)
-2. ❗️ Opened issue [#6032](https://github.com/gitpod-io/gitpod/issues/6032) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-3. 💪 Opened PR [#4406](https://github.com/cli/cli/pull/4406) in [cli/cli](https://github.com/cli/cli)
-4. ❗️ Opened issue [#4](https://github.com/fnando/vscode-linter/issues/4) in [fnando/vscode-linter](https://github.com/fnando/vscode-linter)
-5. ❌ Closed PR [#16](https://github.com/RecapTime/verify/pull/16) in [RecapTime/verify](https://github.com/RecapTime/verify)
+1. ❗️ Opened issue [#6060](https://github.com/gitpod-io/gitpod/issues/6060) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+2. 🗣 Commented on [#415](https://github.com/docker/docker-ce-packaging/issues/415) in [docker/docker-ce-packaging](https://github.com/docker/docker-ce-packaging)
+3. ❗️ Opened issue [#6032](https://github.com/gitpod-io/gitpod/issues/6032) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+4. 💪 Opened PR [#4406](https://github.com/cli/cli/pull/4406) in [cli/cli](https://github.com/cli/cli)
+5. ❗️ Opened issue [#4](https://github.com/fnando/vscode-linter/issues/4) in [fnando/vscode-linter](https://github.com/fnando/vscode-linter)
 <!--END_SECTION:activity-->
 
 </details>
