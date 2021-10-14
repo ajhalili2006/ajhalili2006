@@ -103,11 +103,11 @@ about me outside my open-source life, especially fandoms I'm on.
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/gitpod-io/definitely-gp/issues/57) in [gitpod-io/definitely-gp](https://github.com/gitpod-io/definitely-gp)
-2. 🎉 Merged PR [#3](https://github.com/RecapTime/recaptime.github.io/pull/3) in [RecapTime/recaptime.github.io](https://github.com/RecapTime/recaptime.github.io)
-3. ❗️ Closed issue [#1](https://github.com/RecapTime/recaptime.github.io/issues/1) in [RecapTime/recaptime.github.io](https://github.com/RecapTime/recaptime.github.io)
-4. 🗣 Commented on [#6068](https://github.com/gitpod-io/gitpod/issues/6068) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-5. ❗️ Opened issue [#6060](https://github.com/gitpod-io/gitpod/issues/6060) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+1. ❗️ Opened issue [#24](https://github.com/sourcegraph/sourcegraph-open-in-vscode/issues/24) in [sourcegraph/sourcegraph-open-in-vscode](https://github.com/sourcegraph/sourcegraph-open-in-vscode)
+2. 🗣 Commented on [#57](https://github.com/gitpod-io/definitely-gp/issues/57) in [gitpod-io/definitely-gp](https://github.com/gitpod-io/definitely-gp)
+3. 🎉 Merged PR [#3](https://github.com/RecapTime/recaptime.github.io/pull/3) in [RecapTime/recaptime.github.io](https://github.com/RecapTime/recaptime.github.io)
+4. ❗️ Closed issue [#1](https://github.com/RecapTime/recaptime.github.io/issues/1) in [RecapTime/recaptime.github.io](https://github.com/RecapTime/recaptime.github.io)
+5. 🗣 Commented on [#6068](https://github.com/gitpod-io/gitpod/issues/6068) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 <!--END_SECTION:activity-->
 
 </details>
