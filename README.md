@@ -103,11 +103,11 @@ about me outside my open-source life, especially fandoms I'm on.
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/sourcegraph/sourcegraph-open-in-vscode/issues/24) in [sourcegraph/sourcegraph-open-in-vscode](https://github.com/sourcegraph/sourcegraph-open-in-vscode)
-2. ❌ Closed PR [#25](https://github.com/RecapTime/verify/pull/25) in [RecapTime/verify](https://github.com/RecapTime/verify)
-3. ❌ Closed PR [#21](https://github.com/RecapTime/verify/pull/21) in [RecapTime/verify](https://github.com/RecapTime/verify)
-4. ❌ Closed PR [#22](https://github.com/RecapTime/verify/pull/22) in [RecapTime/verify](https://github.com/RecapTime/verify)
-5. ❌ Closed PR [#18](https://github.com/RecapTime/verify/pull/18) in [RecapTime/verify](https://github.com/RecapTime/verify)
+1. ❗️ Opened issue [#10](https://github.com/sourcegraph/sourcegraph-open-in-atom/issues/10) in [sourcegraph/sourcegraph-open-in-atom](https://github.com/sourcegraph/sourcegraph-open-in-atom)
+2. 🗣 Commented on [#24](https://github.com/sourcegraph/sourcegraph-open-in-vscode/issues/24) in [sourcegraph/sourcegraph-open-in-vscode](https://github.com/sourcegraph/sourcegraph-open-in-vscode)
+3. ❌ Closed PR [#25](https://github.com/RecapTime/verify/pull/25) in [RecapTime/verify](https://github.com/RecapTime/verify)
+4. ❌ Closed PR [#21](https://github.com/RecapTime/verify/pull/21) in [RecapTime/verify](https://github.com/RecapTime/verify)
+5. ❌ Closed PR [#22](https://github.com/RecapTime/verify/pull/22) in [RecapTime/verify](https://github.com/RecapTime/verify)
 <!--END_SECTION:activity-->
 
 </details>
