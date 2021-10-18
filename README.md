@@ -103,11 +103,11 @@ about me outside my open-source life, especially fandoms I'm on.
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#363](https://github.com/MadeByThePinsHub/are-we-down/issues/363) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
-2. ❗️ Closed issue [#312](https://github.com/MadeByThePinsHub/are-we-down/issues/312) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
-3. ❗️ Closed issue [#252](https://github.com/MadeByThePinsHub/are-we-down/issues/252) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
-4. ❗️ Closed issue [#3](https://github.com/MadeByThePinsHub/are-we-down/issues/3) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
-5. ❗️ Opened issue [#10](https://github.com/sourcegraph/sourcegraph-open-in-atom/issues/10) in [sourcegraph/sourcegraph-open-in-atom](https://github.com/sourcegraph/sourcegraph-open-in-atom)
+1. 💪 Opened PR [#866](https://github.com/nvuillam/mega-linter/pull/866) in [nvuillam/mega-linter](https://github.com/nvuillam/mega-linter)
+2. ❗️ Closed issue [#363](https://github.com/MadeByThePinsHub/are-we-down/issues/363) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
+3. ❗️ Closed issue [#312](https://github.com/MadeByThePinsHub/are-we-down/issues/312) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
+4. ❗️ Closed issue [#252](https://github.com/MadeByThePinsHub/are-we-down/issues/252) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
+5. ❗️ Closed issue [#3](https://github.com/MadeByThePinsHub/are-we-down/issues/3) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
 <!--END_SECTION:activity-->
 
 </details>
