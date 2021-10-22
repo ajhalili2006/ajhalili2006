@@ -103,11 +103,11 @@ about me outside my open-source life, especially fandoms I'm on.
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#866](https://github.com/nvuillam/mega-linter/issues/866) in [nvuillam/mega-linter](https://github.com/nvuillam/mega-linter)
+1. 🗣 Commented on [#1965](https://github.com/gitpod-io/gitpod/issues/1965) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 2. 🗣 Commented on [#866](https://github.com/nvuillam/mega-linter/issues/866) in [nvuillam/mega-linter](https://github.com/nvuillam/mega-linter)
-3. 💪 Opened PR [#866](https://github.com/nvuillam/mega-linter/pull/866) in [nvuillam/mega-linter](https://github.com/nvuillam/mega-linter)
-4. ❗️ Closed issue [#363](https://github.com/MadeByThePinsHub/are-we-down/issues/363) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
-5. ❗️ Closed issue [#312](https://github.com/MadeByThePinsHub/are-we-down/issues/312) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
+3. 🗣 Commented on [#866](https://github.com/nvuillam/mega-linter/issues/866) in [nvuillam/mega-linter](https://github.com/nvuillam/mega-linter)
+4. 💪 Opened PR [#866](https://github.com/nvuillam/mega-linter/pull/866) in [nvuillam/mega-linter](https://github.com/nvuillam/mega-linter)
+5. ❗️ Closed issue [#363](https://github.com/MadeByThePinsHub/are-we-down/issues/363) in [MadeByThePinsHub/are-we-down](https://github.com/MadeByThePinsHub/are-we-down)
 <!--END_SECTION:activity-->
 
 </details>
