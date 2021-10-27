@@ -103,11 +103,11 @@ about me outside my open-source life, especially fandoms I'm on.
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#540](https://github.com/gitpod-io/workspace-images/pull/540) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
-2. 🗣 Commented on [#1965](https://github.com/gitpod-io/gitpod/issues/1965) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-3. 🗣 Commented on [#866](https://github.com/nvuillam/mega-linter/issues/866) in [nvuillam/mega-linter](https://github.com/nvuillam/mega-linter)
+1. 🗣 Commented on [#540](https://github.com/gitpod-io/workspace-images/issues/540) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
+2. 💪 Opened PR [#540](https://github.com/gitpod-io/workspace-images/pull/540) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
+3. 🗣 Commented on [#1965](https://github.com/gitpod-io/gitpod/issues/1965) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 4. 🗣 Commented on [#866](https://github.com/nvuillam/mega-linter/issues/866) in [nvuillam/mega-linter](https://github.com/nvuillam/mega-linter)
-5. 💪 Opened PR [#866](https://github.com/nvuillam/mega-linter/pull/866) in [nvuillam/mega-linter](https://github.com/nvuillam/mega-linter)
+5. 🗣 Commented on [#866](https://github.com/nvuillam/mega-linter/issues/866) in [nvuillam/mega-linter](https://github.com/nvuillam/mega-linter)
 <!--END_SECTION:activity-->
 
 </details>
