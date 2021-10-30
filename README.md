@@ -103,11 +103,11 @@ about me outside my open-source life, especially fandoms I'm on.
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3221](https://github.com/tailscale/tailscale/issues/3221) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
-2. 🗣 Commented on [#2839](https://github.com/tailscale/tailscale/issues/2839) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
-3. 🗣 Commented on [#540](https://github.com/gitpod-io/workspace-images/issues/540) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
-4. 💪 Opened PR [#540](https://github.com/gitpod-io/workspace-images/pull/540) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
-5. 🗣 Commented on [#1965](https://github.com/gitpod-io/gitpod/issues/1965) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+1. 🎉 Merged PR [#1](https://github.com/ajhalili2006/openvscode-releases/pull/1) in [ajhalili2006/openvscode-releases](https://github.com/ajhalili2006/openvscode-releases)
+2. ❗️ Opened issue [#3221](https://github.com/tailscale/tailscale/issues/3221) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
+3. 🗣 Commented on [#2839](https://github.com/tailscale/tailscale/issues/2839) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
+4. 🗣 Commented on [#540](https://github.com/gitpod-io/workspace-images/issues/540) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
+5. 💪 Opened PR [#540](https://github.com/gitpod-io/workspace-images/pull/540) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
 <!--END_SECTION:activity-->
 
 </details>
