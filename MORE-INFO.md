@@ -1,18 +1,12 @@
-# More about me
+# Hey, this page has bee moved somewhere.
 
-## Skills
+They're now on seperate places, specifically:
 
-* Continous Intergation (GitLab CI, Cirrus CI, CircleCI)
-* Telegram Bot Development (since 2020)
-* Linux system adminstration (still learnimg)
-* Task automation and system scripting using mostly bash
-* Embracing cloud dev environemnt services (e.g. Gitpod, goormIDE)
-* Community Moderation in Discord and Telegram (Reddit? Soon.)
+* <https://github.com/ajhalili2006/ajhalili2006/tree/main/docs/communities.md>; and
+* <https://github.com/ajhalili2006/ajhalili2006/tree/main/docs/skills-and-certs.md>
 
-## Fandoms and Communities outside Open-Source Community
+Have questions about me? See [the FAQ](./docs/faq.md) first before sending an mesage.
 
-* Animators at Hyun's Dojo Community
-  * [Gildedguy (Michael Moy)](https://gildedguy.com) (since 2020)
-  * [oxob3000](https://www.youtube.com/channel/UCrtusZ6nfkGMVIql8kE_o7w) (since 2020)
-* Generally Speaking: Animators on YouTube
-  * [Alan Becker](https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw) (since 2015)
+---
+
+This page is being kept to ensure no links are broken. Please pardon the interpution.
