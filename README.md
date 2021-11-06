@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-> **INACTIVITY NOTICE**: Since September 23 PHT, I usually inactive due to schoolwork, so PR reviews, replies to mentions and even general support might be delayed. Sorry for that! If you have very-important stuff to say, please reach to me privately through Telegram or Discord, since I'll keep my Facebook Messenger stuff for school and family stuff only.
+> ~~**INACTIVITY NOTICE**: Since September 23 PHT, I usually inactive due to schoolwork, so PR reviews, replies to mentions and even general support might be delayed. Sorry for that! If you have very-important stuff to say, please reach to me privately through Telegram or Discord, since I'll keep my Facebook Messenger stuff for school and family stuff only.~~ Not necessarily inactive since I also do developer stuff more that school, so please send thoughts and prayers to my grades at <shitfuckery@bullshit.hq>.
 
 [![Profile views](https://gpvc.arturio.dev/AJHalili2006)](https://github.com/ajhalili2006)
 
@@ -13,6 +13,7 @@ administration stuff. Sometimes, I'm also an casual opensource contributor, but 
 
 You can find me online at...
 
+* Blog: <https://ajhalili2006.wordpress.com>
 * Telegram: [@AJHalili2006](https://telegram.dog/AJHalili2006) - **Preferred way to contact me directly**
 * Discord: `Andrei Jiroh#7159`
 * Keybase: [ajhalilidev06](https://keybase.io/ajhalilidev06)
@@ -23,8 +24,7 @@ You can find me online at...
 * Facebook: [@andreijiroh.halili23](https://fb.me/andreijiroh.halili23) - **Only available for family and IRL friends only, may pssibly ignored for strangers.
 I prefer to use Telegram instead.**
 
-Have any questions about me? I complied [an FAQ](https://github.com/ajhalili2006/ajhalili206/blob/master/MORE-INFO.md) for you btw, maybe in the future. For anything related to
-The Pins Team//Recap Time, visit [our contact page](https://madebythepins.tk).
+Have any questions about me? I complied [an FAQ](https://github.com/ajhalili2006/ajhalili206/blob/master/docs/about-me/faq.md) for you btw, maybe in the future. For anything related to The Pins Team//Recap Time, visit [our contact page](https://madebythepinshub.gitlab.io/contact).
 
 ## Languages and Tools
 
@@ -76,9 +76,11 @@ about me outside my open-source life, especially fandoms I'm on.
 
 ## My stats and activity stuff
 
-### TL;DR on my lifetime GitHub activity + the speedrun
+### LIfetime GH Activity
 
 [![Andrei Jiroh's stats](https://gh-readme-stats-thepinsteam.vercel.app/api?username=ajhalili2006&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Speedrun Streak Stats
 
 ![Spreedrun Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ajhalili2006&theme=dark)
 
@@ -114,7 +116,8 @@ about me outside my open-source life, especially fandoms I'm on.
 
 ### Screen Time as an Dev
 
-I'm usually do coding whenever my other self (aka my mind) wants to, or if during the school year, probably on my free time.
+I'm usually do coding whenever my other self (aka my mind) wants to, or if during the school year, probably on my free time. May not up-to-date as
+Gitpod don't preserve `/home` directories on workspace restarts.
 
 <details>
 
