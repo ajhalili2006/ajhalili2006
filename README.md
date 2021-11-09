@@ -11,18 +11,15 @@ administration stuff. Sometimes, I'm also an casual opensource contributor, but 
 
 ## Where to find me elsewhere
 
-You can find me online at...
-
-* Blog: <https://ajhalili2006.wordpress.com>
-* Telegram: [@AJHalili2006](https://telegram.dog/AJHalili2006) - **Preferred way to contact me directly**
-* Discord: `Andrei Jiroh#7159`
-* Keybase: [ajhalilidev06](https://keybase.io/ajhalilidev06)
-* Email: <andreijiroh@madebythepins.tk> (you can find my cursed Gmail address on my PGP key, but I may not respnd)
-* Matrix: `@haliliaj06jiroh:matrix.org`
-* Mastodon: [@Kuys_Potpot@mastodon.online](https://mastodon.online/@Kuys_Potpot)
-* Twitter: [@Kuys_Potpot](https://twitter.com/Kuys_Potpot)
-* Facebook: [@andreijiroh.halili23](https://fb.me/andreijiroh.halili23) - **Only available for family and IRL friends only, may pssibly ignored for strangers.
-I prefer to use Telegram instead.**
+[![Wordpress](https://img.shields.io/badge/Blog%20/%20Website-grey?&style=for-the-badge&logo=wordpress&logoColor=white)](https://ajhalili2006.wordpress.com)
+[![GitLab SaaS](https://img.shields.io/badge/GitLab-6E49CB?&style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ajhalili2006)
+![Twitter](https://img.shields.io/twitter/follow/Kuys_Potpot?color=blue&label=Twitter&logo=twitter&style=for-the-badge)
+![Reddit](https://img.shields.io/reddit/user-karma/combined/andreihalili?label=Reddit&logo=reddit&style=for-the-badge)
+[![Mastodon](https://img.shields.io/mastodon/follow/000164296?color=blue&domain=https%3A%2F%2Fmastodon.online&label=Mastodon&logo=mastodon&style=for-the-badge)](https://mastodon.online/@Kuys_Potpot)
+[![Tewlegram](https://img.shields.io/badge/Telegram-grey?&style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/ajhalili2006)
+[![Matrix](https://img.shields.io/badge/Matrix%20(Homeserver:%20matrix.org)-black?&style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@haliliaj06jiroh:matrix.org)
+[![Keybase](https://img.shields.io/badge/Keybase-grey?&style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/ajhalilidev06)
+[![Discord](https://img.shields.io/badge/Discord-5539cc?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kf5nz4X)
 
 Have any questions about me? I complied [an FAQ](https://github.com/ajhalili2006/ajhalili206/blob/master/docs/about-me/faq.md) for you btw, maybe in the future. For anything related to The Pins Team//Recap Time, visit [our contact page](https://madebythepinshub.gitlab.io/contact).
 
