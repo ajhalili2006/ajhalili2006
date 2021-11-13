@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-> ~~**INACTIVITY NOTICE**: Since September 23 PHT, I usually inactive due to schoolwork, so PR reviews, replies to mentions and even general support might be delayed. Sorry for that! If you have very-important stuff to say, please reach to me privately through Telegram or Discord, since I'll keep my Facebook Messenger stuff for school and family stuff only.~~ Not necessarily inactive since I also do developer stuff more that school, so please send thoughts and prayers to my grades at <shitfuckery@bullshit.hq>.
+> ~~**INACTIVITY NOTICE**: Since September 23 PHT, I usually inactive due to schoolwork, so PR reviews, replies to mentions and even general support might be delayed. Sorry for that! If you have very-important stuff to say, please reach to me privately through Telegram or Discord, since I'll keep my Facebook Messenger stuff for school and family stuff only.~~ Not necessarily inactive since I also do developer stuff more that school, so please send thoughts and prayers to my grades at <shitfuckery@bullshit.hq>.[^1]
 
 [![Profile views](https://gpvc.arturio.dev/AJHalili2006)](https://github.com/ajhalili2006)
 
@@ -50,7 +50,7 @@ just probably seperate division**
 
 ### Stuff I Just Abandoned
 
-Yeah, press F as many time as you want, and please send thoughts and prayers to these projects to Bull$#!t HQ at <shitfuckery@bullshit.hq>.
+Yeah, press F as many time as you want, and please send thoughts and prayers to these projects to Bull$#!t HQ at <shitfuckery@bullshit.hq>.[^1]
 
 * [Intellivoid SpamProtection API Wrapper for JavaScript](https://github.com/MadeByThePinsHub/Intellivoid-SPB-JS-Wrapper) - due to doing other stuff
 
@@ -123,3 +123,6 @@ Gitpod don't preserve `/home` directories on workspace restarts.
 [![Wakatime Stuff](https://gh-readme-stats-thepinsteam.vercel.app/api/wakatime?username=ajhalili2006)](https://wakatime.com/ajhalili2006)
 
 </details>
+
+
+[^1]: Email address doesn't work? See <https://github.com/ajhalili2006/ajhalili2006/blob/master/docs/vocabulary/shitfuckery-at-bullshit-dot-hq.md> why.
