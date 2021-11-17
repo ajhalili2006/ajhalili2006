@@ -102,11 +102,11 @@ about me outside my open-source life, especially fandoms I'm on.
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/MadeByThePinsHub/handbook/pull/5) in [MadeByThePinsHub/handbook](https://github.com/MadeByThePinsHub/handbook)
-2. 🗣 Commented on [#7611](https://github.com/microsoft/WSL/issues/7611) in [microsoft/WSL](https://github.com/microsoft/WSL)
+1. ❌ Closed PR [#7](https://github.com/MadeByThePinsHub/handbook/pull/7) in [MadeByThePinsHub/handbook](https://github.com/MadeByThePinsHub/handbook)
+2. ❌ Closed PR [#5](https://github.com/MadeByThePinsHub/handbook/pull/5) in [MadeByThePinsHub/handbook](https://github.com/MadeByThePinsHub/handbook)
 3. 🗣 Commented on [#7611](https://github.com/microsoft/WSL/issues/7611) in [microsoft/WSL](https://github.com/microsoft/WSL)
-4. 🎉 Merged PR [#1](https://github.com/ajhalili2006/ajhalili2006/pull/1) in [ajhalili2006/ajhalili2006](https://github.com/ajhalili2006/ajhalili2006)
-5. 🗣 Commented on [#124](https://github.com/railwayapp/cli/issues/124) in [railwayapp/cli](https://github.com/railwayapp/cli)
+4. 🗣 Commented on [#7611](https://github.com/microsoft/WSL/issues/7611) in [microsoft/WSL](https://github.com/microsoft/WSL)
+5. 🎉 Merged PR [#1](https://github.com/ajhalili2006/ajhalili2006/pull/1) in [ajhalili2006/ajhalili2006](https://github.com/ajhalili2006/ajhalili2006)
 <!--END_SECTION:activity-->
 
 </details>
