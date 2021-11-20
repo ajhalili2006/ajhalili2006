@@ -102,10 +102,10 @@ about me outside my open-source life, especially fandoms I'm on.
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/mishushakov/signin-with-matrix/issues/12) in [mishushakov/signin-with-matrix](https://github.com/mishushakov/signin-with-matrix)
-2. ❌ Closed PR [#7](https://github.com/MadeByThePinsHub/handbook/pull/7) in [MadeByThePinsHub/handbook](https://github.com/MadeByThePinsHub/handbook)
-3. ❌ Closed PR [#5](https://github.com/MadeByThePinsHub/handbook/pull/5) in [MadeByThePinsHub/handbook](https://github.com/MadeByThePinsHub/handbook)
-4. 🗣 Commented on [#7611](https://github.com/microsoft/WSL/issues/7611) in [microsoft/WSL](https://github.com/microsoft/WSL)
+1. 🗣 Commented on [#18](https://github.com/probot/ideas/issues/18) in [probot/ideas](https://github.com/probot/ideas)
+2. ❗️ Opened issue [#12](https://github.com/mishushakov/signin-with-matrix/issues/12) in [mishushakov/signin-with-matrix](https://github.com/mishushakov/signin-with-matrix)
+3. ❌ Closed PR [#7](https://github.com/MadeByThePinsHub/handbook/pull/7) in [MadeByThePinsHub/handbook](https://github.com/MadeByThePinsHub/handbook)
+4. ❌ Closed PR [#5](https://github.com/MadeByThePinsHub/handbook/pull/5) in [MadeByThePinsHub/handbook](https://github.com/MadeByThePinsHub/handbook)
 5. 🗣 Commented on [#7611](https://github.com/microsoft/WSL/issues/7611) in [microsoft/WSL](https://github.com/microsoft/WSL)
 <!--END_SECTION:activity-->
 
