@@ -103,10 +103,10 @@ about me outside my open-source life, especially fandoms I'm on.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#552](https://github.com/gitpod-io/workspace-images/issues/552) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
-2. 🗣 Commented on [#866](https://github.com/megalinter/megalinter/issues/866) in [megalinter/megalinter](https://github.com/megalinter/megalinter)
-3. 🗣 Commented on [#5451](https://github.com/gitpod-io/gitpod/issues/5451) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-4. ❗️ Opened issue [#123](https://github.com/probot/ideas/issues/123) in [probot/ideas](https://github.com/probot/ideas)
-5. ❗️ Opened issue [#24](https://github.com/wdhongtw/vscode-gpg-indicator/issues/24) in [wdhongtw/vscode-gpg-indicator](https://github.com/wdhongtw/vscode-gpg-indicator)
+2. 🗣 Commented on [#552](https://github.com/gitpod-io/workspace-images/issues/552) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
+3. 🗣 Commented on [#866](https://github.com/megalinter/megalinter/issues/866) in [megalinter/megalinter](https://github.com/megalinter/megalinter)
+4. 🗣 Commented on [#5451](https://github.com/gitpod-io/gitpod/issues/5451) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+5. ❗️ Opened issue [#123](https://github.com/probot/ideas/issues/123) in [probot/ideas](https://github.com/probot/ideas)
 <!--END_SECTION:activity-->
 
 </details>
