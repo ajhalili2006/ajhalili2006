@@ -102,11 +102,11 @@ about me outside my open-source life, especially fandoms I'm on.
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/coffee-cup/gradient-avatars/issues/1) in [coffee-cup/gradient-avatars](https://github.com/coffee-cup/gradient-avatars)
-2. 🗣 Commented on [#552](https://github.com/gitpod-io/workspace-images/issues/552) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
+1. ❗️ Opened issue [#7149](https://github.com/gitpod-io/gitpod/issues/7149) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+2. ❗️ Opened issue [#1](https://github.com/coffee-cup/gradient-avatars/issues/1) in [coffee-cup/gradient-avatars](https://github.com/coffee-cup/gradient-avatars)
 3. 🗣 Commented on [#552](https://github.com/gitpod-io/workspace-images/issues/552) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
-4. 🗣 Commented on [#866](https://github.com/megalinter/megalinter/issues/866) in [megalinter/megalinter](https://github.com/megalinter/megalinter)
-5. 🗣 Commented on [#5451](https://github.com/gitpod-io/gitpod/issues/5451) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+4. 🗣 Commented on [#552](https://github.com/gitpod-io/workspace-images/issues/552) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
+5. 🗣 Commented on [#866](https://github.com/megalinter/megalinter/issues/866) in [megalinter/megalinter](https://github.com/megalinter/megalinter)
 <!--END_SECTION:activity-->
 
 </details>
