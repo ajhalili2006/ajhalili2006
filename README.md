@@ -103,10 +103,10 @@ about me outside my open-source life, especially fandoms I'm on.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3327](https://github.com/darklang/dark/issues/3327) in [darklang/dark](https://github.com/darklang/dark)
-2. ❗️ Opened issue [#3327](https://github.com/darklang/dark/issues/3327) in [darklang/dark](https://github.com/darklang/dark)
-3. 🗣 Commented on [#1](https://github.com/gitpod-io/devx-community/issues/1) in [gitpod-io/devx-community](https://github.com/gitpod-io/devx-community)
-4. 🗣 Commented on [#1077](https://github.com/megalinter/megalinter/issues/1077) in [megalinter/megalinter](https://github.com/megalinter/megalinter)
-5. 🗣 Commented on [#866](https://github.com/megalinter/megalinter/issues/866) in [megalinter/megalinter](https://github.com/megalinter/megalinter)
+2. 🗣 Commented on [#3327](https://github.com/darklang/dark/issues/3327) in [darklang/dark](https://github.com/darklang/dark)
+3. ❗️ Opened issue [#3327](https://github.com/darklang/dark/issues/3327) in [darklang/dark](https://github.com/darklang/dark)
+4. 🗣 Commented on [#1](https://github.com/gitpod-io/devx-community/issues/1) in [gitpod-io/devx-community](https://github.com/gitpod-io/devx-community)
+5. 🗣 Commented on [#1077](https://github.com/megalinter/megalinter/issues/1077) in [megalinter/megalinter](https://github.com/megalinter/megalinter)
 <!--END_SECTION:activity-->
 
 </details>
