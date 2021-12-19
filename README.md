@@ -62,6 +62,8 @@ Yeah, press F as many time as you want, and please send thoughts and prayers to 
 [![WordPress](https://img.shields.io/badge/Blog%20/%20Website-grey?&style=for-the-badge&logo=wordpress&logoColor=white)](https://ajhalili2006.wordpress.com)
 
 <!-- WORDPRESS:START -->
+- [Spotify Wrapped 2021](https://ajhalili2006.wordpress.com/2021/12/02/spotify-wrapped-2021/)
+- [Welcome aboard to my new blog!](https://ajhalili2006.wordpress.com/2021/11/06/new-blog/)
 <!-- WORDPRESS:END -->
 
 ### DevTo
