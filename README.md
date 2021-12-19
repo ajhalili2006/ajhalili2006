@@ -11,7 +11,6 @@ administration stuff. Sometimes, I'm also an casual opensource contributor, but 
 
 ## Where to find me elsewhere
 
-[![Wordpress](https://img.shields.io/badge/Blog%20/%20Website-grey?&style=for-the-badge&logo=wordpress&logoColor=white)](https://ajhalili2006.wordpress.com)
 [![GitLab SaaS](https://img.shields.io/badge/GitLab-6E49CB?&style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ajhalili2006)
 ![Twitter](https://img.shields.io/twitter/follow/Kuys_Potpot?color=blue&label=Twitter&logo=twitter&style=for-the-badge)
 ![Reddit](https://img.shields.io/reddit/user-karma/combined/andreihalili?label=Reddit&logo=reddit&style=for-the-badge)
@@ -56,20 +55,23 @@ Yeah, press F as many time as you want, and please send thoughts and prayers to 
 
 ---
 
-## More stuff
+## Blog Posts
 
-[See `MORE-INFO.md` file](https://github.com/ajhalili2006/ajhalili206/blob/master/MORE-INFO.md) to learn more
-about me outside my open-source life, especially fandoms I'm on.
+### WordPress Blog
 
----
+[![WordPress](https://img.shields.io/badge/Blog%20/%20Website-grey?&style=for-the-badge&logo=wordpress&logoColor=white)](https://ajhalili2006.wordpress.com)
 
-## Dev.to Blog Posts
-<!-- BLOG-POST-LIST:START -->
+<!-- WORDPRESS:START -->
+<!-- WORDPRESS:END -->
+
+### DevTo
+
+<!-- DEVTO:START -->
 - [How do co-authors can sign commits, for vigilant-mode-enabled GitHub users?](https://dev.to/thepinsteam/how-do-co-authors-can-sign-commits-for-vigilant-mode-enabled-github-users-52h2)
 - [Introducing Recap Time](https://dev.to/recaptime/introducing-recap-time-4acb)
 - [Team Updates — New Twitch channels and more &lpar;oh my!&rpar;](https://dev.to/thepinsteam/team-updates-new-twitch-channels-and-more-oh-my-bc6)
 - [Handling requests to delete their account &amp; move to the @ghost account for self-hosted Dev.to instances](https://dev.to/thepinsteam/handling-requests-to-delete-their-account-move-to-the-ghost-account-for-self-hosted-dev-to-instances-5hd9)
-<!-- BLOG-POST-LIST:END -->
+<!-- DEVTO:END -->
 
 ## My stats and activity stuff
 
