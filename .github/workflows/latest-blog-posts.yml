@@ -1,13 +1,13 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs every 3 hours
+    - cron: '0 */3 * * *'
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: "Update this repo's README with latest blog posts"
+  rss-feed:
+    name: "Update blog posts section from RSS"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -17,4 +17,4 @@ jobs:
           feed_list: "https://dev.to/feed/ajhalili2006"
           # https://github.com/MadeByThePinsHub/github-activity-readme/blob/master/index.js#L75
           committer_username: Recap Time Bot
-          committer_email: service-accounts+github@devhubcentral.ml
+          committer_email: service-accounts+github@recaptime.tk
