@@ -106,11 +106,11 @@ Yeah, press F as many time as you want, and please send thoughts and prayers to 
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3327](https://github.com/darklang/dark/issues/3327) in [darklang/dark](https://github.com/darklang/dark)
+1. 💪 Opened PR [#4954](https://github.com/cli/cli/pull/4954) in [cli/cli](https://github.com/cli/cli)
 2. 🗣 Commented on [#3327](https://github.com/darklang/dark/issues/3327) in [darklang/dark](https://github.com/darklang/dark)
-3. ❗️ Opened issue [#3327](https://github.com/darklang/dark/issues/3327) in [darklang/dark](https://github.com/darklang/dark)
-4. 🗣 Commented on [#1](https://github.com/gitpod-io/devx-community/issues/1) in [gitpod-io/devx-community](https://github.com/gitpod-io/devx-community)
-5. 🗣 Commented on [#1077](https://github.com/megalinter/megalinter/issues/1077) in [megalinter/megalinter](https://github.com/megalinter/megalinter)
+3. 🗣 Commented on [#3327](https://github.com/darklang/dark/issues/3327) in [darklang/dark](https://github.com/darklang/dark)
+4. ❗️ Opened issue [#3327](https://github.com/darklang/dark/issues/3327) in [darklang/dark](https://github.com/darklang/dark)
+5. 🗣 Commented on [#1](https://github.com/gitpod-io/devx-community/issues/1) in [gitpod-io/devx-community](https://github.com/gitpod-io/devx-community)
 <!--END_SECTION:activity-->
 
 </details>
