@@ -106,11 +106,11 @@ Yeah, press F as many time as you want, and please send thoughts and prayers to 
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7363](https://github.com/gitpod-io/gitpod/issues/7363) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-2. 🗣 Commented on [#2](https://github.com/RecapTime/status-page/issues/2) in [RecapTime/status-page](https://github.com/RecapTime/status-page)
-3. 💪 Opened PR [#4954](https://github.com/cli/cli/pull/4954) in [cli/cli](https://github.com/cli/cli)
-4. 🗣 Commented on [#3327](https://github.com/darklang/dark/issues/3327) in [darklang/dark](https://github.com/darklang/dark)
-5. 🗣 Commented on [#3327](https://github.com/darklang/dark/issues/3327) in [darklang/dark](https://github.com/darklang/dark)
+1. 🗣 Commented on [#7363](https://github.com/gitpod-io/gitpod/issues/7363) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+2. 🗣 Commented on [#7363](https://github.com/gitpod-io/gitpod/issues/7363) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+3. ❗️ Opened issue [#7363](https://github.com/gitpod-io/gitpod/issues/7363) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+4. 🗣 Commented on [#2](https://github.com/RecapTime/status-page/issues/2) in [RecapTime/status-page](https://github.com/RecapTime/status-page)
+5. 💪 Opened PR [#4954](https://github.com/cli/cli/pull/4954) in [cli/cli](https://github.com/cli/cli)
 <!--END_SECTION:activity-->
 
 </details>
