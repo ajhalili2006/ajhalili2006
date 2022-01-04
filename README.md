@@ -106,11 +106,11 @@ Yeah, press F as many time as you want, and please send thoughts and prayers to 
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/ajhalili2006/gp-localapp-glci-builder/pull/1) in [ajhalili2006/gp-localapp-glci-builder](https://github.com/ajhalili2006/gp-localapp-glci-builder)
-2. 🗣 Commented on [#7363](https://github.com/gitpod-io/gitpod/issues/7363) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+1. ❗️ Opened issue [#7439](https://github.com/gitpod-io/gitpod/issues/7439) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+2. ❌ Closed PR [#1](https://github.com/ajhalili2006/gp-localapp-glci-builder/pull/1) in [ajhalili2006/gp-localapp-glci-builder](https://github.com/ajhalili2006/gp-localapp-glci-builder)
 3. 🗣 Commented on [#7363](https://github.com/gitpod-io/gitpod/issues/7363) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-4. ❗️ Opened issue [#7363](https://github.com/gitpod-io/gitpod/issues/7363) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-5. 🗣 Commented on [#2](https://github.com/RecapTime/status-page/issues/2) in [RecapTime/status-page](https://github.com/RecapTime/status-page)
+4. 🗣 Commented on [#7363](https://github.com/gitpod-io/gitpod/issues/7363) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+5. ❗️ Opened issue [#7363](https://github.com/gitpod-io/gitpod/issues/7363) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 <!--END_SECTION:activity-->
 
 </details>
