@@ -106,11 +106,11 @@ Yeah, press F as many time as you want, and please send thoughts and prayers to 
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#866](https://github.com/megalinter/megalinter/issues/866) in [megalinter/megalinter](https://github.com/megalinter/megalinter)
-2. ❗️ Opened issue [#7439](https://github.com/gitpod-io/gitpod/issues/7439) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-3. ❌ Closed PR [#1](https://github.com/ajhalili2006/gp-localapp-glci-builder/pull/1) in [ajhalili2006/gp-localapp-glci-builder](https://github.com/ajhalili2006/gp-localapp-glci-builder)
-4. 🗣 Commented on [#7363](https://github.com/gitpod-io/gitpod/issues/7363) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-5. 🗣 Commented on [#7363](https://github.com/gitpod-io/gitpod/issues/7363) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+1. ❗️ Closed issue [#6032](https://github.com/gitpod-io/gitpod/issues/6032) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+2. 🗣 Commented on [#6032](https://github.com/gitpod-io/gitpod/issues/6032) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+3. ❗️ Opened issue [#37](https://github.com/gitpod-io/dazzle/issues/37) in [gitpod-io/dazzle](https://github.com/gitpod-io/dazzle)
+4. 🗣 Commented on [#866](https://github.com/megalinter/megalinter/issues/866) in [megalinter/megalinter](https://github.com/megalinter/megalinter)
+5. ❗️ Opened issue [#7439](https://github.com/gitpod-io/gitpod/issues/7439) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 <!--END_SECTION:activity-->
 
 </details>
