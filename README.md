@@ -106,11 +106,11 @@ Yeah, press F as many time as you want, and please send thoughts and prayers to 
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#495](https://github.com/upptime/upptime/issues/495) in [upptime/upptime](https://github.com/upptime/upptime)
-2. 🗣 Commented on [#7439](https://github.com/gitpod-io/gitpod/issues/7439) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-3. ❗️ Closed issue [#6032](https://github.com/gitpod-io/gitpod/issues/6032) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-4. 🗣 Commented on [#6032](https://github.com/gitpod-io/gitpod/issues/6032) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-5. ❗️ Opened issue [#37](https://github.com/gitpod-io/dazzle/issues/37) in [gitpod-io/dazzle](https://github.com/gitpod-io/dazzle)
+1. 🗣 Commented on [#7149](https://github.com/gitpod-io/gitpod/issues/7149) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+2. 🗣 Commented on [#495](https://github.com/upptime/upptime/issues/495) in [upptime/upptime](https://github.com/upptime/upptime)
+3. 🗣 Commented on [#7439](https://github.com/gitpod-io/gitpod/issues/7439) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+4. ❗️ Closed issue [#6032](https://github.com/gitpod-io/gitpod/issues/6032) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+5. 🗣 Commented on [#6032](https://github.com/gitpod-io/gitpod/issues/6032) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 <!--END_SECTION:activity-->
 
 </details>
