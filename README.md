@@ -106,11 +106,11 @@ Yeah, press F as many time as you want, and please send thoughts and prayers to 
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#44](https://github.com/RecapTime/verify/pull/44) in [RecapTime/verify](https://github.com/RecapTime/verify)
-2. ❌ Closed PR [#43](https://github.com/RecapTime/verify/pull/43) in [RecapTime/verify](https://github.com/RecapTime/verify)
-3. ❌ Closed PR [#42](https://github.com/RecapTime/verify/pull/42) in [RecapTime/verify](https://github.com/RecapTime/verify)
-4. ❌ Closed PR [#41](https://github.com/RecapTime/verify/pull/41) in [RecapTime/verify](https://github.com/RecapTime/verify)
-5. ❌ Closed PR [#39](https://github.com/RecapTime/verify/pull/39) in [RecapTime/verify](https://github.com/RecapTime/verify)
+1. 🗣 Commented on [#12](https://github.com/code-server-boilerplates/starter-pack/issues/12) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+2. ❌ Closed PR [#19](https://github.com/code-server-boilerplates/starter-pack/pull/19) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+3. 🗣 Commented on [#19](https://github.com/code-server-boilerplates/starter-pack/issues/19) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+4. ❌ Closed PR [#44](https://github.com/RecapTime/verify/pull/44) in [RecapTime/verify](https://github.com/RecapTime/verify)
+5. ❌ Closed PR [#43](https://github.com/RecapTime/verify/pull/43) in [RecapTime/verify](https://github.com/RecapTime/verify)
 <!--END_SECTION:activity-->
 
 </details>
