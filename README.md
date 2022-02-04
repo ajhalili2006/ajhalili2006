@@ -102,11 +102,11 @@ Yeah, press F as many time as you want, and please send thoughts and prayers to 
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3871](https://github.com/tailscale/tailscale/issues/3871) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
-2. 🗣 Commented on [#12](https://github.com/code-server-boilerplates/starter-pack/issues/12) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-3. ❌ Closed PR [#19](https://github.com/code-server-boilerplates/starter-pack/pull/19) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-4. 🗣 Commented on [#19](https://github.com/code-server-boilerplates/starter-pack/issues/19) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-5. ❌ Closed PR [#44](https://github.com/RecapTime/verify/pull/44) in [RecapTime/verify](https://github.com/RecapTime/verify)
+1. 🗣 Commented on [#3871](https://github.com/tailscale/tailscale/issues/3871) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
+2. ❗️ Opened issue [#3871](https://github.com/tailscale/tailscale/issues/3871) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
+3. 🗣 Commented on [#12](https://github.com/code-server-boilerplates/starter-pack/issues/12) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+4. ❌ Closed PR [#19](https://github.com/code-server-boilerplates/starter-pack/pull/19) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+5. 🗣 Commented on [#19](https://github.com/code-server-boilerplates/starter-pack/issues/19) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
 <!--END_SECTION:activity-->
 
 </details>
