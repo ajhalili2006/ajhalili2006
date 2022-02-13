@@ -102,11 +102,11 @@ Yeah, press F as many time as you want, and please send thoughts and prayers to 
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/ajhalili2006/vaultwarden-on-paas-helpers/pull/6) in [ajhalili2006/vaultwarden-on-paas-helpers](https://github.com/ajhalili2006/vaultwarden-on-paas-helpers)
-2. 🗣 Commented on [#3871](https://github.com/tailscale/tailscale/issues/3871) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
-3. ❗️ Opened issue [#3871](https://github.com/tailscale/tailscale/issues/3871) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
-4. 🗣 Commented on [#12](https://github.com/code-server-boilerplates/starter-pack/issues/12) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
-5. ❌ Closed PR [#19](https://github.com/code-server-boilerplates/starter-pack/pull/19) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
+1. ❗️ Opened issue [#8178](https://github.com/gitpod-io/gitpod/issues/8178) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+2. 🎉 Merged PR [#6](https://github.com/ajhalili2006/vaultwarden-on-paas-helpers/pull/6) in [ajhalili2006/vaultwarden-on-paas-helpers](https://github.com/ajhalili2006/vaultwarden-on-paas-helpers)
+3. 🗣 Commented on [#3871](https://github.com/tailscale/tailscale/issues/3871) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
+4. ❗️ Opened issue [#3871](https://github.com/tailscale/tailscale/issues/3871) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
+5. 🗣 Commented on [#12](https://github.com/code-server-boilerplates/starter-pack/issues/12) in [code-server-boilerplates/starter-pack](https://github.com/code-server-boilerplates/starter-pack)
 <!--END_SECTION:activity-->
 
 </details>
