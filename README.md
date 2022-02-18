@@ -102,11 +102,11 @@ Yeah, press F as many time as you want, and please send thoughts and prayers to 
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7299](https://github.com/gitpod-io/gitpod/issues/7299) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-2. ❗️ Opened issue [#8178](https://github.com/gitpod-io/gitpod/issues/8178) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-3. 🎉 Merged PR [#6](https://github.com/ajhalili2006/vaultwarden-on-paas-helpers/pull/6) in [ajhalili2006/vaultwarden-on-paas-helpers](https://github.com/ajhalili2006/vaultwarden-on-paas-helpers)
-4. 🗣 Commented on [#3871](https://github.com/tailscale/tailscale/issues/3871) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
-5. ❗️ Opened issue [#3871](https://github.com/tailscale/tailscale/issues/3871) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
+1. ❗️ Opened issue [#86](https://github.com/deta/deta-cli/issues/86) in [deta/deta-cli](https://github.com/deta/deta-cli)
+2. 🗣 Commented on [#7299](https://github.com/gitpod-io/gitpod/issues/7299) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+3. ❗️ Opened issue [#8178](https://github.com/gitpod-io/gitpod/issues/8178) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+4. 🎉 Merged PR [#6](https://github.com/ajhalili2006/vaultwarden-on-paas-helpers/pull/6) in [ajhalili2006/vaultwarden-on-paas-helpers](https://github.com/ajhalili2006/vaultwarden-on-paas-helpers)
+5. 🗣 Commented on [#3871](https://github.com/tailscale/tailscale/issues/3871) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
 <!--END_SECTION:activity-->
 
 </details>
