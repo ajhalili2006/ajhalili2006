@@ -12,15 +12,16 @@ administration stuff. Sometimes, I'm also an casual opensource contributor, but 
 ## Where to find me elsewhere
 
 [![GitLab SaaS](https://img.shields.io/badge/GitLab-6E49CB?&style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ajhalili2006)
+[![GitHub followers](https://img.shields.io/github/followers/ajhalili2006?label=%40ajhalili2006%40github.com&logo=github&style=for-the-badge)](https://github.com/ajhalili2006)
 [![Twitter](https://img.shields.io/twitter/follow/Kuys_Potpot?color=blue&label=Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/Kuys_Potpot)
-[![Reddit](https://img.shields.io/reddit/user-karma/combined/andreihalili?label=Reddit&logo=reddit&style=for-the-badge)](https://reddit.com/andreihalili
+[![Reddit](https://img.shields.io/reddit/user-karma/combined/andreihalili?label=Reddit&logo=reddit&style=for-the-badge)](https://reddit.com/andreihalili)
 [![Mastodon](https://img.shields.io/mastodon/follow/000164296?color=blue&domain=https%3A%2F%2Fmastodon.online&label=Mastodon&logo=mastodon&style=for-the-badge)](https://mastodon.online/@Kuys_Potpot)
 [![Tewlegram](https://img.shields.io/badge/Telegram-grey?&style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/ajhalili2006)
-[![Matrix](https://img.shields.io/badge/Matrix%20(Homeserver:%20matrix.org)-black?&style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@haliliaj06jiroh:matrix.org)
+[![Matrix](https://img.shields.io/badge/Matrix%20(Homeserver:%20envs.net)-black?&style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@ajhalili2006:envs.net)
 [![Keybase](https://img.shields.io/badge/Keybase-grey?&style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/ajhalilidev06)
 [![Discord](https://img.shields.io/badge/Discord-5539cc?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kf5nz4X)
 
-Have any questions about me? I complied [an FAQ](https://github.com/ajhalili2006/ajhalili206/blob/master/docs/about-me/faq.md) for you btw, maybe in the future. For anything related to The Pins Team//Recap Time, visit [our contact page](https://madebythepinshub.gitlab.io/contact).
+Have any questions about me? I complied [an FAQ](https://github.com/ajhalili2006/ajhalili206/blob/master/docs/about-me/faq.md) for you btw, maybe in the future. For anything related to Recap Time, visit [our contact page](https://madebythepinshub.gitlab.io/contact).
 
 ## Languages and Tools
 
@@ -36,10 +37,10 @@ Have any questions about me? I complied [an FAQ](https://github.com/ajhalili2006
 
 ## Stuff I'm working on
 
-* [Recap Time Squad](https://gitlab.com/RecapTime), (formerly known as The Pins Team) [especially the  Community Radar newsletter](https://gitlab.com/RecapTime/newsletter) -
+* [Recap Time Squad](https://gitlab.com/RecapTime), (formerly known as The Pins Team) [especially the  Community Radar newsletter](https://gitlab.com/RecapTime/community-radar) - where I mostly do my open-source work there
   * [Code Server Boilerplates](https://github.com/code-server-boilerplates) - Project Maintainer, collection of ready to made templates for shipping cloud dev environments with code-server pre-installed
   * [Community Lores](https://community-lores.gq) - Maintainer, usually for placing docs stuff in one domain (we do redirection stuff behind the the scenes)
-  * [Vaultwarden on PaaS services](https://github.com/ajhalili2006/vaultwarden-on-paas) - Hard-fork of [bitwardenrs-heroku](https://github.com/std2main/bitwardenrs_heroku) with scripts for automating deployment within minutes.
+* [Vaultwarden on PaaS services](https://github.com/ajhalili2006/vaultwarden-on-paas) - Hard-fork of [bitwardenrs-heroku](https://github.com/std2main/bitwardenrs_heroku) with scripts for automating deployment within minutes.
 * GitHub CLI package maintainer for Alpine Linux - version bumps lands on `edge` first!
 
 ### Stuff I Just Abandoned
