@@ -58,11 +58,11 @@ Yeah, press F as many time as you want, and please send thoughts and prayers to 
 [![WordPress](https://img.shields.io/badge/Blog%20/%20Website-grey?&style=for-the-badge&logo=wordpress&logoColor=white)](https://ajhalili2006.wordpress.com)
 
 <!-- WORDPRESS:START -->
+- [100 Days of Code 2022 – Week #4](https://ajhalili2006.wordpress.com/2022/03/18/100-days-of-code-2022-week-4/)
 - [100 Days of Code 2022 – Week #3](https://ajhalili2006.wordpress.com/2022/03/10/100-days-of-code-2022-week-3/)
 - [100 Days of Code 2022 – Week #2](https://ajhalili2006.wordpress.com/2022/03/03/100-days-of-code-week-2/)
 - [100 Days of Code 2022 – Week #1](https://ajhalili2006.wordpress.com/2022/02/21/100-days-of-code-2022-week-1/)
 - [Here we goes again: Newsletter stuff](https://ajhalili2006.wordpress.com/2022/01/29/here-we-goes-again-newsletter-stuff/)
-- [Spotify Wrapped 2021](https://ajhalili2006.wordpress.com/2021/12/02/spotify-wrapped-2021/)
 <!-- WORDPRESS:END -->
 
 ### DevTo
