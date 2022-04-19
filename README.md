@@ -105,11 +105,11 @@ Yeah, press F as many time as you want, and please send thoughts and prayers to 
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/RecapTime/rtappdotio/issues/9) in [RecapTime/rtappdotio](https://github.com/RecapTime/rtappdotio)
-2. 🗣 Commented on [#8735](https://github.com/gitpod-io/gitpod/issues/8735) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-3. ❗️ Opened issue [#1313](https://github.com/fedora-infra/anitya/issues/1313) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
-4. 🗣 Commented on [#7900](https://github.com/gitpod-io/gitpod/issues/7900) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-5. 🗣 Commented on [#7439](https://github.com/gitpod-io/gitpod/issues/7439) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+1. 🗣 Commented on [#8](https://github.com/RecapTime/rtappdotio/issues/8) in [RecapTime/rtappdotio](https://github.com/RecapTime/rtappdotio)
+2. 🎉 Merged PR [#9](https://github.com/RecapTime/rtappdotio/pull/9) in [RecapTime/rtappdotio](https://github.com/RecapTime/rtappdotio)
+3. 🗣 Commented on [#9](https://github.com/RecapTime/rtappdotio/issues/9) in [RecapTime/rtappdotio](https://github.com/RecapTime/rtappdotio)
+4. 🗣 Commented on [#8735](https://github.com/gitpod-io/gitpod/issues/8735) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+5. ❗️ Opened issue [#1313](https://github.com/fedora-infra/anitya/issues/1313) in [fedora-infra/anitya](https://github.com/fedora-infra/anitya)
 <!--END_SECTION:activity-->
 
 </details>
