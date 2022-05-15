@@ -105,11 +105,11 @@ Yeah, press F as many time as you want, and please send thoughts and prayers to 
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5645](https://github.com/cli/cli/issues/5645) in [cli/cli](https://github.com/cli/cli)
-2. ❗️ Opened issue [#5644](https://github.com/cli/cli/issues/5644) in [cli/cli](https://github.com/cli/cli)
-3. 🗣 Commented on [#514](https://github.com/miraheze/ssl/issues/514) in [miraheze/ssl](https://github.com/miraheze/ssl)
-4. 💪 Opened PR [#514](https://github.com/miraheze/ssl/pull/514) in [miraheze/ssl](https://github.com/miraheze/ssl)
-5. 💪 Opened PR [#510](https://github.com/miraheze/ssl/pull/510) in [miraheze/ssl](https://github.com/miraheze/ssl)
+1. ❗️ Closed issue [#5644](https://github.com/cli/cli/issues/5644) in [cli/cli](https://github.com/cli/cli)
+2. 🗣 Commented on [#5644](https://github.com/cli/cli/issues/5644) in [cli/cli](https://github.com/cli/cli)
+3. ❗️ Opened issue [#5645](https://github.com/cli/cli/issues/5645) in [cli/cli](https://github.com/cli/cli)
+4. ❗️ Opened issue [#5644](https://github.com/cli/cli/issues/5644) in [cli/cli](https://github.com/cli/cli)
+5. 🗣 Commented on [#514](https://github.com/miraheze/ssl/issues/514) in [miraheze/ssl](https://github.com/miraheze/ssl)
 <!--END_SECTION:activity-->
 
 </details>
