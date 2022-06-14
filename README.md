@@ -105,11 +105,11 @@ Yeah, press F as many time as you want, and please send thoughts and prayers to 
 <summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/wdhongtw/vscode-gpg-indicator/issues/24) in [wdhongtw/vscode-gpg-indicator](https://github.com/wdhongtw/vscode-gpg-indicator)
-2. ❗️ Opened issue [#10945](https://github.com/termux/termux-packages/issues/10945) in [termux/termux-packages](https://github.com/termux/termux-packages)
-3. 🗣 Commented on [#30](https://github.com/writefreely/documentation/issues/30) in [writefreely/documentation](https://github.com/writefreely/documentation)
-4. 🎉 Merged PR [#8](https://github.com/RecapTime/vaultwarden-docker/pull/8) in [RecapTime/vaultwarden-docker](https://github.com/RecapTime/vaultwarden-docker)
-5. ❗️ Closed issue [#5644](https://github.com/cli/cli/issues/5644) in [cli/cli](https://github.com/cli/cli)
+1. ❗️ Opened issue [#10979](https://github.com/termux/termux-packages/issues/10979) in [termux/termux-packages](https://github.com/termux/termux-packages)
+2. 🗣 Commented on [#24](https://github.com/wdhongtw/vscode-gpg-indicator/issues/24) in [wdhongtw/vscode-gpg-indicator](https://github.com/wdhongtw/vscode-gpg-indicator)
+3. ❗️ Opened issue [#10945](https://github.com/termux/termux-packages/issues/10945) in [termux/termux-packages](https://github.com/termux/termux-packages)
+4. 🗣 Commented on [#30](https://github.com/writefreely/documentation/issues/30) in [writefreely/documentation](https://github.com/writefreely/documentation)
+5. 🎉 Merged PR [#8](https://github.com/RecapTime/vaultwarden-docker/pull/8) in [RecapTime/vaultwarden-docker](https://github.com/RecapTime/vaultwarden-docker)
 <!--END_SECTION:activity-->
 
 </details>
