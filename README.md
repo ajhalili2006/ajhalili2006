@@ -3,12 +3,12 @@
 > I may be slow to respond to emails and issues since I'm busy at mostly school and personal projects stuff, plus some work at Recap Time Squad (not an company)
 > and other family chores, so please send thoughts and prayers to my mental health and sanity at <shitfuckery@bullshit.hq>.[^1]
 
-[![Profile views](https://gpvc.arturio.dev/AJHalili2006)](https://github.com/ajhalili2006)
+[![Profile views](https://gpvc.arturio.dev/AJHalili2006)](https://github.com/arturssmirnovs/github-profile-views-counter?ref=ajhalili2006-readme-profile)
 
-![README Banner](https://raw.githubusercontent.com/ajhalili2006/ajhalili2006/master/header.png)
+![README Banner](./static/readme-banner-2022.png)
 
-I'm Andrei Jiroh, I'm an Filipino 15-year old junior high school student who do Node.js and Python programming stuff and mess up Linux system
-administration stuff. Sometimes, I'm also an casual opensource contributor, but most of the the time I work on my own projects alone.
+I'm Andrei Jiroh, an Filipino 16-year old junior high school student at day and Node.js and Deno backend developer at
+[Recap Time Squad](https://gitlab.com/RecapTime) (not an company) and Linux sysadmin-slash-resident Bash script kiddie on personal projects.
 
 ## Where to find me elsewhere
 
@@ -59,6 +59,8 @@ Yeah, press F as many time as you want, and please send thoughts and prayers to 
 ---
 
 ## RSS feeds on personal websites
+
+An feed on personal websites and stuff, showing five latest entries from their own RSS feed.
 
 ### Substack Personal Newsletter
 
