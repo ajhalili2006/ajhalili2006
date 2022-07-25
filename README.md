@@ -1,6 +1,7 @@
 # Hello, world! 👋
 
-> ~~**INACTIVITY NOTICE**: Since September 23 PHT, I usually inactive due to schoolwork, so PR reviews, replies to mentions and even general support might be delayed. Sorry for that! If you have very-important stuff to say, please reach to me privately through Telegram or Discord, since I'll keep my Facebook Messenger stuff for school and family stuff only.~~ Not necessarily inactive since I also do developer stuff more that school, so please send thoughts and prayers to my grades at <shitfuckery@bullshit.hq>.[^1]
+> I may be slow to respond to emails and issues since I'm busy at mostly school and personal projects stuff, plus some work at Recap Time Squad (not an company)
+> and other family chores, so please send thoughts and prayers to my mental health and sanity at <shitfuckery@bullshit.hq>.[^1]
 
 [![Profile views](https://gpvc.arturio.dev/AJHalili2006)](https://github.com/ajhalili2006)
 
@@ -11,19 +12,23 @@ administration stuff. Sometimes, I'm also an casual opensource contributor, but 
 
 ## Where to find me elsewhere
 
-[![GitLab SaaS](https://img.shields.io/badge/GitLab-6E49CB?&style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ajhalili2006)
-[![GitHub followers](https://img.shields.io/github/followers/ajhalili2006?label=%40ajhalili2006%40github.com&logo=github&style=for-the-badge)](https://github.com/ajhalili2006)
-[![Twitter](https://img.shields.io/twitter/follow/Kuys_Potpot?color=blue&label=Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/Kuys_Potpot)
-[![Reddit](https://img.shields.io/reddit/user-karma/combined/andreihalili?label=Reddit&logo=reddit&style=for-the-badge)](https://reddit.com/andreihalili)
-[![Mastodon](https://img.shields.io/mastodon/follow/000164296?color=blue&domain=https%3A%2F%2Fmastodon.online&label=Mastodon&logo=mastodon&style=for-the-badge)](https://mastodon.online/@Kuys_Potpot)
+> The list may go longer, so check out my [bio.link page](https://ajhalili2006.bio.link) instead.
+
+[![GitLab SaaS](https://img.shields.io/badge/GitLab-6E49CB?&style=for-the-badge&logo=gitlab&logoColor=white&label=%40ajhalili2006%40gitlab.com)](https://gitlab.com/ajhalili2006)
+[![GitHub](https://img.shields.io/github/followers/ajhalili2006?label=%40ajhalili2006%40github.com&logo=github&style=for-the-badge)](https://github.com/ajhalili2006)
+[![sr.ht](https://img.shields.io/badge/sr.ht-~ajhalili2006-black?style=for-the-badge)](https://sr.ht/~ajhalili2006)
+[![Twitter](https://img.shields.io/twitter/follow/Kuys_Potpot?color=blue&label=%40Kuys_Potpot%40twitter.com&logo=twitter&style=for-the-badge)](https://twitter.com/Kuys_Potpot)
+[![Reddit](https://img.shields.io/reddit/user-karma/combined/andreihalili?label=andreihalili&logo=reddit&style=for-the-badge)](https://reddit.com/andreihalili)
+[![Mastodon](https://img.shields.io/mastodon/follow/000164296?color=blue&domain=https%3A%2F%2Fmastodon.online&label=%40Kuys_Potpot%40mastodon.online&logo=mastodon&style=for-the-badge)](https://mastodon.online/@Kuys_Potpot)
 [![Tewlegram](https://img.shields.io/badge/Telegram-grey?&style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/ajhalili2006)
-[![Matrix](https://img.shields.io/badge/Matrix%20(Homeserver:%20envs.net)-black?&style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@ajhalili2006:envs.net)
-[![Keybase](https://img.shields.io/badge/Keybase-grey?&style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/ajhalilidev06)
+[![Matrix](https://img.shields.io/badge/%40ajhalili2006:envs.net-black?&style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@ajhalili2006:envs.net)
+[![Keybase](https://img.shields.io/badge/ajhalilidev06-grey?&style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/ajhalilidev06)
 [![Discord](https://img.shields.io/badge/Discord-5539cc?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kf5nz4X)
 
-Have any questions about me? I complied [an FAQ](https://github.com/ajhalili2006/ajhalili206/blob/master/docs/about-me/faq.md) for you btw, maybe in the future. For anything related to Recap Time, visit [our contact page](https://madebythepinshub.gitlab.io/contact).
+Have any questions about me? I complied [an FAQ](https://ajhalili2006.page.link/personal-faq) for you listing most questions about me,
+maybe in the future. For anything related to Recap Time, visit [our contact page](https://recaptime.eu.org/contact).
 
-## Languages and Tools
+## Languages and Tools I use
 
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?&style=for-the-badge&logo=windowsterminal)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?&style=for-the-badge&logo=visualstudiocode)
@@ -35,23 +40,31 @@ Have any questions about me? I complied [an FAQ](https://github.com/ajhalili2006
 
 ## My Projects
 
-## Stuff I'm working on
+### Stuff I'm working on
 
-* [Recap Time Squad](https://gitlab.com/RecapTime), (formerly known as The Pins Team) [especially the  Community Radar newsletter](https://gitlab.com/RecapTime/community-radar) - where I mostly do my open-source work there
+* [Recap Time Squad](https://gitlab.com/RecapTime), (formerly known as The Pins Team) [especially the  Community Radar newsletter](https://gitlab.com/RecapTime/community-radar) - where I mostly do my open-source work there. Here's the tidbits:
   * [Code Server Boilerplates](https://github.com/code-server-boilerplates) - Project Maintainer, collection of ready to made templates for shipping cloud dev environments with code-server pre-installed
   * [Community Lores](https://community-lores.gq) - Maintainer, usually for placing docs stuff in one domain (we do redirection stuff behind the the scenes)
-* [Vaultwarden on PaaS services](https://github.com/ajhalili2006/vaultwarden-on-paas) - Hard-fork of [bitwardenrs-heroku](https://github.com/std2main/bitwardenrs_heroku) with scripts for automating deployment within minutes.
-* GitHub CLI package maintainer for Alpine Linux - version bumps lands on `edge` first!
+  * [Gitpodified Workspace Images](https://github.com/gitpodify/gitpodified-workspace-images) - an fork of [upstream's workspace images](https://github.com/gitpod-io/workspace-images), implementing fixes and even add some packages.
+* [Vaultwarden on PaaS services](https://github.com/RecapTime/vaultwarden-on-paas) - Hard-fork of [bitwardenrs-heroku](https://github.com/std2main/bitwardenrs_heroku) with scripts for automating deployment within minutes, among other features. (now maintained as part of Recap Time Squad's open-source projects)
+* GitHub CLI package maintainer for Alpine Linux - version bumps lands on `edge` first, although delays may happen.
 
-### Stuff I Just Abandoned
+### Abandoned Projects
 
 Yeah, press F as many time as you want, and please send thoughts and prayers to these projects to Bull$#!t HQ at <shitfuckery@bullshit.hq>.[^1]
 
 * [Intellivoid SpamProtection API Wrapper for JavaScript](https://github.com/MadeByThePinsHub/Intellivoid-SPB-JS-Wrapper) - due to doing other stuff
+* TODO list more abandoned projects here
 
 ---
 
-## Blog Posts
+## RSS feeds on personal websites
+
+### Substack Personal Newsletter
+
+<!--SUBSTACK:START-->
+TBD
+<!--SUBSTACK:END-->
 
 ### WordPress Blog
 
@@ -76,6 +89,10 @@ Yeah, press F as many time as you want, and please send thoughts and prayers to 
 
 ## My stats and activity stuff
 
+<details>
+
+ <summary>Hidden due to space reasons, click here to expand.</summary>
+
 ### LIfetime GH Activity
 
 [![Andrei Jiroh's stats](https://gh-readme-stats-thepinsteam.vercel.app/api?username=ajhalili2006&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -90,19 +107,14 @@ Yeah, press F as many time as you want, and please send thoughts and prayers to 
 
 ### Top Languages Used
 
-<details>
-
-<summary>These stats are for my personal repos and may not reflect on what I am really used.</summary>
+Stats are generated from my personal repos and may not reflect real usage.
 
 [![Top Langs](https://gh-readme-stats-thepinsteam.vercel.app/api/top-langs/?username=ajhalili2006&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
 
 ### Latest GitHub Activity
 
-<details>
-
-<summary>Recent GitHub activity pulled through an CI in an nutshell</summary>
+Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#192](https://github.com/Olivr/free-domain/pull/192) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
@@ -112,20 +124,14 @@ Yeah, press F as many time as you want, and please send thoughts and prayers to 
 5. 💪 Opened PR [#178](https://github.com/Olivr/free-domain/pull/178) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
 <!--END_SECTION:activity-->
 
-</details>
 
 ### Screen Time as an Dev
 
 I'm usually do coding whenever my other self (aka my mind) wants to, or if during the school year, probably on my free time. May not up-to-date as
-Gitpod don't preserve `/home` directories on workspace restarts.
-
-<details>
-
-<summary>Snapshot of my screentime as an dev in Wakatime since April 13, 2021</summary>
+Gitpod and GitHub Codespaces don't preserve `/home` directories on workspace restarts. Wakatime stats include my coding activity data since April 13, 2021.
 
 [![Wakatime Stuff](https://gh-readme-stats-thepinsteam.vercel.app/api/wakatime?username=ajhalili2006)](https://wakatime.com/ajhalili2006)
 
 </details>
-
 
 [^1]: Email address doesn't work? See <https://github.com/ajhalili2006/ajhalili2006/blob/master/docs/vocabulary/shitfuckery-at-bullshit-dot-hq.md> why.
