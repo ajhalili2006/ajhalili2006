@@ -119,11 +119,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#192](https://github.com/Olivr/free-domain/pull/192) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
-2. 🗣 Commented on [#192](https://github.com/Olivr/free-domain/issues/192) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
-3. 💪 Opened PR [#192](https://github.com/Olivr/free-domain/pull/192) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
-4. 🗣 Commented on [#17](https://github.com/RecapTime/vaultwarden-docker/issues/17) in [RecapTime/vaultwarden-docker](https://github.com/RecapTime/vaultwarden-docker)
-5. 💪 Opened PR [#178](https://github.com/Olivr/free-domain/pull/178) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
+1. ❗️ Opened issue [#11796](https://github.com/gitpod-io/gitpod/issues/11796) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+2. ❌ Closed PR [#192](https://github.com/Olivr/free-domain/pull/192) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
+3. 🗣 Commented on [#192](https://github.com/Olivr/free-domain/issues/192) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
+4. 💪 Opened PR [#192](https://github.com/Olivr/free-domain/pull/192) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
+5. 🗣 Commented on [#17](https://github.com/RecapTime/vaultwarden-docker/issues/17) in [RecapTime/vaultwarden-docker](https://github.com/RecapTime/vaultwarden-docker)
 <!--END_SECTION:activity-->
 
 
