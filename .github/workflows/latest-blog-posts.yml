@@ -16,6 +16,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          ref: "master"
       - name: Update DevTo posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:

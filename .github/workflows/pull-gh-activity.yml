@@ -3,6 +3,7 @@ name: "Pull GH actiity and commit to the README"
 on:
   schedule:
     - cron: '*/3 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -11,6 +12,8 @@ jobs:
     steps:
       - name: Checkout to latest commit
         uses: actions/checkout@v2
+        with:
+          ref: master
       
       - name: Update my GH activity section
         uses: MadeByThePinsHub/github-activity-readme@master
