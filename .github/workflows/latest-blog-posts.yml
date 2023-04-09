@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Feed Fetcher
 on:
   schedule:
     # Runs every 3 hours
@@ -28,7 +28,7 @@ jobs:
       - name: Update WP post
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://ajhalili2006.wordpress.com/feed"
+          feed_list: "https://ajhalili2006.substack.com/feed"
           committer_username: ${{env.BLOG_POST_WORKFLOW_NAME}}
           committer_email: ${{env.BLOG_POST_WORKFLOW_EMAIL}}
           comment_tag_name: WORDPRESS

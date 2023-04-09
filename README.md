@@ -1,18 +1,19 @@
 # Hello, world! 👋
 
 > I may be slow to respond to emails and issues since I'm busy at mostly school and personal projects stuff, plus some work at Recap Time Squad (not an company)
-> and other family chores, so please send thoughts and prayers to my mental health and sanity at <shitfuckery@bullshit.hq>.[^1]
+> and other family chores, so please send thoughts and prayers to my mental health and sanity at <shitfuckery@bullshit.hq>.[^1] Also please be reminded that most of the repositories here are just
+> mirrors. For up-to-date commits and stuff, see [my mau.dev](https://mau.dev/ajhalili2006) and [sourcehut](https://sr.ht/~ajhalili2006) profile.
 
 [![Profile views](https://gpvc.arturio.dev/AJHalili2006)](https://github.com/arturssmirnovs/github-profile-views-counter?ref=ajhalili2006-readme-profile)
 
 ![README Banner](./static/readme-banner-2022.png)
 
-I'm Andrei Jiroh, an Filipino 16-year old junior high school student at day and Node.js and Deno backend developer at
+I'm Andrei Jiroh, an Filipino 17-year old junior high school student at day and web developer (Node.js and Deno) at
 [Recap Time Squad](https://gitlab.com/RecapTime) (not an company) and Linux sysadmin-slash-resident Bash script kiddie on personal projects.
 
 ## Where to find me elsewhere
 
-> The list may go longer, so check out my [bio.link page](https://ajhalili2006.bio.link) instead.
+> The list may go longer, so check out my [start.page](https://ajhalili2006.start.page) instead.
 
 [![GitLab SaaS](https://img.shields.io/badge/GitLab-6E49CB?&style=for-the-badge&logo=gitlab&logoColor=white&label=%40ajhalili2006%40gitlab.com)](https://gitlab.com/ajhalili2006)
 [![GitHub](https://img.shields.io/github/followers/ajhalili2006?label=%40ajhalili2006%40github.com&logo=github&style=for-the-badge)](https://github.com/ajhalili2006)
@@ -40,45 +41,21 @@ maybe in the future. For anything related to Recap Time, visit [our contact page
 
 ## My Projects
 
-### Stuff I'm working on
-
-* [Recap Time Squad](https://gitlab.com/RecapTime), (formerly known as The Pins Team) [especially the  Community Radar newsletter](https://gitlab.com/RecapTime/community-radar) - where I mostly do my open-source work there. Here's the tidbits:
-  * [Code Server Boilerplates](https://github.com/code-server-boilerplates) - Project Maintainer, collection of ready to made templates for shipping cloud dev environments with code-server pre-installed
-  * [Community Lores](https://community-lores.gq) - Maintainer, usually for placing docs stuff in one domain (we do redirection stuff behind the the scenes)
-  * [Gitpodified Workspace Images](https://github.com/gitpodify/gitpodified-workspace-images) - an fork of [upstream's workspace images](https://github.com/gitpod-io/workspace-images), implementing fixes and even add some packages.
-* [Vaultwarden on PaaS services](https://github.com/RecapTime/vaultwarden-on-paas) - Hard-fork of [bitwardenrs-heroku](https://github.com/std2main/bitwardenrs_heroku) with scripts for automating deployment within minutes, among other features. (now maintained as part of Recap Time Squad's open-source projects)
-* GitHub CLI package maintainer for Alpine Linux - version bumps lands on `edge` first, although delays may happen.
-
-### Abandoned Projects
-
-Yeah, press F as many time as you want, and please send thoughts and prayers to these projects to Bull$#!t HQ at <shitfuckery@bullshit.hq>.[^1]
-
-* [Intellivoid SpamProtection API Wrapper for JavaScript](https://github.com/MadeByThePinsHub/Intellivoid-SPB-JS-Wrapper) - due to doing other stuff
-* TODO list more abandoned projects here
-
 ---
 
 ## RSS feeds on personal websites
 
 An feed on personal websites and stuff, showing five latest entries from their own RSS feed.
 
-### Substack Personal Newsletter
+### Personal blog (now on Substack)
 
 <!--SUBSTACK:START-->
 TBD
 <!--SUBSTACK:END-->
 
-### WordPress Blog
+### @fromthebshq
 
-[![WordPress](https://img.shields.io/badge/Blog%20/%20Website-grey?&style=for-the-badge&logo=wordpress&logoColor=white)](https://ajhalili2006.wordpress.com)
-
-<!-- WORDPRESS:START -->
-- [July 2022 Status Update](https://ajhalili2006.wordpress.com/2022/08/02/status-update-2022-07/)
-- [100 Days of Code 2022 – Week #5](https://ajhalili2006.wordpress.com/2022/03/28/100-days-of-code-2022-week-5/)
-- [100 Days of Code 2022 – Week #4](https://ajhalili2006.wordpress.com/2022/03/18/100-days-of-code-2022-week-4/)
-- [100 Days of Code 2022 – Week #3](https://ajhalili2006.wordpress.com/2022/03/10/100-days-of-code-2022-week-3/)
-- [100 Days of Code 2022 – Week #2](https://ajhalili2006.wordpress.com/2022/03/03/100-days-of-code-week-2/)
-<!-- WORDPRESS:END -->
+TBD
 
 ### DevTo
 
@@ -136,4 +113,4 @@ Gitpod and GitHub Codespaces don't preserve `/home` directories on workspace res
 
 </details>
 
-[^1]: Email address doesn't work? See <https://github.com/ajhalili2006/ajhalili2006/blob/master/docs/vocabulary/shitfuckery-at-bullshit-dot-hq.md> why.
+[^1]: Email address doesn't work? See <https://github.com/ajhalili2006/ajhalili2006/blob/ajhalili2006/ajhalili2006/docs/vocabulary/shitfuckery-at-bullshit-dot-hq.md> why.
