@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          ref: "master"
+          ref: "ajhalili2006/main" # hardcoded default branch
       - name: Update DevTo posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
@@ -31,4 +31,4 @@ jobs:
           feed_list: "https://ajhalili2006.substack.com/feed"
           committer_username: ${{env.BLOG_POST_WORKFLOW_NAME}}
           committer_email: ${{env.BLOG_POST_WORKFLOW_EMAIL}}
-          comment_tag_name: WORDPRESS
+          comment_tag_name: SUBSTACK
