@@ -59,6 +59,7 @@ TBD
 ### DevTo
 
 <!-- DEVTO:START -->
+- [Late 17th Birthday Thoughts](https://dev.to/ajhalili2006/late-17th-birthday-thoughts-2pgn)
 - [How do co-authors can sign commits, for vigilant-mode-enabled GitHub users?](https://dev.to/thepinsteam/how-do-co-authors-can-sign-commits-for-vigilant-mode-enabled-github-users-52h2)
 - [Introducing Recap Time](https://dev.to/recaptime-dev/introducing-recap-time-4acb)
 - [Team Updates — New Twitch channels and more &lpar;oh my!&rpar;](https://dev.to/thepinsteam/team-updates-new-twitch-channels-and-more-oh-my-bc6)
