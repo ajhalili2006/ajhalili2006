@@ -95,11 +95,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/FromTheBSHQ/demo-repository/issues/1) in [FromTheBSHQ/demo-repository](https://github.com/FromTheBSHQ/demo-repository)
-2. 🗣 Commented on [#1](https://github.com/FromTheBSHQ/demo-repository/issues/1) in [FromTheBSHQ/demo-repository](https://github.com/FromTheBSHQ/demo-repository)
-3. 🗣 Commented on [#632](https://github.com/miraheze/ssl/issues/632) in [miraheze/ssl](https://github.com/miraheze/ssl)
-4. 💪 Opened PR [#632](https://github.com/miraheze/ssl/pull/632) in [miraheze/ssl](https://github.com/miraheze/ssl)
-5. 🎉 Merged PR [#1](https://github.com/RecapTime/miraheze-ssl/pull/1) in [RecapTime/miraheze-ssl](https://github.com/RecapTime/miraheze-ssl)
+1. ❗️ Opened issue [#4](https://github.com/RecapTime/recaptime.github.io/issues/4) in [RecapTime/recaptime.github.io](https://github.com/RecapTime/recaptime.github.io)
+2. ❗️ Closed issue [#1](https://github.com/FromTheBSHQ/demo-repository/issues/1) in [FromTheBSHQ/demo-repository](https://github.com/FromTheBSHQ/demo-repository)
+3. 🗣 Commented on [#1](https://github.com/FromTheBSHQ/demo-repository/issues/1) in [FromTheBSHQ/demo-repository](https://github.com/FromTheBSHQ/demo-repository)
+4. 🗣 Commented on [#632](https://github.com/miraheze/ssl/issues/632) in [miraheze/ssl](https://github.com/miraheze/ssl)
+5. 💪 Opened PR [#632](https://github.com/miraheze/ssl/pull/632) in [miraheze/ssl](https://github.com/miraheze/ssl)
 <!--END_SECTION:activity-->
 
 
