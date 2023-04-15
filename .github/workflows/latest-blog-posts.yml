@@ -11,13 +11,14 @@ env:
   BLOG_POST_WORKFLOW_NAME: Recap Time Bot
 
 jobs:
-  rss-feed:
+  generate-feed:
     name: "Update blog posts section from RSS"
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v2
         with:
-          ref: "ajhalili2006/main" # hardcoded default branch
+          ref: ${{ github.event.repository.default_branch }}
       - name: Update DevTo posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
@@ -25,7 +26,7 @@ jobs:
           committer_username: ${{env.BLOG_POST_WORKFLOW_NAME}}
           committer_email: ${{env.BLOG_POST_WORKFLOW_EMAIL}}
           comment_tag_name: DEVTO
-      - name: Update WP post
+      - name: Update Substack feed
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://ajhalili2006.substack.com/feed"

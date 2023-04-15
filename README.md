@@ -20,7 +20,7 @@ I'm Andrei Jiroh, an Filipino 17-year old junior high school student at day and 
 [![sr.ht](https://img.shields.io/badge/sr.ht-~ajhalili2006-black?style=for-the-badge)](https://sr.ht/~ajhalili2006)
 [![Twitter](https://img.shields.io/twitter/follow/Kuys_Potpot?color=blue&label=%40Kuys_Potpot%40twitter.com&logo=twitter&style=for-the-badge)](https://twitter.com/Kuys_Potpot)
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/andreihalili?label=andreihalili&logo=reddit&style=for-the-badge)](https://reddit.com/andreihalili)
-[![Mastodon](https://img.shields.io/mastodon/follow/000164296?color=blue&domain=https%3A%2F%2Fmastodon.online&label=%40Kuys_Potpot%40mastodon.online&logo=mastodon&style=for-the-badge)](https://mastodon.online/@Kuys_Potpot)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/108807402634952369?color=blue&domain=https%3A%2F%2Ftilde.zone&label=%40ajhalili2006%40tilde.zone&logo=mastodon&style=for-the-badge)](https://tilde.zone/@ajhalili2006)
 [![Tewlegram](https://img.shields.io/badge/Telegram-grey?&style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/ajhalili2006)
 [![Matrix](https://img.shields.io/badge/%40ajhalili2006:envs.net-black?&style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@ajhalili2006:envs.net)
 [![Keybase](https://img.shields.io/badge/ajhalilidev06-grey?&style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/ajhalilidev06)
@@ -50,7 +50,6 @@ An feed on personal websites and stuff, showing five latest entries from their o
 ### Personal blog (now on Substack)
 
 <!--SUBSTACK:START-->
-TBD
 <!--SUBSTACK:END-->
 
 ### @fromthebshq

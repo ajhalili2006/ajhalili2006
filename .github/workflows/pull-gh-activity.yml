@@ -1,4 +1,4 @@
-name: "Pull GH actiity and commit to the README"
+name: "Fetch GitHub activity to profile README"
 
 on:
   schedule:
@@ -6,14 +6,17 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate-feed:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
+      issues: read
+      pull-requests: read
     steps:
       - name: Checkout to latest commit
         uses: actions/checkout@v2
         with:
-          ref: master
+          ref: ${{ github.event.repository.default_branch }}
       
       - name: Update my GH activity section
         uses: MadeByThePinsHub/github-activity-readme@master
