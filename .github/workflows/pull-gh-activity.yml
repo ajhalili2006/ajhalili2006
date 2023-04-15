@@ -19,7 +19,7 @@ jobs:
           ref: ${{ github.event.repository.default_branch }}
       
       - name: Update my GH activity section
-        uses: MadeByThePinsHub/github-activity-readme@master
+        uses: RecapTime/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
