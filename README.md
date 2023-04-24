@@ -96,11 +96,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/RecapTime/github-activity-readme/issues/5) in [RecapTime/github-activity-readme](https://github.com/RecapTime/github-activity-readme)
-2. ❗️ Opened issue [#4](https://github.com/RecapTime/recaptime.github.io/issues/4) in [RecapTime/recaptime.github.io](https://github.com/RecapTime/recaptime.github.io)
-3. ❗️ Closed issue [#1](https://github.com/FromTheBSHQ/demo-repository/issues/1) in [FromTheBSHQ/demo-repository](https://github.com/FromTheBSHQ/demo-repository)
-4. 🗣 Commented on [#1](https://github.com/FromTheBSHQ/demo-repository/issues/1) in [FromTheBSHQ/demo-repository](https://github.com/FromTheBSHQ/demo-repository)
-5. 🗣 Commented on [#632](https://github.com/miraheze/ssl/issues/632) in [miraheze/ssl](https://github.com/miraheze/ssl)
+1. 🎉 Merged PR [#1](https://github.com/Community-Lores/awesome-neurodiversity/pull/1) in [Community-Lores/awesome-neurodiversity](https://github.com/Community-Lores/awesome-neurodiversity)
+2. ❗️ Opened issue [#5](https://github.com/RecapTime/github-activity-readme/issues/5) in [RecapTime/github-activity-readme](https://github.com/RecapTime/github-activity-readme)
+3. ❗️ Opened issue [#4](https://github.com/RecapTime/recaptime.github.io/issues/4) in [RecapTime/recaptime.github.io](https://github.com/RecapTime/recaptime.github.io)
+4. ❗️ Closed issue [#1](https://github.com/FromTheBSHQ/demo-repository/issues/1) in [FromTheBSHQ/demo-repository](https://github.com/FromTheBSHQ/demo-repository)
+5. 🗣 Commented on [#1](https://github.com/FromTheBSHQ/demo-repository/issues/1) in [FromTheBSHQ/demo-repository](https://github.com/FromTheBSHQ/demo-repository)
 <!--END_SECTION:activity-->
 
 
