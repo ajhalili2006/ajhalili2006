@@ -50,6 +50,11 @@ An feed on personal websites and stuff, showing five latest entries from their o
 ### Personal blog (now on Substack)
 
 <!-- SUBSTACK:START -->
+- [Join me on Notes](https://ajhalili2006.substack.com/p/notes)
+- [January and Feburary 2023 Status Update](https://ajhalili2006.substack.com/p/status-update-2023-02)
+- [17th Birthday Thoughts](https://ajhalili2006.substack.com/p/birthday-thoughts-2023)
+- [My 2022 in review and what&#39;s next for 2023](https://ajhalili2006.substack.com/p/2022-in-review)
+- [November + December 2022 Status Update](https://ajhalili2006.substack.com/p/status-update-2022-12)
 <!-- SUBSTACK:END -->
 
 ### @fromthebshq / @MFHellscapes
