@@ -102,11 +102,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/RecapTime/github-activity-readme/issues/5) in [RecapTime/github-activity-readme](https://github.com/RecapTime/github-activity-readme)
-2. 🎉 Merged PR [#1](https://github.com/Community-Lores/awesome-neurodiversity/pull/1) in [Community-Lores/awesome-neurodiversity](https://github.com/Community-Lores/awesome-neurodiversity)
-3. ❗️ Opened issue [#5](https://github.com/RecapTime/github-activity-readme/issues/5) in [RecapTime/github-activity-readme](https://github.com/RecapTime/github-activity-readme)
-4. ❗️ Opened issue [#4](https://github.com/RecapTime/recaptime.github.io/issues/4) in [RecapTime/recaptime.github.io](https://github.com/RecapTime/recaptime.github.io)
-5. ❗️ Closed issue [#1](https://github.com/FromTheBSHQ/demo-repository/issues/1) in [FromTheBSHQ/demo-repository](https://github.com/FromTheBSHQ/demo-repository)
+1. 🗣 Commented on [#7](https://github.com/RecapTime/github-activity-readme/issues/7) in [RecapTime/github-activity-readme](https://github.com/RecapTime/github-activity-readme)
+2. 🎉 Merged PR [#6](https://github.com/RecapTime/github-activity-readme/pull/6) in [RecapTime/github-activity-readme](https://github.com/RecapTime/github-activity-readme)
+3. 🗣 Commented on [#5](https://github.com/RecapTime/github-activity-readme/issues/5) in [RecapTime/github-activity-readme](https://github.com/RecapTime/github-activity-readme)
+4. 🎉 Merged PR [#1](https://github.com/Community-Lores/awesome-neurodiversity/pull/1) in [Community-Lores/awesome-neurodiversity](https://github.com/Community-Lores/awesome-neurodiversity)
+5. ❗️ Opened issue [#5](https://github.com/RecapTime/github-activity-readme/issues/5) in [RecapTime/github-activity-readme](https://github.com/RecapTime/github-activity-readme)
 <!--END_SECTION:activity-->
 
 
