@@ -49,12 +49,13 @@ An feed on personal websites and stuff, showing five latest entries from their o
 
 ### Personal blog (now on Substack)
 
-<!--SUBSTACK:START-->
-<!--SUBSTACK:END-->
+<!-- SUBSTACK:START -->
+<!-- SUBSTACK:END -->
 
-### @fromthebshq
+### @fromthebshq / @MFHellscapes
 
-TBD
+<!-- FROMTHEBSHQ:START -->
+<!-- FROMTHEBSHQ:END -->
 
 ### DevTo
 
