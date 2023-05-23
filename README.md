@@ -102,11 +102,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#28](https://github.com/RecapTime/vaultwarden-docker/pull/28) in [RecapTime/vaultwarden-docker](https://github.com/RecapTime/vaultwarden-docker)
-2. 🗣 Commented on [#28](https://github.com/RecapTime/vaultwarden-docker/issues/28) in [RecapTime/vaultwarden-docker](https://github.com/RecapTime/vaultwarden-docker)
-3. 🗣 Commented on [#1393](https://github.com/smallstep/certificates/issues/1393) in [smallstep/certificates](https://github.com/smallstep/certificates)
-4. 🎉 Merged PR [#4](https://github.com/lorebooks-wiki/awesome-neurodiversity/pull/4) in [lorebooks-wiki/awesome-neurodiversity](https://github.com/lorebooks-wiki/awesome-neurodiversity)
-5. 🗣 Commented on [#2035](https://github.com/42wim/matterbridge/issues/2035) in [42wim/matterbridge](https://github.com/42wim/matterbridge)
+1. 💪 Opened PR [#2401](https://github.com/lapce/lapce/pull/2401) in [lapce/lapce](https://github.com/lapce/lapce)
+2. ❌ Closed PR [#28](https://github.com/RecapTime/vaultwarden-docker/pull/28) in [RecapTime/vaultwarden-docker](https://github.com/RecapTime/vaultwarden-docker)
+3. 🗣 Commented on [#28](https://github.com/RecapTime/vaultwarden-docker/issues/28) in [RecapTime/vaultwarden-docker](https://github.com/RecapTime/vaultwarden-docker)
+4. 🗣 Commented on [#1393](https://github.com/smallstep/certificates/issues/1393) in [smallstep/certificates](https://github.com/smallstep/certificates)
+5. 🎉 Merged PR [#4](https://github.com/lorebooks-wiki/awesome-neurodiversity/pull/4) in [lorebooks-wiki/awesome-neurodiversity](https://github.com/lorebooks-wiki/awesome-neurodiversity)
 <!--END_SECTION:activity-->
 
 
