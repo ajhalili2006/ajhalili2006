@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: ajhalili2006-experiments/gh-metrics-patches@ajhalili2006/main
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -48,10 +48,15 @@ jobs:
           plugin_tweets: yes
           plugin_tweets_limit: 2
           plugin_tweets_user: Kuys_Potpot
+          plugin_tweets_token: ${{secrets.TWITTER_BEARER_TOKEN}}
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: all
+          plugin_wakatime_token: ${{secrets.WAKATIME_TOKEN}}
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: current
+          plugin_music_provider: spotify
+          plugin_music_token: ${{secrets.SPOTIFY_API_TOKEN}}
+          plugin_music_mode: recent
