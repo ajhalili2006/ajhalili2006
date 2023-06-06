@@ -102,11 +102,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/RecapTime/vaultwarden-docker/pull/30) in [RecapTime/vaultwarden-docker](https://github.com/RecapTime/vaultwarden-docker)
-2. 💪 Opened PR [#2401](https://github.com/lapce/lapce/pull/2401) in [lapce/lapce](https://github.com/lapce/lapce)
-3. ❌ Closed PR [#28](https://github.com/RecapTime/vaultwarden-docker/pull/28) in [RecapTime/vaultwarden-docker](https://github.com/RecapTime/vaultwarden-docker)
-4. 🗣 Commented on [#28](https://github.com/RecapTime/vaultwarden-docker/issues/28) in [RecapTime/vaultwarden-docker](https://github.com/RecapTime/vaultwarden-docker)
-5. 🗣 Commented on [#1393](https://github.com/smallstep/certificates/issues/1393) in [smallstep/certificates](https://github.com/smallstep/certificates)
+1. 🗣 Commented on [#3](https://github.com/awesome-neurodiversity/awesome-neurodiversity/issues/3) in [awesome-neurodiversity/awesome-neurodiversity](https://github.com/awesome-neurodiversity/awesome-neurodiversity)
+2. 💪 Opened PR [#30](https://github.com/RecapTime/vaultwarden-docker/pull/30) in [RecapTime/vaultwarden-docker](https://github.com/RecapTime/vaultwarden-docker)
+3. 💪 Opened PR [#2401](https://github.com/lapce/lapce/pull/2401) in [lapce/lapce](https://github.com/lapce/lapce)
+4. ❌ Closed PR [#28](https://github.com/RecapTime/vaultwarden-docker/pull/28) in [RecapTime/vaultwarden-docker](https://github.com/RecapTime/vaultwarden-docker)
+5. 🗣 Commented on [#28](https://github.com/RecapTime/vaultwarden-docker/issues/28) in [RecapTime/vaultwarden-docker](https://github.com/RecapTime/vaultwarden-docker)
 <!--END_SECTION:activity-->
 
 
