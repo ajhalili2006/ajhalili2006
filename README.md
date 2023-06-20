@@ -102,10 +102,10 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/RecapTime/infra-monitoring/issues/2) in [RecapTime/infra-monitoring](https://github.com/RecapTime/infra-monitoring)
-2. 🗣 Commented on [#2](https://github.com/RecapTime/infra-monitoring/issues/2) in [RecapTime/infra-monitoring](https://github.com/RecapTime/infra-monitoring)
-3. 🗣 Commented on [#3](https://github.com/awesome-neurodiversity/awesome-neurodiversity/issues/3) in [awesome-neurodiversity/awesome-neurodiversity](https://github.com/awesome-neurodiversity/awesome-neurodiversity)
-4. ❌ Closed PR [#28](https://github.com/RecapTime/vaultwarden-docker/pull/28) in [RecapTime/vaultwarden-docker](https://github.com/RecapTime/vaultwarden-docker)
+1. 🎉 Merged PR [#5](https://github.com/lorebooks-wiki/homepage/pull/5) in [lorebooks-wiki/homepage](https://github.com/lorebooks-wiki/homepage)
+2. ❗️ Closed issue [#2](https://github.com/RecapTime/infra-monitoring/issues/2) in [RecapTime/infra-monitoring](https://github.com/RecapTime/infra-monitoring)
+3. 🗣 Commented on [#2](https://github.com/RecapTime/infra-monitoring/issues/2) in [RecapTime/infra-monitoring](https://github.com/RecapTime/infra-monitoring)
+4. 🗣 Commented on [#3](https://github.com/awesome-neurodiversity/awesome-neurodiversity/issues/3) in [awesome-neurodiversity/awesome-neurodiversity](https://github.com/awesome-neurodiversity/awesome-neurodiversity)
 5. 🗣 Commented on [#28](https://github.com/RecapTime/vaultwarden-docker/issues/28) in [RecapTime/vaultwarden-docker](https://github.com/RecapTime/vaultwarden-docker)
 <!--END_SECTION:activity-->
 
