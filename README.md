@@ -13,17 +13,17 @@ I'm Andrei Jiroh, an Filipino 17-year old junior high school student at day and 
 
 ## Where to find me elsewhere
 
-> The list may go longer, so check out my [start.page](https://ajhalili2006.start.page) instead.
+> **Warning**: The list may go longer or out-of-date and shouldn't be relied upon, so check out my [start.page](https://ajhalili2006.start.page) instead.
 
 [![GitLab SaaS](https://img.shields.io/badge/GitLab-6E49CB?&style=for-the-badge&logo=gitlab&logoColor=white&label=%40ajhalili2006%40gitlab.com)](https://gitlab.com/ajhalili2006)
 [![GitHub](https://img.shields.io/github/followers/ajhalili2006?label=%40ajhalili2006%40github.com&logo=github&style=for-the-badge)](https://github.com/ajhalili2006)
 [![sr.ht](https://img.shields.io/badge/sr.ht-~ajhalili2006-black?style=for-the-badge)](https://sr.ht/~ajhalili2006)
-[![Twitter](https://img.shields.io/twitter/follow/Kuys_Potpot?color=blue&label=%40Kuys_Potpot%40twitter.com&logo=twitter&style=for-the-badge)](https://twitter.com/Kuys_Potpot)
+[![Twitter](https://img.shields.io/twitter/follow/ajhalili2006?color=blue&label=%40Kuys_Potpot%40twitter.com&logo=twitter&style=for-the-badge)](https://twitter.com/ajhalili2006)
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/andreihalili?label=andreihalili&logo=reddit&style=for-the-badge)](https://reddit.com/andreihalili)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/108807402634952369?color=blue&domain=https%3A%2F%2Ftilde.zone&label=%40ajhalili2006%40tilde.zone&logo=mastodon&style=for-the-badge)](https://tilde.zone/@ajhalili2006)
 [![Tewlegram](https://img.shields.io/badge/Telegram-grey?&style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/ajhalili2006)
 [![Matrix](https://img.shields.io/badge/%40ajhalili2006:envs.net-black?&style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@ajhalili2006:envs.net)
-[![Keybase](https://img.shields.io/badge/ajhalilidev06-grey?&style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/ajhalilidev06)
+[![Keybase](https://img.shields.io/badge/ajhalili2006-grey?&style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/ajhalili2006)
 [![Discord](https://img.shields.io/badge/Discord-5539cc?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kf5nz4X)
 
 Have any questions about me? I complied [an FAQ](https://ajhalili2006.page.link/personal-faq) for you listing most questions about me,
