@@ -104,11 +104,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/recaptime-dev/vaultwarden-docker/pull/30) in [recaptime-dev/vaultwarden-docker](https://github.com/recaptime-dev/vaultwarden-docker)
-2. 🗣 Commented on [#34](https://github.com/recaptime-dev/vaultwarden-docker/issues/34) in [recaptime-dev/vaultwarden-docker](https://github.com/recaptime-dev/vaultwarden-docker)
-3. 🎉 Merged PR [#35](https://github.com/recaptime-dev/vaultwarden-docker/pull/35) in [recaptime-dev/vaultwarden-docker](https://github.com/recaptime-dev/vaultwarden-docker)
-4. 🎉 Merged PR [#39](https://github.com/recaptime-dev/vaultwarden-docker/pull/39) in [recaptime-dev/vaultwarden-docker](https://github.com/recaptime-dev/vaultwarden-docker)
-5. 🗣 Commented on [#30](https://github.com/recaptime-dev/vaultwarden-docker/issues/30) in [recaptime-dev/vaultwarden-docker](https://github.com/recaptime-dev/vaultwarden-docker)
+1. ❌ Closed PR [#29](https://github.com/recaptime-dev/vaultwarden-docker/pull/29) in [recaptime-dev/vaultwarden-docker](https://github.com/recaptime-dev/vaultwarden-docker)
+2. ❌ Closed PR [#33](https://github.com/recaptime-dev/vaultwarden-docker/pull/33) in [recaptime-dev/vaultwarden-docker](https://github.com/recaptime-dev/vaultwarden-docker)
+3. ❌ Closed PR [#34](https://github.com/recaptime-dev/vaultwarden-docker/pull/34) in [recaptime-dev/vaultwarden-docker](https://github.com/recaptime-dev/vaultwarden-docker)
+4. 🎉 Merged PR [#30](https://github.com/recaptime-dev/vaultwarden-docker/pull/30) in [recaptime-dev/vaultwarden-docker](https://github.com/recaptime-dev/vaultwarden-docker)
+5. 🗣 Commented on [#34](https://github.com/recaptime-dev/vaultwarden-docker/issues/34) in [recaptime-dev/vaultwarden-docker](https://github.com/recaptime-dev/vaultwarden-docker)
 <!--END_SECTION:activity-->
 
 
