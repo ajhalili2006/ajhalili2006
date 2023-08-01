@@ -121,4 +121,4 @@ Gitpod and GitHub Codespaces don't preserve `/home` directories on workspace res
 
 </details>
 
-[^1]: Email address doesn't work? See <https://github.com/ajhalili2006/ajhalili2006/blob/ajhalili2006/ajhalili2006/docs/vocabulary/shitfuckery-at-bullshit-dot-hq.md> why.
+[^1]: Email address doesn't work? See <https://github.com/ajhalili2006/ajhalili2006/blob/ajhalili2006/main/docs/vocabulary/shitfuckery-at-bullshit-dot-hq.md> why.
