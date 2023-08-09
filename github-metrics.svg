@@ -415,18 +415,13 @@ Signed-off-by: Andrei Jiroh Halili &lt;ajhalili2006@gmail.com&gt;
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">digital-garden</span>
-                                <div class="bar" style="width: 36.623999999999995%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">46%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">squad-wiki</span>
-                                <div class="bar" style="width: 24%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">30%</span>
+                                <div class="bar" style="width: 52.32%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">65%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">dazzle-build-script</span>
-                                <div class="bar" style="width: 19.376%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">24%</span>
+                                <div class="bar" style="width: 27.680000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">35%</span>
                             </div>
                         </div>
                     </section>
@@ -435,27 +430,27 @@ Signed-off-by: Andrei Jiroh Halili &lt;ajhalili2006@gmail.com&gt;
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 46.752%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">58%</span>
+                                <div class="bar" style="width: 32.895999999999994%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">41%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Bash</span>
-                                <div class="bar" style="width: 15.48%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">19%</span>
+                                <div class="bar" style="width: 21.896%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">27%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">YAML</span>
-                                <div class="bar" style="width: 11.488%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">14%</span>
+                                <div class="bar" style="width: 16.408%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">21%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 6.103999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 8.72%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">11%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">TOML</span>
-                                <div class="bar" style="width: 0.128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Other</span>
+                                <div class="bar" style="width: 0.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -464,7 +459,7 @@ Signed-off-by: Andrei Jiroh Halili &lt;ajhalili2006@gmail.com&gt;
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Aug 2023, 02:20:15 (timezone Asia/Manila) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 10 Aug 2023, 05:15:59 (timezone Asia/Manila) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
