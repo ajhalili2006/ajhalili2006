@@ -104,11 +104,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/recaptime-dev/website-next/pull/1) in [recaptime-dev/website-next](https://github.com/recaptime-dev/website-next)
-2. 🎉 Merged PR [#1](https://github.com/recaptime-dev/squad/pull/1) in [recaptime-dev/squad](https://github.com/recaptime-dev/squad)
-3. 🗣 Commented on [#1](https://github.com/recaptime-dev/squad/issues/1) in [recaptime-dev/squad](https://github.com/recaptime-dev/squad)
-4. ❌ Closed PR [#1](https://github.com/gitpodify/workspace-images/pull/1) in [gitpodify/workspace-images](https://github.com/gitpodify/workspace-images)
-5. 💪 Opened PR [#40](https://github.com/recaptime-dev/vaultwarden-docker/pull/40) in [recaptime-dev/vaultwarden-docker](https://github.com/recaptime-dev/vaultwarden-docker)
+1. ❌ Closed PR [#1](https://github.com/ajhalili2006/ajhalili2006.github.io/pull/1) in [ajhalili2006/ajhalili2006.github.io](https://github.com/ajhalili2006/ajhalili2006.github.io)
+2. ❌ Closed PR [#1](https://github.com/recaptime-dev/website-next/pull/1) in [recaptime-dev/website-next](https://github.com/recaptime-dev/website-next)
+3. 🎉 Merged PR [#1](https://github.com/recaptime-dev/squad/pull/1) in [recaptime-dev/squad](https://github.com/recaptime-dev/squad)
+4. 🗣 Commented on [#1](https://github.com/recaptime-dev/squad/issues/1) in [recaptime-dev/squad](https://github.com/recaptime-dev/squad)
+5. ❌ Closed PR [#1](https://github.com/gitpodify/workspace-images/pull/1) in [gitpodify/workspace-images](https://github.com/gitpodify/workspace-images)
 <!--END_SECTION:activity-->
 
 
