@@ -105,10 +105,10 @@ Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#18557](https://github.com/gitpod-io/gitpod/issues/18557) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-2. ❗️ Opened issue [#18557](https://github.com/gitpod-io/gitpod/issues/18557) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-3. ❗️ Opened issue [#1625](https://github.com/upciti/wakemeops/issues/1625) in [upciti/wakemeops](https://github.com/upciti/wakemeops)
-4. ❌ Closed PR [#1](https://github.com/ajhalili2006/ajhalili2006.github.io/pull/1) in [ajhalili2006/ajhalili2006.github.io](https://github.com/ajhalili2006/ajhalili2006.github.io)
-5. ❌ Closed PR [#1](https://github.com/recaptime-dev/website-next/pull/1) in [recaptime-dev/website-next](https://github.com/recaptime-dev/website-next)
+2. 🗣 Commented on [#18557](https://github.com/gitpod-io/gitpod/issues/18557) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+3. ❗️ Opened issue [#18557](https://github.com/gitpod-io/gitpod/issues/18557) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+4. ❗️ Opened issue [#1625](https://github.com/upciti/wakemeops/issues/1625) in [upciti/wakemeops](https://github.com/upciti/wakemeops)
+5. ❌ Closed PR [#1](https://github.com/ajhalili2006/ajhalili2006.github.io/pull/1) in [ajhalili2006/ajhalili2006.github.io](https://github.com/ajhalili2006/ajhalili2006.github.io)
 <!--END_SECTION:activity-->
 
 
