@@ -104,11 +104,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/gitpodify/workspace-images/pull/2) in [gitpodify/workspace-images](https://github.com/gitpodify/workspace-images)
-2. 🗣 Commented on [#18557](https://github.com/gitpod-io/gitpod/issues/18557) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-3. 🗣 Commented on [#18557](https://github.com/gitpod-io/gitpod/issues/18557) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-4. ❗️ Opened issue [#18557](https://github.com/gitpod-io/gitpod/issues/18557) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-5. ❗️ Opened issue [#1625](https://github.com/upciti/wakemeops/issues/1625) in [upciti/wakemeops](https://github.com/upciti/wakemeops)
+1. ❗️ Opened issue [#4](https://github.com/gitpodify/workspace-images/issues/4) in [gitpodify/workspace-images](https://github.com/gitpodify/workspace-images)
+2. 🗣 Commented on [#1100](https://github.com/gitpod-io/workspace-images/issues/1100) in [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
+3. 🎉 Merged PR [#2](https://github.com/gitpodify/workspace-images/pull/2) in [gitpodify/workspace-images](https://github.com/gitpodify/workspace-images)
+4. 🗣 Commented on [#18557](https://github.com/gitpod-io/gitpod/issues/18557) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+5. 🗣 Commented on [#18557](https://github.com/gitpod-io/gitpod/issues/18557) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 <!--END_SECTION:activity-->
 
 
