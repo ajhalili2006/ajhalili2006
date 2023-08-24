@@ -104,11 +104,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/gitpodify/workspace-images/pull/9) in [gitpodify/workspace-images](https://github.com/gitpodify/workspace-images)
-2. 🗣 Commented on [#9](https://github.com/gitpodify/workspace-images/issues/9) in [gitpodify/workspace-images](https://github.com/gitpodify/workspace-images)
-3. ❗️ Opened issue [#8](https://github.com/gitpodify/workspace-images/issues/8) in [gitpodify/workspace-images](https://github.com/gitpodify/workspace-images)
-4. 🎉 Merged PR [#7](https://github.com/gitpodify/workspace-images/pull/7) in [gitpodify/workspace-images](https://github.com/gitpodify/workspace-images)
-5. 🎉 Merged PR [#1](https://github.com/recaptime-dev/squad-bots/pull/1) in [recaptime-dev/squad-bots](https://github.com/recaptime-dev/squad-bots)
+1. 🎉 Merged PR [#10](https://github.com/gitpodify/workspace-images/pull/10) in [gitpodify/workspace-images](https://github.com/gitpodify/workspace-images)
+2. 🎉 Merged PR [#9](https://github.com/gitpodify/workspace-images/pull/9) in [gitpodify/workspace-images](https://github.com/gitpodify/workspace-images)
+3. 🗣 Commented on [#9](https://github.com/gitpodify/workspace-images/issues/9) in [gitpodify/workspace-images](https://github.com/gitpodify/workspace-images)
+4. ❗️ Opened issue [#8](https://github.com/gitpodify/workspace-images/issues/8) in [gitpodify/workspace-images](https://github.com/gitpodify/workspace-images)
+5. 🎉 Merged PR [#7](https://github.com/gitpodify/workspace-images/pull/7) in [gitpodify/workspace-images](https://github.com/gitpodify/workspace-images)
 <!--END_SECTION:activity-->
 
 
