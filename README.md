@@ -104,11 +104,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/recaptime-dev/squad-bots/pull/2) in [recaptime-dev/squad-bots](https://github.com/recaptime-dev/squad-bots)
-2. 🎉 Merged PR [#5](https://github.com/recaptime-dev/squad-bots/pull/5) in [recaptime-dev/squad-bots](https://github.com/recaptime-dev/squad-bots)
-3. 🎉 Merged PR [#1](https://github.com/recaptime-dev/infra-custom-nixpkgs/pull/1) in [recaptime-dev/infra-custom-nixpkgs](https://github.com/recaptime-dev/infra-custom-nixpkgs)
-4. 🎉 Merged PR [#10](https://github.com/gitpodify/workspace-images/pull/10) in [gitpodify/workspace-images](https://github.com/gitpodify/workspace-images)
-5. 🎉 Merged PR [#9](https://github.com/gitpodify/workspace-images/pull/9) in [gitpodify/workspace-images](https://github.com/gitpodify/workspace-images)
+1. ❌ Closed PR [#6](https://github.com/lorebooks-wiki/mkdocs-material/pull/6) in [lorebooks-wiki/mkdocs-material](https://github.com/lorebooks-wiki/mkdocs-material)
+2. 🎉 Merged PR [#2](https://github.com/recaptime-dev/squad-bots/pull/2) in [recaptime-dev/squad-bots](https://github.com/recaptime-dev/squad-bots)
+3. 🎉 Merged PR [#5](https://github.com/recaptime-dev/squad-bots/pull/5) in [recaptime-dev/squad-bots](https://github.com/recaptime-dev/squad-bots)
+4. 🎉 Merged PR [#1](https://github.com/recaptime-dev/infra-custom-nixpkgs/pull/1) in [recaptime-dev/infra-custom-nixpkgs](https://github.com/recaptime-dev/infra-custom-nixpkgs)
+5. 🎉 Merged PR [#10](https://github.com/gitpodify/workspace-images/pull/10) in [gitpodify/workspace-images](https://github.com/gitpodify/workspace-images)
 <!--END_SECTION:activity-->
 
 
