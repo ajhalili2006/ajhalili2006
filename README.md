@@ -104,10 +104,10 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/lorebooks-wiki/comments-app/pull/5) in [lorebooks-wiki/comments-app](https://github.com/lorebooks-wiki/comments-app)
-2. ❗️ Opened issue [#728](https://github.com/Xe/site/issues/728) in [Xe/site](https://github.com/Xe/site)
-3. 💪 Opened PR [#1330](https://github.com/EthicalSource/contributor_covenant/pull/1330) in [EthicalSource/contributor_covenant](https://github.com/EthicalSource/contributor_covenant)
-4. ❌ Closed PR [#6](https://github.com/lorebooks-wiki/mkdocs-material/pull/6) in [lorebooks-wiki/mkdocs-material](https://github.com/lorebooks-wiki/mkdocs-material)
+1. 💪 Opened PR [#732](https://github.com/Xe/site/pull/732) in [Xe/site](https://github.com/Xe/site)
+2. 🎉 Merged PR [#5](https://github.com/lorebooks-wiki/comments-app/pull/5) in [lorebooks-wiki/comments-app](https://github.com/lorebooks-wiki/comments-app)
+3. ❗️ Opened issue [#728](https://github.com/Xe/site/issues/728) in [Xe/site](https://github.com/Xe/site)
+4. 💪 Opened PR [#1330](https://github.com/EthicalSource/contributor_covenant/pull/1330) in [EthicalSource/contributor_covenant](https://github.com/EthicalSource/contributor_covenant)
 5. 🎉 Merged PR [#1](https://github.com/recaptime-dev/infra-custom-nixpkgs/pull/1) in [recaptime-dev/infra-custom-nixpkgs](https://github.com/recaptime-dev/infra-custom-nixpkgs)
 <!--END_SECTION:activity-->
 
