@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="909" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="792" class="">
     <defs>
         <style/>
     </defs>
@@ -115,7 +115,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 490 users
+                            Following 491 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 1355 repositories
+                            Starred 1357 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -256,6 +256,32 @@
                                     </svg>
                                     <div class="content">
                                         Starred
+                                        <span class="repo">LazyVim/LazyVim</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">dsherret/dax</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
                                         <span class="repo">asdf-community/asdf-direnv</span>
                                     </div>
                                 </div>
@@ -294,216 +320,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">crazy-max/diun</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">lorebooks-wiki/comments-app</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#522257c</div>
-                                        <div class="message">Bump the dependencies group with 6 updates
-
-Bumps the dependencies group with 6 updates:
-
-| Package | From | To |
-| --- | --- | --- |
-| [preact](https://github.com/preactjs/preact) | `10.17.1` | `10.18.1` |
-| [preact-render-to-string](https://github.com/developit/preact-render-to-string) | `6.2.1` | `6.2.2` |
-| [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) | `6.7.3` | `6.7.4` |
-| [@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser) | `6.7.3` | `6.7.4` |
-| [eslint](https://github.com/eslint/eslint) | `8.50.0` | `8.51.0` |
-| [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) | `0.5.4` | `0.5.5` |
-
-
-Updates `preact` from 10.17.1 to 10.18.1
-- [Release notes](https://github.com/preactjs/preact/releases)
-- [Commits](https://github.com/preactjs/preact/compare/10.17.1...10.18.1)
-
-Updates `preact-render-to-string` from 6.2.1 to 6.2.2
-- [Release notes](https://github.com/developit/preact-render-to-string/releases)
-- [Changelog](https://github.com/preactjs/preact-render-to-string/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/developit/preact-render-to-string/compare/v6.2.1...6.2.2)
-
-Updates `@typescript-eslint/eslint-plugin` from 6.7.3 to 6.7.4
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v6.7.4/packages/eslint-plugin)
-
-Updates `@typescript-eslint/parser` from 6.7.3 to 6.7.4
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v6.7.4/packages/parser)
-
-Updates `eslint` from 8.50.0 to 8.51.0
-- [Release notes](https://github.com/eslint/eslint/releases)
-- [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/eslint/eslint/compare/v8.50.0...v8.51.0)
-
-Updates `prettier-plugin-tailwindcss` from 0.5.4 to 0.5.5
-- [Release notes](https://github.com/tailwindlabs/prettier-plugin-tailwindcss/releases)
-- [Changelog](https://github.com/tailwindlabs/prettier-plugin-tailwindcss/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/tailwindlabs/prettier-plugin-tailwindcss/compare/v0.5.4...v0.5.5)
-
----
-updated-dependencies:
-- dependency-name: preact
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: dependencies
-- dependency-name: preact-render-to-string
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-  dependency-group: dependencies
-- dependency-name: "@typescript-eslint/eslint-plugin"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-  dependency-group: dependencies
-- dependency-name: "@typescript-eslint/parser"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-  dependency-group: dependencies
-- dependency-name: eslint
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-  dependency-group: dependencies
-- dependency-name: prettier-plugin-tailwindcss
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-  dependency-group: dependencies
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd4961b</div>
-                                        <div class="message">Add alternative caching via PostgREST
-
-We've outgrown Supabase's free tier.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#12680bb</div>
-                                        <div class="message">Move supabase config</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2a77fb</div>
-                                        <div class="message">Downgrade preact to v10.17.1
-
-v10.18.0 seems to be causing issues in dev mode</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d613ba</div>
-                                        <div class="message">Bump next-translate from 2.5.3 to 2.6.0
-
-Bumps [next-translate](https://github.com/aralroca/next-translate) from 2.5.3 to 2.6.0.
-- [Release notes](https://github.com/aralroca/next-translate/releases)
-- [Commits](https://github.com/aralroca/next-translate/compare/2.5.3...2.6.0)
-
----
-updated-dependencies:
-- dependency-name: next-translate
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52278f9</div>
-                                        <div class="message">Bump the dependencies group with 6 updates
-
-Bumps the dependencies group with 6 updates:
-
-| Package | From | To |
-| --- | --- | --- |
-| [dompurify](https://github.com/cure53/DOMPurify) | `3.0.5` | `3.0.6` |
-| [preact](https://github.com/preactjs/preact) | `10.17.1` | `10.18.0` |
-| [swr](https://github.com/vercel/swr) | `2.2.2` | `2.2.4` |
-| [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) | `6.7.2` | `6.7.3` |
-| [@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser) | `6.7.2` | `6.7.3` |
-| [postcss](https://github.com/postcss/postcss) | `8.4.30` | `8.4.31` |
-
-
-Updates `dompurify` from 3.0.5 to 3.0.6
-- [Release notes](https://github.com/cure53/DOMPurify/releases)
-- [Commits](https://github.com/cure53/DOMPurify/compare/3.0.5...3.0.6)
-
-Updates `preact` from 10.17.1 to 10.18.0
-- [Release notes](https://github.com/preactjs/preact/releases)
-- [Commits](https://github.com/preactjs/preact/compare/10.17.1...10.18.0)
-
-Updates `swr` from 2.2.2 to 2.2.4
-- [Release notes](https://github.com/vercel/swr/releases)
-- [Commits](https://github.com/vercel/swr/compare/v2.2.2...v2.2.4)
-
-Updates `@typescript-eslint/eslint-plugin` from 6.7.2 to 6.7.3
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v6.7.3/packages/eslint-plugin)
-
-Updates `@typescript-eslint/parser` from 6.7.2 to 6.7.3
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v6.7.3/packages/parser)
-
-Updates `postcss` from 8.4.30 to 8.4.31
-- [Release notes](https://github.com/postcss/postcss/releases)
-- [Changelog](https://github.com/postcss/postcss/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/postcss/postcss/compare/8.4.30...8.4.31)
-
----
-updated-dependencies:
-- dependency-name: dompurify
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-  dependency-group: dependencies
-- dependency-name: preact
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: dependencies
-- dependency-name: swr
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-  dependency-group: dependencies
-- dependency-name: "@typescript-eslint/eslint-plugin"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-  dependency-group: dependencies
-- dependency-name: "@typescript-eslint/parser"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-  dependency-group: dependencies
-- dependency-name: postcss
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-  dependency-group: dependencies
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -522,7 +338,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Oct 2023, 20:25:26 (timezone Asia/Manila) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 15 Oct 2023, 23:14:53 (timezone Asia/Manila) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
