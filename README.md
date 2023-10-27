@@ -104,11 +104,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#732](https://github.com/Xe/site/pull/732) in [Xe/site](https://github.com/Xe/site)
-2. 🎉 Merged PR [#5](https://github.com/lorebooks-wiki/comments-app/pull/5) in [lorebooks-wiki/comments-app](https://github.com/lorebooks-wiki/comments-app)
-3. ❗️ Opened issue [#728](https://github.com/Xe/site/issues/728) in [Xe/site](https://github.com/Xe/site)
-4. 💪 Opened PR [#1330](https://github.com/EthicalSource/contributor_covenant/pull/1330) in [EthicalSource/contributor_covenant](https://github.com/EthicalSource/contributor_covenant)
-5. 🎉 Merged PR [#1](https://github.com/recaptime-dev/infra-custom-nixpkgs/pull/1) in [recaptime-dev/infra-custom-nixpkgs](https://github.com/recaptime-dev/infra-custom-nixpkgs)
+1. ❌ Closed PR [#4](https://github.com/ajhalili2006/website/pull/4) in [ajhalili2006/website](https://github.com/ajhalili2006/website)
+2. ❌ Closed PR [#5](https://github.com/ajhalili2006/website/pull/5) in [ajhalili2006/website](https://github.com/ajhalili2006/website)
+3. 💪 Opened PR [#732](https://github.com/Xe/site/pull/732) in [Xe/site](https://github.com/Xe/site)
+4. 🎉 Merged PR [#5](https://github.com/lorebooks-wiki/comments-app/pull/5) in [lorebooks-wiki/comments-app](https://github.com/lorebooks-wiki/comments-app)
+5. ❗️ Opened issue [#728](https://github.com/Xe/site/issues/728) in [Xe/site](https://github.com/Xe/site)
 <!--END_SECTION:activity-->
 
 
