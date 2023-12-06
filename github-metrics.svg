@@ -334,13 +334,13 @@ Signed-off-by: Andrei Jiroh Halili &lt;ajhalili2006@andreijiroh.eu.org&gt;</div>
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="field error">API error: 401</div>
+                        <div class="field error">API error: 504</div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Dec 2023, 14:19:51 (timezone Asia/Manila) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 6 Dec 2023, 17:15:55 (timezone Asia/Manila) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
