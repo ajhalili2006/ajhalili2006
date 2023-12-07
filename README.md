@@ -104,11 +104,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/gitpodify/workspace-images/issues/8) in [gitpodify/workspace-images](https://github.com/gitpodify/workspace-images)
-2. 🗣 Commented on [#10381](https://github.com/tailscale/tailscale/issues/10381) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
-3. 🎉 Merged PR [#51](https://github.com/recaptime-dev/vaultwarden-docker/pull/51) in [recaptime-dev/vaultwarden-docker](https://github.com/recaptime-dev/vaultwarden-docker)
-4. ❗️ Opened issue [#10381](https://github.com/tailscale/tailscale/issues/10381) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
-5. 🗣 Commented on [#9635](https://github.com/tailscale/tailscale/issues/9635) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
+1. 🎉 Merged PR [#11](https://github.com/recaptime-dev/squad-bots/pull/11) in [recaptime-dev/squad-bots](https://github.com/recaptime-dev/squad-bots)
+2. 🎉 Merged PR [#10](https://github.com/recaptime-dev/squad-bots/pull/10) in [recaptime-dev/squad-bots](https://github.com/recaptime-dev/squad-bots)
+3. 🗣 Commented on [#8](https://github.com/gitpodify/workspace-images/issues/8) in [gitpodify/workspace-images](https://github.com/gitpodify/workspace-images)
+4. 🗣 Commented on [#10381](https://github.com/tailscale/tailscale/issues/10381) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
+5. 🎉 Merged PR [#51](https://github.com/recaptime-dev/vaultwarden-docker/pull/51) in [recaptime-dev/vaultwarden-docker](https://github.com/recaptime-dev/vaultwarden-docker)
 <!--END_SECTION:activity-->
 
 
