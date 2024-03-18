@@ -7,7 +7,7 @@ on:
 
 env:
   # https://github.com/MadeByThePinsHub/github-activity-readme/blob/master/index.js#L75
-  BLOG_POST_WORKFLOW_EMAIL: service-accounts+github@recaptime.tk
+  BLOG_POST_WORKFLOW_EMAIL: service-accounts+github@crew.recaptime.dev
   BLOG_POST_WORKFLOW_NAME: Recap Time Bot
 
 jobs:
