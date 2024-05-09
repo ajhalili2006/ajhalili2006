@@ -104,11 +104,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/recaptime-dev/squad-wiki/pull/4) in [recaptime-dev/squad-wiki](https://github.com/recaptime-dev/squad-wiki)
-2. 🎉 Merged PR [#1](https://github.com/recaptime-dev/brand-assets/pull/1) in [recaptime-dev/brand-assets](https://github.com/recaptime-dev/brand-assets)
-3. ❌ Closed PR [#1](https://github.com/recaptime-dev/squad-wiki/pull/1) in [recaptime-dev/squad-wiki](https://github.com/recaptime-dev/squad-wiki)
-4. 💪 Opened PR [#95](https://github.com/save-nix-together/open-letter/pull/95) in [save-nix-together/open-letter](https://github.com/save-nix-together/open-letter)
-5. 🗣 Commented on [#5](https://github.com/recaptime-dev/infra-monitoring/issues/5) in [recaptime-dev/infra-monitoring](https://github.com/recaptime-dev/infra-monitoring)
+1. ❌ Closed PR [#1](https://github.com/recaptime-dev/legal-policies/pull/1) in [recaptime-dev/legal-policies](https://github.com/recaptime-dev/legal-policies)
+2. ❌ Closed PR [#2](https://github.com/recaptime-dev/legal-policies/pull/2) in [recaptime-dev/legal-policies](https://github.com/recaptime-dev/legal-policies)
+3. 🎉 Merged PR [#4](https://github.com/recaptime-dev/squad-wiki/pull/4) in [recaptime-dev/squad-wiki](https://github.com/recaptime-dev/squad-wiki)
+4. 🎉 Merged PR [#1](https://github.com/recaptime-dev/brand-assets/pull/1) in [recaptime-dev/brand-assets](https://github.com/recaptime-dev/brand-assets)
+5. ❌ Closed PR [#1](https://github.com/recaptime-dev/squad-wiki/pull/1) in [recaptime-dev/squad-wiki](https://github.com/recaptime-dev/squad-wiki)
 <!--END_SECTION:activity-->
 
 
