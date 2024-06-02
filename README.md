@@ -104,11 +104,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/flancian/agora/pull/32) in [flancian/agora](https://github.com/flancian/agora)
-2. ❌ Closed PR [#1](https://github.com/recaptime-dev/legal-policies/pull/1) in [recaptime-dev/legal-policies](https://github.com/recaptime-dev/legal-policies)
-3. ❌ Closed PR [#2](https://github.com/recaptime-dev/legal-policies/pull/2) in [recaptime-dev/legal-policies](https://github.com/recaptime-dev/legal-policies)
-4. 🎉 Merged PR [#4](https://github.com/recaptime-dev/squad-wiki/pull/4) in [recaptime-dev/squad-wiki](https://github.com/recaptime-dev/squad-wiki)
-5. 🎉 Merged PR [#1](https://github.com/recaptime-dev/brand-assets/pull/1) in [recaptime-dev/brand-assets](https://github.com/recaptime-dev/brand-assets)
+1. 🗣 Commented on [#32](https://github.com/flancian/agora/issues/32) in [flancian/agora](https://github.com/flancian/agora)
+2. 💪 Opened PR [#32](https://github.com/flancian/agora/pull/32) in [flancian/agora](https://github.com/flancian/agora)
+3. ❌ Closed PR [#1](https://github.com/recaptime-dev/legal-policies/pull/1) in [recaptime-dev/legal-policies](https://github.com/recaptime-dev/legal-policies)
+4. ❌ Closed PR [#2](https://github.com/recaptime-dev/legal-policies/pull/2) in [recaptime-dev/legal-policies](https://github.com/recaptime-dev/legal-policies)
+5. 🎉 Merged PR [#4](https://github.com/recaptime-dev/squad-wiki/pull/4) in [recaptime-dev/squad-wiki](https://github.com/recaptime-dev/squad-wiki)
 <!--END_SECTION:activity-->
 
 
