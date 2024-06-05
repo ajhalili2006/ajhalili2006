@@ -104,11 +104,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/flancian/agora/issues/32) in [flancian/agora](https://github.com/flancian/agora)
-2. 💪 Opened PR [#32](https://github.com/flancian/agora/pull/32) in [flancian/agora](https://github.com/flancian/agora)
-3. ❌ Closed PR [#1](https://github.com/recaptime-dev/legal-policies/pull/1) in [recaptime-dev/legal-policies](https://github.com/recaptime-dev/legal-policies)
-4. ❌ Closed PR [#2](https://github.com/recaptime-dev/legal-policies/pull/2) in [recaptime-dev/legal-policies](https://github.com/recaptime-dev/legal-policies)
-5. 🎉 Merged PR [#4](https://github.com/recaptime-dev/squad-wiki/pull/4) in [recaptime-dev/squad-wiki](https://github.com/recaptime-dev/squad-wiki)
+1. ❌ Closed PR [#7](https://github.com/andreijiroh-dev/wiki/pull/7) in [andreijiroh-dev/wiki](https://github.com/andreijiroh-dev/wiki)
+2. ❌ Closed PR [#6](https://github.com/andreijiroh-dev/wiki/pull/6) in [andreijiroh-dev/wiki](https://github.com/andreijiroh-dev/wiki)
+3. ❌ Closed PR [#5](https://github.com/andreijiroh-dev/wiki/pull/5) in [andreijiroh-dev/wiki](https://github.com/andreijiroh-dev/wiki)
+4. ❌ Closed PR [#4](https://github.com/andreijiroh-dev/wiki/pull/4) in [andreijiroh-dev/wiki](https://github.com/andreijiroh-dev/wiki)
+5. ❌ Closed PR [#3](https://github.com/andreijiroh-dev/wiki/pull/3) in [andreijiroh-dev/wiki](https://github.com/andreijiroh-dev/wiki)
 <!--END_SECTION:activity-->
 
 
