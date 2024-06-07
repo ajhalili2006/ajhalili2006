@@ -104,11 +104,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/ajhalili2006/tools-commentsapi/pull/1) in [ajhalili2006/tools-commentsapi](https://github.com/ajhalili2006/tools-commentsapi)
-2. ❌ Closed PR [#2](https://github.com/ajhalili2006/tools-commentsapi/pull/2) in [ajhalili2006/tools-commentsapi](https://github.com/ajhalili2006/tools-commentsapi)
-3. ❌ Closed PR [#7](https://github.com/andreijiroh-dev/wiki/pull/7) in [andreijiroh-dev/wiki](https://github.com/andreijiroh-dev/wiki)
-4. ❌ Closed PR [#6](https://github.com/andreijiroh-dev/wiki/pull/6) in [andreijiroh-dev/wiki](https://github.com/andreijiroh-dev/wiki)
-5. ❌ Closed PR [#5](https://github.com/andreijiroh-dev/wiki/pull/5) in [andreijiroh-dev/wiki](https://github.com/andreijiroh-dev/wiki)
+1. ❌ Closed PR [#6](https://github.com/lorebooks-wiki/comments-app/pull/6) in [lorebooks-wiki/comments-app](https://github.com/lorebooks-wiki/comments-app)
+2. ❌ Closed PR [#1](https://github.com/ajhalili2006/tools-commentsapi/pull/1) in [ajhalili2006/tools-commentsapi](https://github.com/ajhalili2006/tools-commentsapi)
+3. ❌ Closed PR [#2](https://github.com/ajhalili2006/tools-commentsapi/pull/2) in [ajhalili2006/tools-commentsapi](https://github.com/ajhalili2006/tools-commentsapi)
+4. ❌ Closed PR [#7](https://github.com/andreijiroh-dev/wiki/pull/7) in [andreijiroh-dev/wiki](https://github.com/andreijiroh-dev/wiki)
+5. ❌ Closed PR [#6](https://github.com/andreijiroh-dev/wiki/pull/6) in [andreijiroh-dev/wiki](https://github.com/andreijiroh-dev/wiki)
 <!--END_SECTION:activity-->
 
 
