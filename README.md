@@ -104,11 +104,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/recaptime-dev/transparency-log-threads/issues/1) in [recaptime-dev/transparency-log-threads](https://github.com/recaptime-dev/transparency-log-threads)
-2. ❗️ Opened issue [#3](https://github.com/andreijiroh-dev/personal-launchpad/issues/3) in [andreijiroh-dev/personal-launchpad](https://github.com/andreijiroh-dev/personal-launchpad)
-3. ❌ Closed PR [#29](https://github.com/recaptime-dev/infra-monitoring/pull/29) in [recaptime-dev/infra-monitoring](https://github.com/recaptime-dev/infra-monitoring)
-4. 🗣 Commented on [#259](https://github.com/dotenvx/dotenvx/issues/259) in [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
-5. ❗️ Opened issue [#10](https://github.com/dreadhalor/hermitcraft-horns/issues/10) in [dreadhalor/hermitcraft-horns](https://github.com/dreadhalor/hermitcraft-horns)
+1. 🗣 Commented on [#2](https://github.com/recaptime-dev/transparency-log-threads/issues/2) in [recaptime-dev/transparency-log-threads](https://github.com/recaptime-dev/transparency-log-threads)
+2. ❗️ Closed issue [#2](https://github.com/recaptime-dev/transparency-log-threads/issues/2) in [recaptime-dev/transparency-log-threads](https://github.com/recaptime-dev/transparency-log-threads)
+3. ❗️ Closed issue [#2](https://github.com/recaptime-dev/transparency-log-threads/issues/2) in [recaptime-dev/transparency-log-threads](https://github.com/recaptime-dev/transparency-log-threads)
+4. ❗️ Opened issue [#1](https://github.com/recaptime-dev/transparency-log-threads/issues/1) in [recaptime-dev/transparency-log-threads](https://github.com/recaptime-dev/transparency-log-threads)
+5. ❗️ Opened issue [#3](https://github.com/andreijiroh-dev/personal-launchpad/issues/3) in [andreijiroh-dev/personal-launchpad](https://github.com/andreijiroh-dev/personal-launchpad)
 <!--END_SECTION:activity-->
 
 
