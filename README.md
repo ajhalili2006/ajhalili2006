@@ -104,10 +104,10 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2529](https://github.com/upciti/wakemeops/issues/2529) in [upciti/wakemeops](https://github.com/upciti/wakemeops)
-2. ❗️ Opened issue [#2529](https://github.com/upciti/wakemeops/issues/2529) in [upciti/wakemeops](https://github.com/upciti/wakemeops)
-3. 🗣 Commented on [#2](https://github.com/recaptime-dev/transparency-log-threads/issues/2) in [recaptime-dev/transparency-log-threads](https://github.com/recaptime-dev/transparency-log-threads)
-4. ❗️ Closed issue [#2](https://github.com/recaptime-dev/transparency-log-threads/issues/2) in [recaptime-dev/transparency-log-threads](https://github.com/recaptime-dev/transparency-log-threads)
+1. ❗️ Closed issue [#3](https://github.com/andreijiroh-dev/personal-launchpad/issues/3) in [andreijiroh-dev/personal-launchpad](https://github.com/andreijiroh-dev/personal-launchpad)
+2. 🗣 Commented on [#2529](https://github.com/upciti/wakemeops/issues/2529) in [upciti/wakemeops](https://github.com/upciti/wakemeops)
+3. ❗️ Opened issue [#2529](https://github.com/upciti/wakemeops/issues/2529) in [upciti/wakemeops](https://github.com/upciti/wakemeops)
+4. 🗣 Commented on [#2](https://github.com/recaptime-dev/transparency-log-threads/issues/2) in [recaptime-dev/transparency-log-threads](https://github.com/recaptime-dev/transparency-log-threads)
 5. ❗️ Closed issue [#2](https://github.com/recaptime-dev/transparency-log-threads/issues/2) in [recaptime-dev/transparency-log-threads](https://github.com/recaptime-dev/transparency-log-threads)
 <!--END_SECTION:activity-->
 
