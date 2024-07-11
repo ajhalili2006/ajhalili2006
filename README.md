@@ -104,11 +104,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#308](https://github.com/dotenvx/dotenvx/issues/308) in [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
-2. ❗️ Opened issue [#308](https://github.com/dotenvx/dotenvx/issues/308) in [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
-3. ❗️ Closed issue [#3](https://github.com/andreijiroh-dev/personal-launchpad/issues/3) in [andreijiroh-dev/personal-launchpad](https://github.com/andreijiroh-dev/personal-launchpad)
-4. 🗣 Commented on [#2529](https://github.com/upciti/wakemeops/issues/2529) in [upciti/wakemeops](https://github.com/upciti/wakemeops)
-5. ❗️ Opened issue [#2529](https://github.com/upciti/wakemeops/issues/2529) in [upciti/wakemeops](https://github.com/upciti/wakemeops)
+1. ❗️ Opened issue [#112](https://github.com/dotenv-org/dotenv-vscode/issues/112) in [dotenv-org/dotenv-vscode](https://github.com/dotenv-org/dotenv-vscode)
+2. 🗣 Commented on [#308](https://github.com/dotenvx/dotenvx/issues/308) in [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
+3. ❗️ Opened issue [#308](https://github.com/dotenvx/dotenvx/issues/308) in [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
+4. ❗️ Closed issue [#3](https://github.com/andreijiroh-dev/personal-launchpad/issues/3) in [andreijiroh-dev/personal-launchpad](https://github.com/andreijiroh-dev/personal-launchpad)
+5. 🗣 Commented on [#2529](https://github.com/upciti/wakemeops/issues/2529) in [upciti/wakemeops](https://github.com/upciti/wakemeops)
 <!--END_SECTION:activity-->
 
 
