@@ -104,11 +104,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/andreijiroh-dev/api-servers/issues/11) in [andreijiroh-dev/api-servers](https://github.com/andreijiroh-dev/api-servers)
-2. 🗣 Commented on [#11](https://github.com/andreijiroh-dev/api-servers/issues/11) in [andreijiroh-dev/api-servers](https://github.com/andreijiroh-dev/api-servers)
-3. ❗️ Opened issue [#11](https://github.com/andreijiroh-dev/api-servers/issues/11) in [andreijiroh-dev/api-servers](https://github.com/andreijiroh-dev/api-servers)
-4. ❗️ Opened issue [#1652](https://github.com/DigitalPlatDev/US.KG/issues/1652) in [DigitalPlatDev/US.KG](https://github.com/DigitalPlatDev/US.KG)
-5. ❗️ Opened issue [#112](https://github.com/dotenv-org/dotenv-vscode/issues/112) in [dotenv-org/dotenv-vscode](https://github.com/dotenv-org/dotenv-vscode)
+1. ❗️ Opened issue [#4](https://github.com/andreijiroh-dev/personal-launchpad/issues/4) in [andreijiroh-dev/personal-launchpad](https://github.com/andreijiroh-dev/personal-launchpad)
+2. ❗️ Closed issue [#11](https://github.com/andreijiroh-dev/api-servers/issues/11) in [andreijiroh-dev/api-servers](https://github.com/andreijiroh-dev/api-servers)
+3. 🗣 Commented on [#11](https://github.com/andreijiroh-dev/api-servers/issues/11) in [andreijiroh-dev/api-servers](https://github.com/andreijiroh-dev/api-servers)
+4. ❗️ Opened issue [#11](https://github.com/andreijiroh-dev/api-servers/issues/11) in [andreijiroh-dev/api-servers](https://github.com/andreijiroh-dev/api-servers)
+5. ❗️ Opened issue [#1652](https://github.com/DigitalPlatDev/US.KG/issues/1652) in [DigitalPlatDev/US.KG](https://github.com/DigitalPlatDev/US.KG)
 <!--END_SECTION:activity-->
 
 
