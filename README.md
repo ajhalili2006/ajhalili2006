@@ -104,11 +104,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/andreijiroh-dev/docker-images/pull/8) in [andreijiroh-dev/docker-images](https://github.com/andreijiroh-dev/docker-images)
-2. ❗️ Opened issue [#4](https://github.com/andreijiroh-dev/personal-launchpad/issues/4) in [andreijiroh-dev/personal-launchpad](https://github.com/andreijiroh-dev/personal-launchpad)
-3. ❗️ Closed issue [#11](https://github.com/andreijiroh-dev/api-servers/issues/11) in [andreijiroh-dev/api-servers](https://github.com/andreijiroh-dev/api-servers)
-4. 🗣 Commented on [#11](https://github.com/andreijiroh-dev/api-servers/issues/11) in [andreijiroh-dev/api-servers](https://github.com/andreijiroh-dev/api-servers)
-5. ❗️ Opened issue [#11](https://github.com/andreijiroh-dev/api-servers/issues/11) in [andreijiroh-dev/api-servers](https://github.com/andreijiroh-dev/api-servers)
+1. ❌ Closed PR [#1](https://github.com/andreijiroh-dev/docker-images/pull/1) in [andreijiroh-dev/docker-images](https://github.com/andreijiroh-dev/docker-images)
+2. ❌ Closed PR [#9](https://github.com/andreijiroh-dev/docker-images/pull/9) in [andreijiroh-dev/docker-images](https://github.com/andreijiroh-dev/docker-images)
+3. ❌ Closed PR [#2](https://github.com/andreijiroh-dev/docker-images/pull/2) in [andreijiroh-dev/docker-images](https://github.com/andreijiroh-dev/docker-images)
+4. ❌ Closed PR [#4](https://github.com/andreijiroh-dev/docker-images/pull/4) in [andreijiroh-dev/docker-images](https://github.com/andreijiroh-dev/docker-images)
+5. 🎉 Merged PR [#8](https://github.com/andreijiroh-dev/docker-images/pull/8) in [andreijiroh-dev/docker-images](https://github.com/andreijiroh-dev/docker-images)
 <!--END_SECTION:activity-->
 
 
