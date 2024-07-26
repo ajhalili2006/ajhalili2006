@@ -104,11 +104,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/andreijiroh-dev/docker-images/pull/1) in [andreijiroh-dev/docker-images](https://github.com/andreijiroh-dev/docker-images)
-2. ❌ Closed PR [#9](https://github.com/andreijiroh-dev/docker-images/pull/9) in [andreijiroh-dev/docker-images](https://github.com/andreijiroh-dev/docker-images)
-3. ❌ Closed PR [#2](https://github.com/andreijiroh-dev/docker-images/pull/2) in [andreijiroh-dev/docker-images](https://github.com/andreijiroh-dev/docker-images)
-4. ❌ Closed PR [#4](https://github.com/andreijiroh-dev/docker-images/pull/4) in [andreijiroh-dev/docker-images](https://github.com/andreijiroh-dev/docker-images)
-5. 🎉 Merged PR [#8](https://github.com/andreijiroh-dev/docker-images/pull/8) in [andreijiroh-dev/docker-images](https://github.com/andreijiroh-dev/docker-images)
+1. 💪 Opened PR [#1](https://github.com/mrdarip/Hack-Club-customs-tracker/pull/1) in [mrdarip/Hack-Club-customs-tracker](https://github.com/mrdarip/Hack-Club-customs-tracker)
+2. ❌ Closed PR [#1](https://github.com/andreijiroh-dev/docker-images/pull/1) in [andreijiroh-dev/docker-images](https://github.com/andreijiroh-dev/docker-images)
+3. ❌ Closed PR [#9](https://github.com/andreijiroh-dev/docker-images/pull/9) in [andreijiroh-dev/docker-images](https://github.com/andreijiroh-dev/docker-images)
+4. ❌ Closed PR [#2](https://github.com/andreijiroh-dev/docker-images/pull/2) in [andreijiroh-dev/docker-images](https://github.com/andreijiroh-dev/docker-images)
+5. ❌ Closed PR [#4](https://github.com/andreijiroh-dev/docker-images/pull/4) in [andreijiroh-dev/docker-images](https://github.com/andreijiroh-dev/docker-images)
 <!--END_SECTION:activity-->
 
 
