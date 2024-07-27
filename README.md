@@ -104,11 +104,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/mrdarip/Hack-Club-customs-tracker/issues/1) in [mrdarip/Hack-Club-customs-tracker](https://github.com/mrdarip/Hack-Club-customs-tracker)
-2. 💪 Opened PR [#1](https://github.com/mrdarip/Hack-Club-customs-tracker/pull/1) in [mrdarip/Hack-Club-customs-tracker](https://github.com/mrdarip/Hack-Club-customs-tracker)
-3. ❌ Closed PR [#1](https://github.com/andreijiroh-dev/docker-images/pull/1) in [andreijiroh-dev/docker-images](https://github.com/andreijiroh-dev/docker-images)
-4. ❌ Closed PR [#9](https://github.com/andreijiroh-dev/docker-images/pull/9) in [andreijiroh-dev/docker-images](https://github.com/andreijiroh-dev/docker-images)
-5. ❌ Closed PR [#2](https://github.com/andreijiroh-dev/docker-images/pull/2) in [andreijiroh-dev/docker-images](https://github.com/andreijiroh-dev/docker-images)
+1. 🗣 Commented on [#1230](https://github.com/hackclub/dns/issues/1230) in [hackclub/dns](https://github.com/hackclub/dns)
+2. 🗣 Commented on [#1](https://github.com/mrdarip/Hack-Club-customs-tracker/issues/1) in [mrdarip/Hack-Club-customs-tracker](https://github.com/mrdarip/Hack-Club-customs-tracker)
+3. 💪 Opened PR [#1](https://github.com/mrdarip/Hack-Club-customs-tracker/pull/1) in [mrdarip/Hack-Club-customs-tracker](https://github.com/mrdarip/Hack-Club-customs-tracker)
+4. ❌ Closed PR [#1](https://github.com/andreijiroh-dev/docker-images/pull/1) in [andreijiroh-dev/docker-images](https://github.com/andreijiroh-dev/docker-images)
+5. ❌ Closed PR [#9](https://github.com/andreijiroh-dev/docker-images/pull/9) in [andreijiroh-dev/docker-images](https://github.com/andreijiroh-dev/docker-images)
 <!--END_SECTION:activity-->
 
 
