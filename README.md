@@ -104,11 +104,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#21102](https://github.com/termux/termux-packages/issues/21102) in [termux/termux-packages](https://github.com/termux/termux-packages)
-2. 🗣 Commented on [#53](https://github.com/hackclub/nest/issues/53) in [hackclub/nest](https://github.com/hackclub/nest)
+1. 🗣 Commented on [#21102](https://github.com/termux/termux-packages/issues/21102) in [termux/termux-packages](https://github.com/termux/termux-packages)
+2. ❗️ Opened issue [#21102](https://github.com/termux/termux-packages/issues/21102) in [termux/termux-packages](https://github.com/termux/termux-packages)
 3. 🗣 Commented on [#53](https://github.com/hackclub/nest/issues/53) in [hackclub/nest](https://github.com/hackclub/nest)
-4. ❗️ Opened issue [#78](https://github.com/hackclub/infra/issues/78) in [hackclub/infra](https://github.com/hackclub/infra)
-5. 🗣 Commented on [#17](https://github.com/andreijiroh-dev/api-servers/issues/17) in [andreijiroh-dev/api-servers](https://github.com/andreijiroh-dev/api-servers)
+4. 🗣 Commented on [#53](https://github.com/hackclub/nest/issues/53) in [hackclub/nest](https://github.com/hackclub/nest)
+5. ❗️ Opened issue [#78](https://github.com/hackclub/infra/issues/78) in [hackclub/infra](https://github.com/hackclub/infra)
 <!--END_SECTION:activity-->
 
 
