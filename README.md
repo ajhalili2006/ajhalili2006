@@ -104,10 +104,10 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1239](https://github.com/hackclub/dns/pull/1239) in [hackclub/dns](https://github.com/hackclub/dns)
-2. 🗣 Commented on [#21102](https://github.com/termux/termux-packages/issues/21102) in [termux/termux-packages](https://github.com/termux/termux-packages)
-3. ❗️ Opened issue [#21102](https://github.com/termux/termux-packages/issues/21102) in [termux/termux-packages](https://github.com/termux/termux-packages)
-4. 🗣 Commented on [#53](https://github.com/hackclub/nest/issues/53) in [hackclub/nest](https://github.com/hackclub/nest)
+1. 🗣 Commented on [#1239](https://github.com/hackclub/dns/issues/1239) in [hackclub/dns](https://github.com/hackclub/dns)
+2. 💪 Opened PR [#1239](https://github.com/hackclub/dns/pull/1239) in [hackclub/dns](https://github.com/hackclub/dns)
+3. 🗣 Commented on [#21102](https://github.com/termux/termux-packages/issues/21102) in [termux/termux-packages](https://github.com/termux/termux-packages)
+4. ❗️ Opened issue [#21102](https://github.com/termux/termux-packages/issues/21102) in [termux/termux-packages](https://github.com/termux/termux-packages)
 5. 🗣 Commented on [#53](https://github.com/hackclub/nest/issues/53) in [hackclub/nest](https://github.com/hackclub/nest)
 <!--END_SECTION:activity-->
 
