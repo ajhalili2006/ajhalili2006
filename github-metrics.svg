@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="909" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="875" class="">
     <defs>
         <style/>
     </defs>
@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 1587 repositories
+                            Starred 1589 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -252,6 +252,32 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">begin/globbing</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">andreijiroh-dev/bootstrap-scripts-linux</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -330,50 +356,6 @@ Signed-off-by: Andrei Jiroh Halili &lt;ajhalili2006@andreijiroh.xyz&gt;
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">andreijiroh-dev/bootstrap-scripts-linux</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3bf6d3a</div>
-                                        <div class="message">
-                                            feat(global):
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                            initial commit for bootstrap scripts
-
-See https://github.com/andreijiroh-dev/personal-launchpad/issues/4 for all thing Arcade.
-
-Signed-off-by: Andrei Jiroh Halili &lt;ajhalili2006@andreijiroh.xyz&gt;
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">main</span>
-                                        in
-                                        <span class="repo">andreijiroh-dev/bootstrap-scripts-linux</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -392,7 +374,7 @@ Signed-off-by: Andrei Jiroh Halili &lt;ajhalili2006@andreijiroh.xyz&gt;
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Aug 2024, 11:23:11 (timezone Asia/Manila) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 24 Aug 2024, 14:27:03 (timezone Asia/Manila) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
