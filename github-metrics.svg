@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="925" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1242" class="">
     <defs>
         <style/>
     </defs>
@@ -210,7 +210,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 36 commits)</small>
+                    <small class="h-details">(computed from last 38 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -248,6 +248,181 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">ajhalili2006/dns</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">patch-1</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5996318</div>
+                                        <div class="message">chore(dino.icu): add records ajhalili2006.dino.icu and andreijiroh.dino.icu
+
+Emergency rebase and force push from https://github.com/hackclub/dns/pull/1239/commits/cb720aad17b9196cd78dd3bec57d2941d00dbe98
+See merge request review comments for context.
+
+Signed-off-by: Andrei Jiroh Halili &lt;ajhalili2006@andreijiroh.xyz&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f9b920</div>
+                                        <div class="message">Update dino.icu.yaml (#1268)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 18 commits in
+                                        <span class="repo">ajhalili2006/dns</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">patch-1</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3ca75ef</div>
+                                        <div class="message">chore(dino.icu): add records ajhalili2006.dino.icu and andreijiroh.dino.icu
+
+Emergency rebase and force push from https://github.com/hackclub/dns/pull/1239/commits/cb720aad17b9196cd78dd3bec57d2941d00dbe98
+See merge request review comments for context.
+
+Signed-off-by: Andrei Jiroh Halili &lt;ajhalili2006@andreijiroh.xyz&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d53eaf4</div>
+                                        <div class="message">Add vortex.dino.icu (#1206)
+
+Co-authored-by: Cara Salter &lt;cara@devcara.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d9720bc</div>
+                                        <div class="message">Add takeout kubernetes ingress IP</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f11a6f9</div>
+                                        <div class="message">add indonesian locale translation (id) domain (#1227)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c4d3ff8</div>
+                                        <div class="message">Adding ru.hackclub.com + Adding uk.hackclub.com (#1229)
+
+* russian and ukrainian pages
+
+* alphabetic fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5ac3472</div>
+                                        <div class="message">Added it subdomain to hackclub.com.yaml (#1234)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a3c7cdb</div>
+                                        <div class="message">Update hackclub.com.yaml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#61a3484</div>
+                                        <div class="message">Update astra.hackclub.com (#1263)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#86e9f91</div>
+                                        <div class="message">Update hackclub.com.yaml (#1261)
+
+with ASTRA hackclub website all PR faults removed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9320841</div>
+                                        <div class="message">Adding `_gh-arsenobetaine-o.arsenic.hackclub.com` (#1258)
+
+* Update hackclub.com.yaml Added "arsenic.hackclub.com"
+
+* Adding `arsenic.hackclub.com`
+
+* Adding GitHub Domain Verification for `arsenic.hackclub.com`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5088e14</div>
+                                        <div class="message">Adding `arsenic.hackclub.com` (#1257)
+
+* Update hackclub.com.yaml Added "arsenic.hackclub.com"
+
+* Adding `arsenic.hackclub.com`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#860ef75</div>
+                                        <div class="message">Verify luna.hackclub.com with vercel (#1245)
+
+* Update hackclub.com.yaml
+
+* Update hackclub.com.yaml
+
+---------
+
+Co-authored-by: Ben &lt;malted@hackclub.com&gt;
+Co-authored-by: Cara Salter &lt;cara@devcara.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6004851</div>
+                                        <div class="message">Adding bbss.hackclub.com (#1255)
+
+* Update hackclub.com.yaml
+
+* Update hackclub.com.yaml
+
+* Update hackclub.com.yaml
+
+* Update hackclub.com.yaml
+
+---------
+
+Co-authored-by: Cara Salter &lt;cara@devcara.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1556ef2</div>
+                                        <div class="message">Verify bbss.hackclub.com (#1247)
+
+* Update hackclub.com.yaml
+
+* Update hackclub.com.yaml
+
+* Update hackclub.com.yaml
+
+---------
+
+Co-authored-by: Cara Salter &lt;cara@devcara.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bfef813</div>
+                                        <div class="message">[Pirate Ship] Verify return path (Postmark) (#1254)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af4ab17</div>
+                                        <div class="message">Add eventmasterapi.hackclub.com (#1252)
+
+* Add eventmasterapi
+
+* lil fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#93fc9d8</div>
+                                        <div class="message">Update hackclub.com.yaml (#1250)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#778bc9e</div>
+                                        <div class="message">Deleting gaming.dino.icu (#1248)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -328,45 +503,6 @@ Signed-off-by: Andrei Jiroh Halili &lt;ajhalili2006@andreijiroh.xyz&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#32 Include 2024 events (Arcade?)</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">hackclub/lore</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">lorebooks-wiki/badges-api</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#03a4eb4</div>
-                                        <div class="message">feat(badges): update backend code to use makeLogo from badges/shields repo
-
-Signed-off-by: Andrei Jiroh Halili (RecapTime.dev) &lt;ajhalili2006@crew.recaptime.dev&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -385,7 +521,7 @@ Signed-off-by: Andrei Jiroh Halili (RecapTime.dev) &lt;ajhalili2006@crew.recapti
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Aug 2024, 23:22:27 (timezone Asia/Manila) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 1 Sept 2024, 02:25:29 (timezone Asia/Manila) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
