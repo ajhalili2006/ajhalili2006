@@ -104,10 +104,10 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#93](https://github.com/anirudhb/prox2/issues/93) in [anirudhb/prox2](https://github.com/anirudhb/prox2)
-2. 🗣 Commented on [#4](https://github.com/andreijiroh-dev/personal-launchpad/issues/4) in [andreijiroh-dev/personal-launchpad](https://github.com/andreijiroh-dev/personal-launchpad)
-3. ❗️ Opened issue [#32](https://github.com/hackclub/lore/issues/32) in [hackclub/lore](https://github.com/hackclub/lore)
-4. ❗️ Opened issue [#353](https://github.com/dotenvx/dotenvx/issues/353) in [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
+1. 🗣 Commented on [#1](https://github.com/recaptime-dev/proxyparty-caddy/issues/1) in [recaptime-dev/proxyparty-caddy](https://github.com/recaptime-dev/proxyparty-caddy)
+2. ❗️ Opened issue [#93](https://github.com/anirudhb/prox2/issues/93) in [anirudhb/prox2](https://github.com/anirudhb/prox2)
+3. 🗣 Commented on [#4](https://github.com/andreijiroh-dev/personal-launchpad/issues/4) in [andreijiroh-dev/personal-launchpad](https://github.com/andreijiroh-dev/personal-launchpad)
+4. ❗️ Opened issue [#32](https://github.com/hackclub/lore/issues/32) in [hackclub/lore](https://github.com/hackclub/lore)
 5. 🗣 Commented on [#21102](https://github.com/termux/termux-packages/issues/21102) in [termux/termux-packages](https://github.com/termux/termux-packages)
 <!--END_SECTION:activity-->
 
