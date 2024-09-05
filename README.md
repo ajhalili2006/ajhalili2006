@@ -104,11 +104,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2529](https://github.com/upciti/wakemeops/issues/2529) in [upciti/wakemeops](https://github.com/upciti/wakemeops)
-2. ❗️ Closed issue [#2529](https://github.com/upciti/wakemeops/issues/2529) in [upciti/wakemeops](https://github.com/upciti/wakemeops)
-3. 🗣 Commented on [#1](https://github.com/recaptime-dev/proxyparty-caddy/issues/1) in [recaptime-dev/proxyparty-caddy](https://github.com/recaptime-dev/proxyparty-caddy)
-4. ❗️ Opened issue [#93](https://github.com/anirudhb/prox2/issues/93) in [anirudhb/prox2](https://github.com/anirudhb/prox2)
-5. 🗣 Commented on [#4](https://github.com/andreijiroh-dev/personal-launchpad/issues/4) in [andreijiroh-dev/personal-launchpad](https://github.com/andreijiroh-dev/personal-launchpad)
+1. 🗣 Commented on [#4](https://github.com/andreijiroh-dev/personal-launchpad/issues/4) in [andreijiroh-dev/personal-launchpad](https://github.com/andreijiroh-dev/personal-launchpad)
+2. ❗️ Closed issue [#4](https://github.com/andreijiroh-dev/personal-launchpad/issues/4) in [andreijiroh-dev/personal-launchpad](https://github.com/andreijiroh-dev/personal-launchpad)
+3. 🗣 Commented on [#2529](https://github.com/upciti/wakemeops/issues/2529) in [upciti/wakemeops](https://github.com/upciti/wakemeops)
+4. ❗️ Closed issue [#2529](https://github.com/upciti/wakemeops/issues/2529) in [upciti/wakemeops](https://github.com/upciti/wakemeops)
+5. 🗣 Commented on [#1](https://github.com/recaptime-dev/proxyparty-caddy/issues/1) in [recaptime-dev/proxyparty-caddy](https://github.com/recaptime-dev/proxyparty-caddy)
 <!--END_SECTION:activity-->
 
 
