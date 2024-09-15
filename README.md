@@ -105,10 +105,10 @@ Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/andreijiroh-dev/infra-status/issues/1) in [andreijiroh-dev/infra-status](https://github.com/andreijiroh-dev/infra-status)
-2. ❗️ Opened issue [#1](https://github.com/andreijiroh-dev/infra-status/issues/1) in [andreijiroh-dev/infra-status](https://github.com/andreijiroh-dev/infra-status)
-3. 🗣 Commented on [#479](https://github.com/microsoft/dev-tunnels/issues/479) in [microsoft/dev-tunnels](https://github.com/microsoft/dev-tunnels)
-4. ❗️ Closed issue [#479](https://github.com/microsoft/dev-tunnels/issues/479) in [microsoft/dev-tunnels](https://github.com/microsoft/dev-tunnels)
-5. ❗️ Opened issue [#479](https://github.com/microsoft/dev-tunnels/issues/479) in [microsoft/dev-tunnels](https://github.com/microsoft/dev-tunnels)
+2. 🗣 Commented on [#1](https://github.com/andreijiroh-dev/infra-status/issues/1) in [andreijiroh-dev/infra-status](https://github.com/andreijiroh-dev/infra-status)
+3. ❗️ Opened issue [#1](https://github.com/andreijiroh-dev/infra-status/issues/1) in [andreijiroh-dev/infra-status](https://github.com/andreijiroh-dev/infra-status)
+4. 🗣 Commented on [#479](https://github.com/microsoft/dev-tunnels/issues/479) in [microsoft/dev-tunnels](https://github.com/microsoft/dev-tunnels)
+5. ❗️ Closed issue [#479](https://github.com/microsoft/dev-tunnels/issues/479) in [microsoft/dev-tunnels](https://github.com/microsoft/dev-tunnels)
 <!--END_SECTION:activity-->
 
 
