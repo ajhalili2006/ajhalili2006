@@ -104,11 +104,11 @@ Stats are generated from my personal repos and may not reflect real usage.
 Recent GitHub activity pulled through an CI in an nutshell
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/andreijiroh-dev/personal-launchpad/issues/4) in [andreijiroh-dev/personal-launchpad](https://github.com/andreijiroh-dev/personal-launchpad)
-2. 🗣 Commented on [#78](https://github.com/hackclub/nest/issues/78) in [hackclub/nest](https://github.com/hackclub/nest)
+1. ❗️ Opened issue [#1](https://github.com/lorebooks-wiki/meta/issues/1) in [lorebooks-wiki/meta](https://github.com/lorebooks-wiki/meta)
+2. 🗣 Commented on [#4](https://github.com/andreijiroh-dev/personal-launchpad/issues/4) in [andreijiroh-dev/personal-launchpad](https://github.com/andreijiroh-dev/personal-launchpad)
 3. 🗣 Commented on [#78](https://github.com/hackclub/nest/issues/78) in [hackclub/nest](https://github.com/hackclub/nest)
-4. ❗️ Closed issue [#1](https://github.com/andreijiroh-dev/infra-status/issues/1) in [andreijiroh-dev/infra-status](https://github.com/andreijiroh-dev/infra-status)
-5. 🗣 Commented on [#1](https://github.com/andreijiroh-dev/infra-status/issues/1) in [andreijiroh-dev/infra-status](https://github.com/andreijiroh-dev/infra-status)
+4. 🗣 Commented on [#78](https://github.com/hackclub/nest/issues/78) in [hackclub/nest](https://github.com/hackclub/nest)
+5. ❗️ Closed issue [#1](https://github.com/andreijiroh-dev/infra-status/issues/1) in [andreijiroh-dev/infra-status](https://github.com/andreijiroh-dev/infra-status)
 <!--END_SECTION:activity-->
 
 
