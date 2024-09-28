@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="942" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="925" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -210,7 +210,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 9 commits)</small>
+                    <small class="h-details">(computed from last 10 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -248,6 +248,35 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">andreijiroh-dev/infra</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5083cfe</div>
+                                        <div class="message">
+                                            chore(dns):
+                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                            sync DNS records (manually) with Cloudflare dashboard
+
+Also in this commit, I am addding a Tailscale domain ownership challenge record
+to migrate my personal tailnet from andreijiroh.xyz to andreijiroh.dev.
+
+Signed-off-by: Andrei Jiroh Halili &lt;ajhalili2006@andreijiroh.xyz&gt;
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -342,38 +371,6 @@ Signed-off-by: Andrei Jiroh Halili (RecapTime.dev) &lt;ajhalili2006@crew.recapti
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">recaptime-dev/infraops</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#280a8a3</div>
-                                        <div class="message">chore(railway): setup dockerfiles for Authentik instance
-
-Signed-off-by: Andrei Jiroh Halili (RecapTime.dev) &lt;ajhalili2006@crew.recaptime.dev&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11b60e9</div>
-                                        <div class="message">
-                                            chore(global):
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                            update issue template files
-
-Signed-off-by: Andrei Jiroh Halili (RecapTime.dev) &lt;ajhalili2006@crew.recaptime.dev&gt;
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -392,7 +389,7 @@ Signed-off-by: Andrei Jiroh Halili (RecapTime.dev) &lt;ajhalili2006@crew.recapti
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Sept 2024, 17:22:21 (timezone Asia/Manila) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 28 Sept 2024, 20:35:42 (timezone Asia/Manila) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
