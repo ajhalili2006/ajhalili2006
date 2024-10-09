@@ -28,6 +28,7 @@ jobs:
           # Options
           user: ajhalili2006
           template: classic
+          filename: static/github-metrics/meta.svg
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_octicon: yes
@@ -45,10 +46,6 @@ jobs:
           plugin_habits_from: 50
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
-          plugin_tweets: yes
-          plugin_tweets_limit: 2
-          plugin_tweets_user: Kuys_Potpot
-          plugin_tweets_token: ${{secrets.TWITTER_BEARER_TOKEN}}
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
@@ -57,6 +54,3 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: current
-          plugin_music_provider: spotify
-          plugin_music_token: ${{secrets.SPOTIFY_API_TOKEN}}
-          plugin_music_mode: recent
