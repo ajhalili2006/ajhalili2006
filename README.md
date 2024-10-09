@@ -1,124 +1,56 @@
-# Hello, world! 👋
+# Hello there 👋, I'm Andrei Jiroh (he/they)
 
-> I may be slow to respond to emails and issues since I'm busy at mostly school and personal projects stuff, plus some work at Recap Time Squad (not an company)
-> and other family chores, so please send thoughts and prayers to my mental health and sanity at <shitfuckery@bullshit.hq>.[^1] Also please be reminded that most of the repositories here are just
-> mirrors. For up-to-date commits and stuff, see [my mau.dev](https://mau.dev/ajhalili2006) and [sourcehut](https://sr.ht/~ajhalili2006) profile.
+![Profile views](https://komarev.com/ghpvc/?username=ajhalili2006&label=profile+views&color=yellow&style=flat-square)
+[![Hack Club](https://badges.api.lorebooks.wiki/badges/hackclub/hackclub?style=flat-square)](https://hackclub.com)
 
-[![Profile views](https://gpvc.arturio.dev/AJHalili2006)](https://github.com/arturssmirnovs/github-profile-views-counter?ref=ajhalili2006-readme-profile)
+Open source developer and [SABDFL] at [Recap Time Squad], mostly doing backend dev in Node.js and Deno.
+Also contributor to other projects, especially [Alpine Linux package maintainer] for [GitHub CLI],
+[Hack Clubber] since [Arcade 2024] (and future alumi?)
 
-![README Banner](./static/readme-banner-2022.png)
+There's more over at [my website](https://andreijiroh.dev) and [you can find me at my socials](https://links.andreijiroh.dev) if this profile README is not enough.
 
-I'm Andrei Jiroh, an Filipino 17-year old junior high school student at day and web developer (Node.js and Deno) at
-[Recap Time Squad](https://gitlab.com/RecapTime) (not an company) and Linux sysadmin-slash-resident Bash script kiddie on personal projects.
+## what's cooking now + quick links
 
-## Where to find me elsewhere
+- 🔭 I’m currently working on [open.lorebooks.wiki](https://github.com/lorebooks-wiki/interwiki-redirects),
+the interwiki redirector service of Community Lorebooks, and more for [Low Skies]
+- 🌱 I’m currently learning **backend + frontend development in Node.js and Deno, using Postgres + SQLite, DevSecOps with GitHub Actions and GitLab CI/CI**
+- 👯 I’m looking to collaborate on [all things Recap Time Squad and Community Lorebooks](https://recaptime.dev/team)
+- 🤝 I’m looking for help with [the Awesome Community list](https://github.com/awesome-neurodiversity/awesome-neurodiversity) for more neurodiversity-related resources
+- 👨‍💻 All of my projects are available at [my portfolio](https://go.andreijiroh.dev/portfolio)
+- 📝 I regularly write articles on [https://blog.andreijiroh.dev](https://blog.andreijiroh.dev)
+- 💬 Ask me about **being autistic while Filipino, all things documentation (I love reading docs) and disability + intersectionality**
+- 📫 How to reach me: [`[username] at andreijiroh dot dev`](mailto:ajhalili2006@andreijiroh.dev) or [via my contact page](https://andreijiroh.dev/contact)
+- [📄 Know about my experiences](https://go.andreijiroh.dev/resume)
 
-> **Warning**: The list may go longer or out-of-date and shouldn't be relied upon, so check out my [start.page](https://ajhalili2006.start.page) instead.
+## tools and languages
 
-[![GitLab SaaS](https://img.shields.io/badge/%40ajhalili2006%40gitlab.com-6E49CB?&style=for-the-badge&logo=gitlab)](https://gitlab.com/ajhalili2006)
-[![mau.dev](https://img.shields.io/badge/%40ajhalili2006%40mau.dev-6E49CB?&style=for-the-badge&logo=gitlab)](https://mau.dev/ajhalili2006)
-[![GitHub](https://img.shields.io/github/followers/ajhalili2006?label=%40ajhalili2006%40github.com&logo=github&style=for-the-badge)](https://github.com/ajhalili2006)
-[![sr.ht](https://img.shields.io/badge/sr.ht-~ajhalili2006-black?style=for-the-badge)](https://sr.ht/~ajhalili2006)
-[![Twitter](https://img.shields.io/twitter/follow/ajhalili2006?color=blue&label=%40ajhalili2006%40twitter.com&logo=twitter&style=for-the-badge)](https://twitter.com/ajhalili2006)
-[![Reddit](https://img.shields.io/reddit/user-karma/combined/andreihalili?label=andreihalili&logo=reddit&style=for-the-badge)](https://reddit.com/andreihalili)
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/108807402634952369?color=blue&domain=https%3A%2F%2Ftilde.zone&label=%40ajhalili2006%40tilde.zone&logo=mastodon&style=for-the-badge)](https://tilde.zone/@ajhalili2006)
-[![Substack](https://img.shields.io/badge/%40ajhalili2006%20on%20substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@ajhalili2006)
-[![Telegram](https://img.shields.io/badge/Telegram-grey?&style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/ajhalili2006)
-[![Matrix](https://img.shields.io/badge/%40ajhalili2006:envs.net-black?&style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@ajhalili2006:envs.net)
-[![Keybase](https://img.shields.io/badge/ajhalili2006-grey?&style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/ajhalili2006)
-[![Discord](https://img.shields.io/badge/Discord-5539cc?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kf5nz4X)
+- **coding/software dev**: [Node.js](https://nodejs.dev) and [Deno](https://deno.com) (technically a mix of JavaScript and TypeScript)
+- **editors**: [VS Code](https://vscode.dev), nano
+- **linux distros**: currently daily-driving [Arch], also [Alpine], [Debian]
 
-Have any questions about me? I complied [an FAQ](https://ajhalili2006.page.link/personal-faq) for you listing most questions about me,
-maybe in the future. For anything related to Recap Time, visit [our contact page](https://recaptime.eu.org/contact).
+## metrics
 
-## Languages and Tools I use
+_note: meta metrics may contain private contributions, don't be surprised if I leak something here_
 
-![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?&style=for-the-badge&logo=windowsterminal)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?&style=for-the-badge&logo=visualstudiocode)
-![Git](https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logoColor=white&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=github)
-![Node.js](https://img.shields.io/badge/Node.js-339933?&style=for-the-badge&logo=node.js&logoColor=white)
-![Gatsby](https://img.shields.io/badge/Gatsby-663399?&style=for-the-badge&logo=gatsby)
-![Python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logoColor=white&logo=python)
+![meta metrics](./static/github-metrics/meta.svg)
 
-## My Projects
+### even more stats
 
----
+![github: top languages](https://github-readme-stats.vercel.app/api/top-langs?username=ajhalili2006&show_icons=true&theme=dark&locale=en&layout=compact)
 
-## RSS feeds on personal websites
+![github: activity stats](https://github-readme-stats.vercel.app/api?username=ajhalili2006&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en)
 
-An feed on personal websites and stuff, showing five latest entries from their own RSS feed.
+![github streaks](https://github-readme-streak-stats.herokuapp.com/?user=ajhalili2006&theme=dark)
 
-### Personal blog (now on Substack)
+![github: profile trophy](https://github-profile-trophy.vercel.app/?username=ajhalili2006)
 
-<!-- SUBSTACK:START -->
-- [May to July 2023 Status Update](https://ajhalili2006.substack.com/p/status-update-2023-07)
-- [March and April 2023 Status Update](https://ajhalili2006.substack.com/p/status-update-2023-04)
-- [Join me on Notes](https://ajhalili2006.substack.com/p/notes)
-- [January and Feburary 2023 Status Update](https://ajhalili2006.substack.com/p/status-update-2023-02)
-- [17th Birthday Thoughts](https://ajhalili2006.substack.com/p/birthday-thoughts-2023)
-<!-- SUBSTACK:END -->
-
-### @fromthebshq / @MFHellscapes
-
-<!-- FROMTHEBSHQ:START -->
-<!-- FROMTHEBSHQ:END -->
-
-### DevTo
-
-<!-- DEVTO:START -->
-- [Late 17th Birthday Thoughts](https://dev.to/ajhalili2006/late-17th-birthday-thoughts-2pgn)
-- [How do co-authors can sign commits, for vigilant-mode-enabled GitHub users?](https://dev.to/thepinsteam/how-do-co-authors-can-sign-commits-for-vigilant-mode-enabled-github-users-52h2)
-- [Introducing Recap Time](https://dev.to/recaptime-dev/introducing-recap-time-4acb)
-- [Team Updates — New Twitch channels and more &lpar;oh my!&rpar;](https://dev.to/thepinsteam/team-updates-new-twitch-channels-and-more-oh-my-bc6)
-- [Handling requests to delete their account &amp; move to the @ghost account for self-hosted Dev.to instances](https://dev.to/thepinsteam/handling-requests-to-delete-their-account-move-to-the-ghost-account-for-self-hosted-dev-to-instances-5hd9)
-<!-- DEVTO:END -->
-
-## My stats and activity stuff
-
-<details>
-
- <summary>Hidden due to space reasons, click here to expand.</summary>
-
-### LIfetime GH Activity
-
-[![Andrei Jiroh's stats](https://gh-readme-stats-thepinsteam.vercel.app/api?username=ajhalili2006&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### Speedrun Streak Stats
-
-![Spreedrun Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ajhalili2006&theme=dark)
-
-### Activity Achivements
-
-![Achivements](https://github-profile-trophy.vercel.app/?username=ajhalili2006)
-
-### Top Languages Used
-
-Stats are generated from my personal repos and may not reflect real usage.
-
-[![Top Langs](https://gh-readme-stats-thepinsteam.vercel.app/api/top-langs/?username=ajhalili2006&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### Latest GitHub Activity
-
-Recent GitHub activity pulled through an CI in an nutshell
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/lorebooks-wiki/meta/issues/1) in [lorebooks-wiki/meta](https://github.com/lorebooks-wiki/meta)
-2. 🗣 Commented on [#4](https://github.com/andreijiroh-dev/personal-launchpad/issues/4) in [andreijiroh-dev/personal-launchpad](https://github.com/andreijiroh-dev/personal-launchpad)
-3. 🗣 Commented on [#78](https://github.com/hackclub/nest/issues/78) in [hackclub/nest](https://github.com/hackclub/nest)
-4. 🗣 Commented on [#78](https://github.com/hackclub/nest/issues/78) in [hackclub/nest](https://github.com/hackclub/nest)
-5. ❗️ Closed issue [#1](https://github.com/andreijiroh-dev/infra-status/issues/1) in [andreijiroh-dev/infra-status](https://github.com/andreijiroh-dev/infra-status)
-<!--END_SECTION:activity-->
-
-
-### Screen Time as an Dev
-
-I'm usually do coding whenever my other self (aka my mind) wants to, or if during the school year, probably on my free time. May not up-to-date as
-Gitpod and GitHub Codespaces don't preserve `/home` directories on workspace restarts. Wakatime stats include my coding activity data since April 13, 2021.
-
-[![Wakatime Stuff](https://gh-readme-stats-thepinsteam.vercel.app/api/wakatime?username=ajhalili2006)](https://wakatime.com/ajhalili2006)
-
-</details>
-
-[^1]: Email address doesn't work? See <https://github.com/ajhalili2006/ajhalili2006/blob/ajhalili2006/main/docs/vocabulary/shitfuckery-at-bullshit-dot-hq.md> why.
+[Recap Time Squad]: https://recaptime.dev
+[SABDFL]: https://wiki.andreijiroh.dev/garden/autistic-glossary/sabdfl
+[Alpine Linux package maintainer]: https://gitlab.alpinelinux.org/alpine/aports
+[GitHub CLI]: https://cli.github.com
+[Hack Clubber]: https://hackclub.com/slack
+[Arcade 2024]: https://hackclub.com/arcade
+[Alpine]: https://alpinelinux.org
+[Debian]: https://debian.org
+[Arch]: https://archlinux.org
+[Low Skies]: https://low-skies.hackclub.com
