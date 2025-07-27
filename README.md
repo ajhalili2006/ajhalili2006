@@ -4,21 +4,23 @@
 [![Hack Club](https://badges.api.lorebooks.wiki/badges/hackclub/hackclub?style=flat-square)](https://hackclub.com)
 
 Open source developer and [SABDFL] Autistic Filipino at [Recap Time Squad], mostly doing backend dev in Node.js and Deno,
-alongside running the [Community Lorebooks] subdomain service and documentation-related projects.
-Also contributor to other projects, especially [Alpine Linux package maintainer] for [GitHub CLI],
-and a [Hack Clubber] since [Arcade]. Currently full-time student pursuing Technical-Vocational-Livelihood
-track - Computer Systems Servicing strand in senior high school and BS IT soon on college.
+alongside running the [Community Lorebooks] subdomain service and documentation-related projects. Also a contributor to other
+projects, especially [Alpine Linux package maintainer] for [GitHub CLI], and a [Hack Clubber] since [Arcade] (alumni since my
+senior high school graduation in April 2025). Currently a full-time student pursuing a Bachelor of Science in IT at [STI College]
+in Meycauayan City, Bulacan.
 
 There's more over at [my website] and [you can find me at my socials][links] if this profile README is not enough.
 
 ## what's cooking now + quick links
 
-- 🔭 I’m currently working on different projects for [High Seas], both personal and those at RecapTime.dev.
-- 🌱 I’m currently learning backend + frontend development in Node.js and Deno, using Postgres + SQLite, DevSecOps with GitHub Actions and GitLab CI/CI
-- 👯 I’m looking to collaborate on all things open-source (join [Recap Time Squad](https://recaptime.dev/team/join) by the way, we're looking for more team members)
-- 🤝 I’m looking for help with [the Awesome Neurodiversity list][awesomend] for more neurodiversity-related resources
+- 🔭 I’m currently working on different projects behind the scenes, both personal and those at RecapTime.dev. (most are publicly viewable)
+- 🌱 I’m currently learning backend development in TypeScript across Node.js and Deno runtimes, using Postgres + SQLite, DevSecOps with GitHub
+Actions and GitLab CI
+- 👯 I’m looking to collaborate on all things open-source (join [Recap Time Squad](https://recaptime.dev/team/join) by the way, we're looking for
+more team members and contributors/maintainers)
+- 🤝 I’m looking for help with [the Awesome Neurodiversity list][awesomend] for more neurodiversity-related resources in an Awesome list
 - 👨‍💻 All of my projects are available at [my portfolio](https://go.andreijiroh.dev/portfolio)
-- 📝 I regularly write articles on [Ghost](https://blog.andreijiroh.dev)
+- 📝 I regularly blog on [my self-hosted Ghost instance](https://blog.andreijiroh.dev), powered by [Nest]
 - 💬 Ask me about being autistic while Filipino, all things documentation (I love reading docs), and disability + intersectionality
 - 📫 How to reach me: [`[username] at andreijiroh dot dev`](mailto:ajhalili2006@andreijiroh.dev) or [via my contact page](https://andreijiroh.dev/contact)
 - [📄 Sneak around my resume](https://go.andreijiroh.dev/resume)
@@ -37,15 +39,13 @@ _note: meta metrics for my GitHub activity may contain private contributions, do
 
 ### even more stats
 
-**top languages**:
+### top languages:
 ![github: top languages](https://github-readme-stats.vercel.app/api/top-langs?username=ajhalili2006&show_icons=true&theme=dark&locale=en&layout=compact)
 
-**activity stats**:
-
+### activity stats
 ![github: activity stats](https://github-readme-stats.vercel.app/api?username=ajhalili2006&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en)
 
-**github profile trophies**
-
+### github profile trophies
 ![github: profile trophy](https://github-profile-trophy.vercel.app/?username=ajhalili2006)
 
 ---
@@ -64,3 +64,5 @@ _note: meta metrics for my GitHub activity may contain private contributions, do
 [High Seas]: https://highseas.hackclub.com
 [links]: https://andreijiroh.dev
 [awesomend]: https://github.com/awesome-neurodiversity/awesome-neurodiversity
+[STI College]: https://sti.edu
+[Nest]: https://hackclub.app
